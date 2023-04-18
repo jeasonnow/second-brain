@@ -15,7 +15,6 @@
   "obsidian-image-auto-upload-plugin",
   "novel-word-count",
   "smart-connections",
-  "chronology",
   "obsidian-plugin-update-tracker",
   "obsidian-pangu",
   "table-editor-obsidian",
@@ -30,5 +29,7 @@
   "obsidian-minimal-settings",
   "obsidian-annotator",
   "obsidian-douban-plugin",
-  "obsidian-git"
+  "obsidian-git",
+  "calendar",
+  "obsidian-reminder-plugin"
 ]

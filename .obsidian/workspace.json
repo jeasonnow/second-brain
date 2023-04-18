@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Calendar/Daily notes/2023-04-18.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -191,14 +191,6 @@
             }
           },
           {
-            "id": "ea32fa822437f97d",
-            "type": "leaf",
-            "state": {
-              "type": "chronology-calendar-view",
-              "state": {}
-            }
-          },
-          {
             "id": "be619891bff571c5",
             "type": "leaf",
             "state": {
@@ -213,6 +205,22 @@
               "type": "smart-connections-chat-view",
               "state": {}
             }
+          },
+          {
+            "id": "27399973666d13f7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "ac8f603adbce05ad",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
           }
         ],
         "currentTab": 3
@@ -225,7 +233,6 @@
     "hiddenItems": {
       "file-tree-alternative:File Tree Alternative Plugin": false,
       "obsidian-weread-plugin:Weread": false,
-      "digitalgarden:Digital Garden Publication Center": false,
       "daily-notes:打开/创建今天的日记": false,
       "switcher:打开快速切换": false,
       "canvas:新建白板": false,
@@ -235,10 +242,10 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "bfc1b11548718900",
+  "active": "ab365fd0a65fced5",
   "lastOpenFiles": [
-    "未命名.canvas",
     "Calendar/Daily notes/2023-04-18.md",
+    "未命名.canvas",
     "Calendar/Daily notes/Daily notes归档/2022/2022-03-12.md",
     "Calendar/Daily notes/Daily notes归档/2022/2022-03-11.md",
     "Sources/Books/微信读书同步/政治军事/毛泽东选集（全四卷）-.md",
@@ -290,7 +297,6 @@
     "Atlas/Canvas/🧩 如何做读书笔记.canvas",
     "Atlas/Canvas/🧩 白板canvas-示意图.canvas",
     "Spaces/2-Area/个人职业生涯/远程面试 共享桌面 演示流程.canvas",
-    "Atlas/Canvas/canvas尝试当做ppt的可行性.canvas",
     "Atlas/Draws/白板 2023-03-11.dark.svg",
     "Atlas/Draws/白板 2023-03-11.light.svg"
   ]
