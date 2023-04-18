@@ -13,7 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calendar/Daily notes/2023-04-18.md",
+                "file": "Sources/Books/微信读书同步/个人成长/异类-马尔科姆·格拉德威尔.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "2238bfbaee59c95f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c24aab3cbacf78f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sources/Books/微信读书同步/个人成长/逆转：弱者如何找到优势，反败为胜-马尔科姆·格拉德威尔.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -100,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calendar/Daily notes/2023-04-18.md"
+                "file": "Sources/Books/微信读书同步/个人成长/逆转：弱者如何找到优势，反败为胜-马尔科姆·格拉德威尔.md"
               }
             }
           },
@@ -110,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calendar/Daily notes/2023-04-18.md",
+                "file": "Sources/Books/微信读书同步/个人成长/逆转：弱者如何找到优势，反败为胜-马尔科姆·格拉德威尔.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +141,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Calendar/Daily notes/2023-04-18.md",
+                "file": "Sources/Books/微信读书同步/个人成长/逆转：弱者如何找到优势，反败为胜-马尔科姆·格拉德威尔.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -157,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calendar/Daily notes/2023-04-18.md",
+                "file": "Sources/Books/微信读书同步/个人成长/逆转：弱者如何找到优势，反败为胜-马尔科姆·格拉德威尔.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,22 +210,6 @@
             }
           },
           {
-            "id": "be619891bff571c5",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "bfc1b11548718900",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {}
-            }
-          },
-          {
             "id": "27399973666d13f7",
             "type": "leaf",
             "state": {
@@ -221,9 +224,25 @@
               "type": "reminder-list",
               "state": {}
             }
+          },
+          {
+            "id": "1b8166200a350de2",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "ca7bf0ac71fd6d24",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -231,19 +250,21 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "file-tree-alternative:File Tree Alternative Plugin": false,
-      "obsidian-weread-plugin:Weread": false,
       "daily-notes:打开/创建今天的日记": false,
       "switcher:打开快速切换": false,
       "canvas:新建白板": false,
       "graph:查看关系图谱": false,
       "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false,
       "obsidian-spaced-repetition:复习卡片": false,
-      "workspaces:管理工作区布局": false
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "obsidian-weread-plugin:Weread": false
     }
   },
-  "active": "ab365fd0a65fced5",
+  "active": "c24aab3cbacf78f6",
   "lastOpenFiles": [
+    "Sources/Books/微信读书同步/个人成长/跃迁：成为高手的技术（附赠高手秘籍和时间管理秘籍）-古典.md",
+    "Sources/Books/微信读书同步/个人成长/异类-马尔科姆·格拉德威尔.md",
     "Calendar/Daily notes/2023-04-18.md",
     "未命名.canvas",
     "Calendar/Daily notes/Daily notes归档/2022/2022-03-12.md",
@@ -252,13 +273,11 @@
     "Sources/Books/微信读书同步/个人成长/逆转：弱者如何找到优势，反败为胜-马尔科姆·格拉德威尔.md",
     "Sources/Books/微信读书同步/计算机/领域驱动设计（Thoughtworks洞见）-ThoughtWorks中国.md",
     "Sources/Books/微信读书同步/经济理财/重来：更为简单有效的商业思维-贾森·弗里德 戴维·海涅迈尔·汉森.md",
-    "Sources/Books/微信读书同步/个人成长/异类-马尔科姆·格拉德威尔.md",
     "Sources/Books/微信读书同步/经济理财/债务危机-瑞·达利欧.md",
     "Sources/Books/微信读书同步/科学技术/天真的人类学家-奈吉尔·巴利.md",
     "Sources/Books/微信读书同步/科学技术",
     "Sources/Books/微信读书同步/计算机/软技能2：软件开发者职业生涯指南-约翰·森梅兹.md",
     "Sources/Books/微信读书同步/计算机/程序员修炼之道：从小工到专家-Andrew Hunt David Thomas.md",
-    "Sources/Books/微信读书同步/个人成长/跃迁：成为高手的技术（附赠高手秘籍和时间管理秘籍）-古典.md",
     "Sources/Books/微信读书同步/经济理财/巴菲特之道（原书第3版）-罗伯特·哈格斯特朗.md",
     "Sources/Books/微信读书同步/社会文化/乡土中国-费孝通.md",
     "Sources/Books/微信读书同步/社会文化",
