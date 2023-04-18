@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "83b6db6f5b7d2f7e",
+            "id": "ab365fd0a65fced5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/3-Resource/效率工具与服务专题/AI工具的使用/Midjourney - AI绘图.md",
+                "file": "Calendar/Daily notes/2023-04-18.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "久坐",
+                "query": "35.77.211.36",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,8 +77,17 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "e87502c2c7c757f2",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "92910ae8836a7b22",
@@ -91,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/3-Resource/效率工具与服务专题/AI工具的使用/Midjourney - AI绘图.md"
+                "file": "Calendar/Daily notes/2023-04-18.md"
               }
             }
           },
@@ -101,9 +110,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/3-Resource/效率工具与服务专题/AI工具的使用/Midjourney - AI绘图.md",
+                "file": "Calendar/Daily notes/2023-04-18.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -113,7 +122,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Spaces/3-Resource/效率工具与服务专题/AI工具的使用/Midjourney - AI绘图.md",
+                "file": "Calendar/Daily notes/2023-04-18.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,9 +157,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/3-Resource/效率工具与服务专题/AI工具的使用/Midjourney - AI绘图.md",
+                "file": "Calendar/Daily notes/2023-04-18.md",
                 "collapseAll": false,
-                "extraContext": true,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -163,80 +172,123 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5
+    "width": 336.5
   },
   "right": {
     "id": "c718ea3b78af998f",
     "type": "split",
-    "children": [],
+    "children": [
+      {
+        "id": "ac5865f1b9a84921",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2593231eedcbd9d",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "ea32fa822437f97d",
+            "type": "leaf",
+            "state": {
+              "type": "chronology-calendar-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "be619891bff571c5",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "bfc1b11548718900",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
     "direction": "horizontal",
-    "width": 386.5,
-    "collapsed": true
+    "width": 386.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "obsidian-weread-plugin:Weread": false,
+      "digitalgarden:Digital Garden Publication Center": false,
       "daily-notes:打开/创建今天的日记": false,
       "switcher:打开快速切换": false,
       "canvas:新建白板": false,
       "graph:查看关系图谱": false,
       "command-palette:打开命令面板": false,
+      "obsidian-spaced-repetition:复习卡片": false,
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "83b6db6f5b7d2f7e",
+  "active": "bfc1b11548718900",
   "lastOpenFiles": [
-    "Calendar/Daily notes/Daily notes归档/2022/2022-03-19.md",
-    "🍀 花园导览/🤖 如何用好AIGC工具.md",
-    "🍀 花园导览/🧀 个人知识管理.md",
-    "README.md",
-    "Spaces/3-Resource/效率工具与服务专题/AI工具的使用/midjouney 令人惊艳的地方.md",
-    "Calendar/Daily notes/2023-04-12.md",
-    "Spaces/3-Resource/效率工具与服务专题/AI工具的使用/Midjourney - AI绘图.md",
-    "Calendar/Daily notes/Daily notes归档/2023-03-05.md",
-    "Cards/永久笔记/阿里云-云原生-ACA认证-笔记.md",
-    "Calendar/Daily notes/2023-04-10.md",
-    "Calendar/Daily notes/Daily notes归档/2023-04-09.md",
-    "Calendar/Daily notes/Daily notes归档/2023-04-04.md",
-    "Calendar/Daily notes/Daily notes归档/2023-04-05.md",
-    "Cards/永久笔记/chatgpt 超长对话的技巧.md",
-    "Calendar/Daily notes/Daily notes归档/2023-04-01.md",
-    "Calendar/Daily notes/Daily notes归档/2023-03-31.md",
-    "Cards/永久笔记/Obsidian 不适合做什么以及其补足配合的软件.md",
-    "Calendar/Daily notes/Daily notes归档/2023-03-28.md",
-    "Calendar/Daily notes/Daily notes归档/2023-03-25.md",
-    "Calendar/Daily notes/Daily notes归档/2023-03-26.md",
-    "Calendar/Daily notes/Daily notes归档/2023-03-22.md",
-    "Calendar/Daily notes/Daily notes归档/2023-03-21.md",
-    "Calendar/Daily notes/Daily notes归档/2023-03-20.md",
-    "Calendar/Daily notes/Daily notes归档/2023-03-19.md",
-    "Cards/永久笔记/notion database 如何批量复制粘贴数据.md",
-    "Cards/永久笔记/Super.so.md",
+    "未命名.canvas",
+    "Calendar/Daily notes/2023-04-18.md",
+    "Calendar/Daily notes/Daily notes归档/2022/2022-03-12.md",
+    "Calendar/Daily notes/Daily notes归档/2022/2022-03-11.md",
+    "Sources/Books/微信读书同步/政治军事/毛泽东选集（全四卷）-.md",
+    "Sources/Books/微信读书同步/个人成长/逆转：弱者如何找到优势，反败为胜-马尔科姆·格拉德威尔.md",
+    "Sources/Books/微信读书同步/计算机/领域驱动设计（Thoughtworks洞见）-ThoughtWorks中国.md",
+    "Sources/Books/微信读书同步/经济理财/重来：更为简单有效的商业思维-贾森·弗里德 戴维·海涅迈尔·汉森.md",
+    "Sources/Books/微信读书同步/个人成长/异类-马尔科姆·格拉德威尔.md",
+    "Sources/Books/微信读书同步/经济理财/债务危机-瑞·达利欧.md",
+    "Sources/Books/微信读书同步/科学技术/天真的人类学家-奈吉尔·巴利.md",
+    "Sources/Books/微信读书同步/科学技术",
+    "Sources/Books/微信读书同步/计算机/软技能2：软件开发者职业生涯指南-约翰·森梅兹.md",
+    "Sources/Books/微信读书同步/计算机/程序员修炼之道：从小工到专家-Andrew Hunt David Thomas.md",
+    "Sources/Books/微信读书同步/个人成长/跃迁：成为高手的技术（附赠高手秘籍和时间管理秘籍）-古典.md",
+    "Sources/Books/微信读书同步/经济理财/巴菲特之道（原书第3版）-罗伯特·哈格斯特朗.md",
+    "Sources/Books/微信读书同步/社会文化/乡土中国-费孝通.md",
+    "Sources/Books/微信读书同步/社会文化",
+    "Sources/Books/微信读书同步/艺术/欧美流行音乐简史-尤静波.md",
+    "Sources/Books/微信读书同步/艺术",
+    "Sources/Books/微信读书同步/教育学习/如何阅读一本书-莫提默·艾德勒 查尔斯·范多伦.md",
+    "Sources/Books/微信读书同步/教育学习",
+    "Sources/Books/微信读书同步/政治军事",
+    "Sources/Books/微信读书同步/经济理财/置身事内：中国政府与经济发展-兰小欢.md",
+    "Sources/Books/微信读书同步/哲学宗教/资本论（超值白金版）-马克思.md",
+    "Sources/Books/微信读书同步/哲学宗教/哲学家们都干了些什么？ （修订版）-林欣浩.md",
+    "Sources/Books/微信读书同步/哲学宗教/查拉图斯特拉如是说-尼采.md",
+    "Sources/Books/微信读书同步/哲学宗教",
+    "Sources/Books/微信读书同步/经济理财/组织的逻辑-丛龙峰.md",
+    "Sources/Books/微信读书同步/计算机/性能之巅：洞悉系统、企业与云计算-布兰登·格雷格.md",
+    "Sources/Books/微信读书同步/计算机",
+    "Sources/Books/微信读书同步/经济理财/纳瓦尔宝典-埃里克·乔根森.md",
+    "Sources/Books/微信读书同步/经济理财",
+    "Sources/Books/微信读书同步/个人成长",
+    "Spaces/3-Resource/效率工具与服务专题/Obsidian插件使用/Weread Plugin.md",
     "Extras/Media/ChatGPT高质量prompt技巧分享.pdf",
-    "Untitled.table",
     "Atlas/Canvas/🧩 2022年，我用3个app达成的3个小成就.canvas",
     "Atlas/Canvas/🧩 DevOps成长路线图.canvas",
-    "Extras/Media/【极客时间】李佳芮：ChatGPT 从0到1.pdf",
     "Extras/Media/Pasted image 20230305120820.png",
     "Extras/Media/Pasted image 20230305122456.png",
     "Extras/Media/Pasted image 20230312131834.png",
     "Extras/Media/Pasted image 20230317221306.png",
     "Extras/Media/Pasted image 20230329192147.png",
     "Extras/Media/Screenshot_2022-11-20-18-40-36-52_d138286dbdf585e65d8870f8ad4cb89b.jpg",
-    "Extras/Media/2022年元宇宙Meta知识精选笔记分享-2022.pdf",
     "Extras/Media/16799226083092.png",
     "Extras/Media/1679922749389.jpg",
     "Atlas/Canvas/🧩 如何学会减脂和健身.canvas",
     "Atlas/Canvas/🧩 canvas 嵌入高级视图使用示例.canvas",
     "Atlas/Canvas/🧩 如何构建第二大脑.canvas",
-    "Sources/Courses/AI大模型之美",
-    "Sources/Courses/Service Mesh实战",
-    "Sources/Courses/深入剖析 Kubernetes",
     "Atlas/Canvas/PPV人生管理系统.canvas",
     "Atlas/Canvas/🧩 如何做读书笔记.canvas",
     "Atlas/Canvas/🧩 白板canvas-示意图.canvas",
-    "Sources/Podcasts/Notes",
-    "Sources/Podcasts",
-    "PodNotes_Export1.opml",
     "Spaces/2-Area/个人职业生涯/远程面试 共享桌面 演示流程.canvas",
     "Atlas/Canvas/canvas尝试当做ppt的可行性.canvas",
     "Atlas/Draws/白板 2023-03-11.dark.svg",

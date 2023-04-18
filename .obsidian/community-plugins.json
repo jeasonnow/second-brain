@@ -14,8 +14,21 @@
   "obsidian-advanced-uri",
   "obsidian-image-auto-upload-plugin",
   "novel-word-count",
-  "chatgpt-md",
   "smart-connections",
   "chronology",
-  "obsidian-plugin-update-tracker"
+  "obsidian-plugin-update-tracker",
+  "obsidian-pangu",
+  "table-editor-obsidian",
+  "easy-typing-obsidian",
+  "file-tree-alternative",
+  "obsidian-weread-plugin",
+  "obsidian-sortable",
+  "obsidian-shellcommands",
+  "settings-search",
+  "obsidian-bulk-rename-plugin",
+  "workspaces-plus",
+  "obsidian-minimal-settings",
+  "obsidian-annotator",
+  "obsidian-douban-plugin",
+  "obsidian-git"
 ]
