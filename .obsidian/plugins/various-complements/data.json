@@ -53,6 +53,7 @@
     "beforeRegExp": "",
     "after": ""
   },
+  "frontMatterKeyForExclusionInternalLink": "",
   "enableFrontMatterComplement": false,
   "frontMatterComplementMatchStrategy": "inherit",
   "insertCommaAfterFrontMatterCompletion": false,
@@ -63,30 +64,6 @@
   "disableOnMobile": true,
   "showLogAboutPerformanceInConsole": false,
   "selectionHistoryTree": {
-    "人生": {
-      "人生": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1678517064981
-        }
-      }
-    },
-    "非常嫌疑犯": {
-      "非常嫌疑犯": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1678517076159
-        }
-      }
-    },
-    "VMess": {
-      "VMess": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1678615177107
-        }
-      }
-    },
     "GTD": {
       "GTD": {
         "internalLink": {
@@ -116,6 +93,14 @@
         "customDictionary": {
           "count": 2,
           "lastUpdated": 1680869772012
+        }
+      }
+    },
+    "计算机网络": {
+      "计算机网络": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1681897069534
         }
       }
     }
