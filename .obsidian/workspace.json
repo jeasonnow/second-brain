@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Spaces/Apps/Alfred.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -245,9 +245,9 @@
   },
   "active": "5b931f6045e65c8a",
   "lastOpenFiles": [
+    "Spaces/Apps/Downie.md",
     "Spaces/Apps/SizeUp.md",
     "Spaces/Apps/Alfred.md",
-    "Spaces/Apps/Downie.md",
     "Calendar/已发布文章/∑ 已发布文章.md",
     "Calendar/已发布文章/» 写文章选题管理技巧.md",
     "Calendar/已发布文章/» 写文章选题分类.md",

@@ -1,6 +1,4 @@
-
-![image.png](https://raw.githubusercontent.com/jeasonnow/pics/main/202304191828630.png)
-
+![](https://raw.githubusercontent.com/jeasonnow/pics/main/202304191828318.png)
 
 Alfred 这是一款被称之为 Mac 效率神器的 App，有了 Alfred 你甚至无需鼠标就可以实现各种操作，包括出发各种文件、网络操作，其 UI 界面使用方便，而且不是通过命令来实现，是开发者们和键盘刘童鞋们的神器，比之此前类似的软件——Pack 和 Power 来说完全是秒杀的节奏。
 
