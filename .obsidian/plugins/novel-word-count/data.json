@@ -16,6 +16,26 @@
     "pageCountType": "ByWords"
   },
   "cachedCounts": {
+    "Spaces/Apps/Alfred.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1681897963793,
+      "modifiedDate": 1681897963793
+    },
+    "Spaces/Apps/SizeUp.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 226,
+      "pageCount": 0.7533333333333333,
+      "characterCount": 362,
+      "nonWhitespaceCharacterCount": 324,
+      "createdDate": 1681897893695,
+      "modifiedDate": 1681897948316
+    },
     "Spaces/Apps/Downie.md": {
       "isDirectory": false,
       "noteCount": 1,

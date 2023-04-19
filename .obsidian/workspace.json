@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calendar/Daily notes/2023-04-18.md",
+                "file": "Spaces/Apps/Alfred.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calendar/Daily notes/2023-04-18.md"
+                "file": "Spaces/Apps/Alfred.md"
               }
             }
           },
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calendar/Daily notes/2023-04-18.md",
+                "file": "Spaces/Apps/Alfred.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Calendar/Daily notes/2023-04-18.md",
+                "file": "Spaces/Apps/Alfred.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calendar/Daily notes/2023-04-18.md",
+                "file": "Spaces/Apps/Alfred.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,13 +245,29 @@
   },
   "active": "5b931f6045e65c8a",
   "lastOpenFiles": [
+    "Spaces/Apps/SizeUp.md",
+    "Spaces/Apps/Alfred.md",
+    "Spaces/Apps/Downie.md",
+    "Calendar/已发布文章/∑ 已发布文章.md",
+    "Calendar/已发布文章/» 写文章选题管理技巧.md",
+    "Calendar/已发布文章/» 写文章选题分类.md",
+    "Calendar/Plan & Review/每周回顾/每周写工作周报就精疲力尽，因此暂时不在个人笔记库做每周回顾.md",
+    "Sources/Books/微信读书同步/经济理财/纳瓦尔宝典-埃里克·乔根森.md",
+    "Calendar/文章草稿/» 本库文章发布工作流.md",
+    "Calendar/文章草稿/» obsidian中的文章草稿到少数派上投稿，需要经历的处理步骤.md",
+    "Extras/Templates/ChatGPT_MD/templates/发散思维.md",
+    "Extras/Media/豆瓣影音封面/p689612649.jpg",
+    "Extras/Media/豆瓣影音封面/p462470694.jpg",
+    "Extras/Media/豆瓣影音封面/p456666151.jpg",
+    "Extras/Media/豆瓣影音封面/p451926968.jpg",
+    "Extras/Templates/Cards模板/Card卡片_标准模板.md",
+    "Calendar/Daily notes/2023-04-18.md",
     "Calendar/Daily notes/2023-04-19.md",
     "Sources/Videos/» 视频笔记工作流.md",
     "Sources/Videos/《人生的智慧》.md",
     "Sources/Videos/📹【罗翔】我们为什么要读书？.md",
     "Sources/Videos/📹【何同学】我做了一个自己打字的键盘....md",
     "Sources/Newsletter + RSS/∑ 订阅型期刊笔记.md",
-    "Spaces/Apps/Downie.md",
     "Sources/Newsletter + RSS/科技爱好者周刊 - 阮一峰.md",
     "Spaces/Apps",
     "Spaces/3-Resource/效率工具与服务专题/Obsidian插件使用/∑ obsidian插件.md",
@@ -260,18 +276,6 @@
     "Sources/Videos/📹视频笔记-youtube.md",
     "Sources/Videos/油猴脚本 - tempermonkey.md",
     "Sources/Newsletter + RSS/独立产品灵感周刊 DecoHack.md",
-    "Cards/关于公司内网的组织结构.md",
-    "Sources/Newsletter + RSS/好工具周刊 - BestXTools.md",
-    "Sources/Newsletter + RSS/产品沉思录 - 少楠.md",
-    "Sources/Newsletter + RSS/§ 订阅列表.md",
-    "Cards/About Cards.md",
-    "Extras/Templates/Cards模板/Card卡片_标准模板.md",
-    "Extras/Templates/∑ 模板文件创建入口.md",
-    "Extras/Templates/Cards模板/Sources&Spaces卡片_标准模板.md",
-    "Cards/闪念笔记.md",
-    "Calendar/Daily notes/2023-04-18.md",
-    "Sources/Books/微信读书同步/个人成长/逆转：弱者如何找到优势，反败为胜-马尔科姆·格拉德威尔.md",
-    "Sources/Books/微信读书同步/个人成长/跃迁：成为高手的技术（附赠高手秘籍和时间管理秘籍）-古典.md",
     "未命名.canvas",
     "Sources/Books/微信读书同步/科学技术",
     "Sources/Books/微信读书同步/社会文化",
@@ -290,16 +294,12 @@
     "Extras/Media/Pasted image 20230317221306.png",
     "Extras/Media/Pasted image 20230329192147.png",
     "Extras/Media/Screenshot_2022-11-20-18-40-36-52_d138286dbdf585e65d8870f8ad4cb89b.jpg",
-    "Extras/Media/16799226083092.png",
-    "Extras/Media/1679922749389.jpg",
     "Atlas/Canvas/🧩 如何学会减脂和健身.canvas",
     "Atlas/Canvas/🧩 canvas 嵌入高级视图使用示例.canvas",
     "Atlas/Canvas/🧩 如何构建第二大脑.canvas",
     "Atlas/Canvas/PPV人生管理系统.canvas",
     "Atlas/Canvas/🧩 如何做读书笔记.canvas",
     "Atlas/Canvas/🧩 白板canvas-示意图.canvas",
-    "Spaces/2-Area/个人职业生涯/远程面试 共享桌面 演示流程.canvas",
-    "Atlas/Draws/白板 2023-03-11.dark.svg",
-    "Atlas/Draws/白板 2023-03-11.light.svg"
+    "Spaces/2-Area/个人职业生涯/远程面试 共享桌面 演示流程.canvas"
   ]
 }
