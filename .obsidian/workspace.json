@@ -4,17 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "2238bfbaee59c95f",
+        "id": "86e9580f91a6b9f1",
         "type": "tabs",
         "children": [
           {
-            "id": "c24aab3cbacf78f6",
+            "id": "6f40aa53feb224d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calendar/Daily notes/2023-04-19.md",
+                "file": "Cards/关于公司内网的组织结构.md",
                 "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "d50fe6c8bed00a44",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c72f4852045996a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cards/关于公司内网的组织结构.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -100,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calendar/Daily notes/2023-04-19.md"
+                "file": "Cards/关于公司内网的组织结构.md"
               }
             }
           },
@@ -110,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calendar/Daily notes/2023-04-19.md",
+                "file": "Cards/关于公司内网的组织结构.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +141,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Calendar/Daily notes/2023-04-19.md",
+                "file": "Cards/关于公司内网的组织结构.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -157,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calendar/Daily notes/2023-04-19.md",
+                "file": "Cards/关于公司内网的组织结构.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -239,13 +258,20 @@
       "workspaces:管理工作区布局": false,
       "obsidian-spaced-repetition:复习卡片": false,
       "file-tree-alternative:File Tree Alternative Plugin": false,
-      "obsidian-weread-plugin:Weread": false
+      "obsidian-weread-plugin:Weread": false,
+      "templates:插入模板": false
     }
   },
-  "active": "c24aab3cbacf78f6",
+  "active": "c72f4852045996a1",
   "lastOpenFiles": [
-    "Calendar/Daily notes/2023-04-18.md",
+    "Cards/About Cards.md",
+    "Cards/关于公司内网的组织结构.md",
     "Calendar/Daily notes/2023-04-19.md",
+    "Extras/Templates/Cards模板/Card卡片_标准模板.md",
+    "Extras/Templates/∑ 模板文件创建入口.md",
+    "Extras/Templates/Cards模板/Sources&Spaces卡片_标准模板.md",
+    "Cards/闪念笔记.md",
+    "Calendar/Daily notes/2023-04-18.md",
     "Sources/Books/微信读书同步/个人成长/逆转：弱者如何找到优势，反败为胜-马尔科姆·格拉德威尔.md",
     "Sources/Books/微信读书同步/个人成长/跃迁：成为高手的技术（附赠高手秘籍和时间管理秘籍）-古典.md",
     "Sources/Books/微信读书同步/个人成长/异类-马尔科姆·格拉德威尔.md",
@@ -270,16 +296,10 @@
     "Sources/Books/微信读书同步/政治军事",
     "Sources/Books/微信读书同步/经济理财/置身事内：中国政府与经济发展-兰小欢.md",
     "Sources/Books/微信读书同步/哲学宗教/资本论（超值白金版）-马克思.md",
-    "Sources/Books/微信读书同步/哲学宗教/哲学家们都干了些什么？ （修订版）-林欣浩.md",
-    "Sources/Books/微信读书同步/哲学宗教/查拉图斯特拉如是说-尼采.md",
     "Sources/Books/微信读书同步/哲学宗教",
-    "Sources/Books/微信读书同步/经济理财/组织的逻辑-丛龙峰.md",
-    "Sources/Books/微信读书同步/计算机/性能之巅：洞悉系统、企业与云计算-布兰登·格雷格.md",
     "Sources/Books/微信读书同步/计算机",
-    "Sources/Books/微信读书同步/经济理财/纳瓦尔宝典-埃里克·乔根森.md",
     "Sources/Books/微信读书同步/经济理财",
     "Sources/Books/微信读书同步/个人成长",
-    "Spaces/3-Resource/效率工具与服务专题/Obsidian插件使用/Weread Plugin.md",
     "Extras/Media/ChatGPT高质量prompt技巧分享.pdf",
     "Atlas/Canvas/🧩 2022年，我用3个app达成的3个小成就.canvas",
     "Atlas/Canvas/🧩 DevOps成长路线图.canvas",
