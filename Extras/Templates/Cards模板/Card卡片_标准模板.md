@@ -1,6 +1,6 @@
 ---
 aliases: 
-date created: 2022-08-04
+date created: 
 date modified: 2022-08-07
 tags: 
 ---

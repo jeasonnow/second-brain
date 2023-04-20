@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AboutTheGarden.md",
+                "file": "Calendar/Daily notes/2023-04-20.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AboutTheGarden.md"
+                "file": "Calendar/Daily notes/2023-04-20.md"
               }
             }
           },
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AboutTheGarden.md",
+                "file": "Calendar/Daily notes/2023-04-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "AboutTheGarden.md",
+                "file": "Calendar/Daily notes/2023-04-20.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AboutTheGarden.md",
+                "file": "Calendar/Daily notes/2023-04-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,14 +191,6 @@
             }
           },
           {
-            "id": "27399973666d13f7",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
             "id": "ac8f603adbce05ad",
             "type": "leaf",
             "state": {
@@ -222,8 +214,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -245,6 +236,17 @@
   },
   "active": "80b5b10e6537b0df",
   "lastOpenFiles": [
+    "Cards/SOP.md",
+    "Cards/关于公司内网的组织结构.md",
+    "AboutTheGarden.md",
+    "Extras/Templates/Spaces模板/Area创建模板.md",
+    "Extras/Templates/Spaces模板/Archive创建模板.md",
+    "Extras/Templates/Sources模板/论文笔记模板.md",
+    "Extras/Templates/Calendar模板/会议相关模板/会议纪要模板.md",
+    "Extras/Templates/Calendar模板/回顾总结模板/周记模板.md",
+    "Extras/Templates/Calendar模板/回顾总结模板/月度模板.md",
+    "Extras/Templates/Cards模板/Sources&Spaces卡片_标准模板.md",
+    "Extras/Templates/Cards模板/Card卡片_标准模板.md",
     "HOMEPAGE.md",
     "∑ 本库 ACCESS 的文件夹入口汇总.md",
     "Calendar/Daily notes/2023-04-20.md",
@@ -261,22 +263,11 @@
     "Sources/Books/微信读书同步/计算机/领域驱动设计（Thoughtworks洞见）.md",
     "Sources/Books/微信读书同步/个人成长/跃迁：成为高手的技术（附赠高手秘籍和时间管理秘籍）.md",
     "Sources/Books/微信读书同步/经济理财/巴菲特之道（原书第3版）.md",
-    "Sources/Books/微信读书同步/社会文化/乡土中国.md",
     "Sources/Books/微信读书同步/社会文化",
-    "Sources/Books/微信读书同步/艺术/欧美流行音乐简史.md",
     "Sources/Books/微信读书同步/艺术",
-    "Sources/Books/微信读书同步/经济理财/重来：更为简单有效的商业思维.md",
-    "Sources/Books/微信读书同步/教育学习/如何阅读一本书.md",
     "Sources/Books/微信读书同步/教育学习",
-    "Sources/Books/微信读书同步/政治军事/毛泽东选集（全四卷）.md",
     "Sources/Books/微信读书同步/政治军事",
-    "Sources/Books/微信读书同步/经济理财/置身事内：中国政府与经济发展.md",
-    "Sources/Books/微信读书同步/哲学宗教/资本论（超值白金版）.md",
-    "Sources/Books/微信读书同步/哲学宗教/哲学家们都干了些什么？ （修订版）.md",
-    "Sources/Books/微信读书同步/经济理财/债务危机.md",
-    "Sources/Books/微信读书同步/哲学宗教/查拉图斯特拉如是说.md",
     "Sources/Books/微信读书同步/哲学宗教",
-    "Sources/Books/微信读书同步/经济理财/组织的逻辑.md",
     "Sources/Books/微信读书同步/计算机",
     "Sources/Books/微信读书同步/个人成长",
     "Sources/Books/微信读书同步/经济理财",
