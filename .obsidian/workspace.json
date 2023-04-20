@@ -11,8 +11,13 @@
             "id": "f23c402e36cc9d1a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Calendar/Daily notes/2023-04-20.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -94,7 +99,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Calendar/Daily notes/2023-04-20.md"
+              }
             }
           },
           {
@@ -103,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Calendar/Daily notes/2023-04-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,6 +122,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Calendar/Daily notes/2023-04-20.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -136,7 +145,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1,
+                  "scale": 0.8616628646339939,
                   "close": true
                 }
               }
@@ -148,6 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Calendar/Daily notes/2023-04-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
