@@ -16,6 +16,16 @@
     "pageCountType": "ByWords"
   },
   "cachedCounts": {
+    "∑ 本库 ACCESS 的文件夹入口汇总.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1681969628442,
+      "modifiedDate": 1681969628442
+    },
     "» Daily notes工作流.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -1739,12 +1749,12 @@
     "Calendar/Daily notes/2023-04-20.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 23,
-      "pageCount": 0.07666666666666666,
-      "characterCount": 126,
-      "nonWhitespaceCharacterCount": 112,
+      "wordCount": 14,
+      "pageCount": 0.04666666666666667,
+      "characterCount": 92,
+      "nonWhitespaceCharacterCount": 79,
       "createdDate": 1681955574684,
-      "modifiedDate": 1681955578035
+      "modifiedDate": 1681969613378
     },
     "Calendar/Daily notes/2023-04-19.md": {
       "isDirectory": false,

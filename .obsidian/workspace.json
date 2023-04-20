@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calendar/Daily notes/2023-04-20.md",
+                "file": "AboutTheGarden.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calendar/Daily notes/2023-04-20.md"
+                "file": "AboutTheGarden.md"
               }
             }
           },
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calendar/Daily notes/2023-04-20.md",
+                "file": "AboutTheGarden.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Calendar/Daily notes/2023-04-20.md",
+                "file": "AboutTheGarden.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calendar/Daily notes/2023-04-20.md",
+                "file": "AboutTheGarden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,8 +245,10 @@
   },
   "active": "80b5b10e6537b0df",
   "lastOpenFiles": [
-    "Sources/Books/微信读书同步/经济理财/纳瓦尔宝典.md",
+    "HOMEPAGE.md",
+    "∑ 本库 ACCESS 的文件夹入口汇总.md",
     "Calendar/Daily notes/2023-04-20.md",
+    "Sources/Books/微信读书同步/经济理财/纳瓦尔宝典.md",
     "Calendar/Daily notes/2023-04-18.md",
     "» Daily notes工作流.md",
     "Calendar/About Calendar.md",
@@ -275,9 +277,7 @@
     "Sources/Books/微信读书同步/哲学宗教/查拉图斯特拉如是说.md",
     "Sources/Books/微信读书同步/哲学宗教",
     "Sources/Books/微信读书同步/经济理财/组织的逻辑.md",
-    "Sources/Books/微信读书同步/计算机/性能之巅：洞悉系统、企业与云计算.md",
     "Sources/Books/微信读书同步/计算机",
-    "Sources/Books/微信读书同步/个人成长/逆转：弱者如何找到优势，反败为胜.md",
     "Sources/Books/微信读书同步/个人成长",
     "Sources/Books/微信读书同步/经济理财",
     "Extras/Media/豆瓣影音封面/p689612649.jpg",
