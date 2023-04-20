@@ -236,215 +236,215 @@
       "createdDate": 1681783155056,
       "modifiedDate": 1681783155056
     },
-    "Sources/Books/微信读书同步/计算机/领域驱动设计（Thoughtworks洞见）-ThoughtWorks中国.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 644,
-      "pageCount": 2.1466666666666665,
-      "characterCount": 1482,
-      "nonWhitespaceCharacterCount": 1333,
-      "createdDate": 1681786875134,
-      "modifiedDate": 1681786875135
-    },
-    "Sources/Books/微信读书同步/计算机/软技能2：软件开发者职业生涯指南-约翰·森梅兹.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 467,
-      "pageCount": 1.5566666666666666,
-      "characterCount": 988,
-      "nonWhitespaceCharacterCount": 903,
-      "createdDate": 1681786875198,
-      "modifiedDate": 1681786875220
-    },
-    "Sources/Books/微信读书同步/计算机/程序员修炼之道：从小工到专家-Andrew Hunt David Thomas.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 2250,
-      "pageCount": 7.5,
-      "characterCount": 4313,
-      "nonWhitespaceCharacterCount": 3723,
-      "createdDate": 1681786875176,
-      "modifiedDate": 1681786875177
-    },
-    "Sources/Books/微信读书同步/计算机/性能之巅：洞悉系统、企业与云计算-布兰登·格雷格.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 432,
-      "pageCount": 1.44,
-      "characterCount": 1045,
-      "nonWhitespaceCharacterCount": 941,
-      "createdDate": 1681786873812,
-      "modifiedDate": 1681786873812
-    },
-    "Sources/Books/微信读书同步/艺术/欧美流行音乐简史-尤静波.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 1238,
-      "pageCount": 4.126666666666667,
-      "characterCount": 2493,
-      "nonWhitespaceCharacterCount": 2178,
-      "createdDate": 1681786874832,
-      "modifiedDate": 1681786874909
-    },
-    "Sources/Books/微信读书同步/经济理财/重来：更为简单有效的商业思维-贾森·弗里德 戴维·海涅迈尔·汉森.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 1436,
-      "pageCount": 4.786666666666667,
-      "characterCount": 2704,
-      "nonWhitespaceCharacterCount": 2362,
-      "createdDate": 1681786874741,
-      "modifiedDate": 1681786874742
-    },
-    "Sources/Books/微信读书同步/经济理财/置身事内：中国政府与经济发展-兰小欢.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 793,
-      "pageCount": 2.6433333333333335,
-      "characterCount": 1452,
-      "nonWhitespaceCharacterCount": 1337,
-      "createdDate": 1681786874518,
-      "modifiedDate": 1681786874519
-    },
-    "Sources/Books/微信读书同步/经济理财/组织的逻辑-丛龙峰.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 1052,
-      "pageCount": 3.506666666666667,
-      "characterCount": 1902,
-      "nonWhitespaceCharacterCount": 1725,
-      "createdDate": 1681786873832,
-      "modifiedDate": 1681786873846
-    },
-    "Sources/Books/微信读书同步/经济理财/纳瓦尔宝典-埃里克·乔根森.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 4660,
-      "pageCount": 15.533333333333333,
-      "characterCount": 7936,
-      "nonWhitespaceCharacterCount": 6957,
-      "createdDate": 1681786873606,
-      "modifiedDate": 1681954806174
-    },
-    "Sources/Books/微信读书同步/经济理财/巴菲特之道（原书第3版）-罗伯特·哈格斯特朗.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 873,
-      "pageCount": 2.91,
-      "characterCount": 1734,
-      "nonWhitespaceCharacterCount": 1535,
-      "createdDate": 1681786875012,
-      "modifiedDate": 1681786875012
-    },
-    "Sources/Books/微信读书同步/经济理财/债务危机-瑞·达利欧.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 711,
-      "pageCount": 2.37,
-      "characterCount": 1317,
-      "nonWhitespaceCharacterCount": 1221,
-      "createdDate": 1681786873955,
-      "modifiedDate": 1681786873977
-    },
-    "Sources/Books/微信读书同步/科学技术/天真的人类学家-奈吉尔·巴利.md": {
+    "Sources/Books/微信读书同步/科学技术/天真的人类学家.md": {
       "isDirectory": false,
       "noteCount": 1,
       "wordCount": 443,
       "pageCount": 1.4766666666666666,
       "characterCount": 1007,
       "nonWhitespaceCharacterCount": 910,
-      "createdDate": 1681786875480,
-      "modifiedDate": 1681786875481
+      "createdDate": 1681955544579,
+      "modifiedDate": 1681955544600
     },
-    "Sources/Books/微信读书同步/社会文化/乡土中国-费孝通.md": {
+    "Sources/Books/微信读书同步/社会文化/乡土中国.md": {
       "isDirectory": false,
       "noteCount": 1,
       "wordCount": 613,
       "pageCount": 2.0433333333333334,
       "characterCount": 1255,
       "nonWhitespaceCharacterCount": 1135,
-      "createdDate": 1681786874952,
-      "modifiedDate": 1681786874952
+      "createdDate": 1681955544140,
+      "modifiedDate": 1681955544141
     },
-    "Sources/Books/微信读书同步/教育学习/如何阅读一本书-莫提默·艾德勒 查尔斯·范多伦.md": {
+    "Sources/Books/微信读书同步/艺术/欧美流行音乐简史.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 324,
-      "pageCount": 1.08,
-      "characterCount": 862,
-      "nonWhitespaceCharacterCount": 757,
-      "createdDate": 1681786874700,
-      "modifiedDate": 1681786874700
+      "wordCount": 1238,
+      "pageCount": 4.126666666666667,
+      "characterCount": 2493,
+      "nonWhitespaceCharacterCount": 2178,
+      "createdDate": 1681955543948,
+      "modifiedDate": 1681955543949
     },
-    "Sources/Books/微信读书同步/政治军事/毛泽东选集（全四卷）-.md": {
+    "Sources/Books/微信读书同步/教育学习/如何阅读一本书.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 308,
+      "pageCount": 1.0266666666666666,
+      "characterCount": 844,
+      "nonWhitespaceCharacterCount": 741,
+      "createdDate": 1681955543660,
+      "modifiedDate": 1681955543680
+    },
+    "Sources/Books/微信读书同步/政治军事/毛泽东选集（全四卷）.md": {
       "isDirectory": false,
       "noteCount": 1,
       "wordCount": 3996,
       "pageCount": 13.32,
       "characterCount": 7079,
       "nonWhitespaceCharacterCount": 6155,
-      "createdDate": 1681786874577,
-      "modifiedDate": 1681786874597
+      "createdDate": 1681955543555,
+      "modifiedDate": 1681955543571
     },
-    "Sources/Books/微信读书同步/哲学宗教/资本论（超值白金版）-马克思.md": {
+    "Sources/Books/微信读书同步/哲学宗教/资本论（超值白金版）.md": {
       "isDirectory": false,
       "noteCount": 1,
       "wordCount": 747,
       "pageCount": 2.49,
       "characterCount": 1611,
       "nonWhitespaceCharacterCount": 1395,
-      "createdDate": 1681786874272,
-      "modifiedDate": 1681786874273
+      "createdDate": 1681955543417,
+      "modifiedDate": 1681955543445
     },
-    "Sources/Books/微信读书同步/哲学宗教/查拉图斯特拉如是说-尼采.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 2728,
-      "pageCount": 9.093333333333334,
-      "characterCount": 5058,
-      "nonWhitespaceCharacterCount": 4373,
-      "createdDate": 1681786873929,
-      "modifiedDate": 1681786873935
-    },
-    "Sources/Books/微信读书同步/哲学宗教/哲学家们都干了些什么？ （修订版）-林欣浩.md": {
+    "Sources/Books/微信读书同步/哲学宗教/哲学家们都干了些什么？ （修订版）.md": {
       "isDirectory": false,
       "noteCount": 1,
       "wordCount": 404,
       "pageCount": 1.3466666666666667,
       "characterCount": 1020,
       "nonWhitespaceCharacterCount": 863,
-      "createdDate": 1681786874082,
-      "modifiedDate": 1681786874102
+      "createdDate": 1681955543371,
+      "modifiedDate": 1681955543391
     },
-    "Sources/Books/微信读书同步/个人成长/逆转：弱者如何找到优势，反败为胜-马尔科姆·格拉德威尔.md": {
+    "Sources/Books/微信读书同步/哲学宗教/查拉图斯特拉如是说.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 2438,
-      "pageCount": 8.126666666666667,
-      "characterCount": 4265,
-      "nonWhitespaceCharacterCount": 3769,
-      "createdDate": 1681786873308,
-      "modifiedDate": 1681786873308
+      "wordCount": 2728,
+      "pageCount": 9.093333333333334,
+      "characterCount": 5058,
+      "nonWhitespaceCharacterCount": 4373,
+      "createdDate": 1681955543260,
+      "modifiedDate": 1681955543275
     },
-    "Sources/Books/微信读书同步/个人成长/异类-马尔科姆·格拉德威尔.md": {
+    "Sources/Books/微信读书同步/计算机/软技能2：软件开发者职业生涯指南.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 467,
+      "pageCount": 1.5566666666666666,
+      "characterCount": 988,
+      "nonWhitespaceCharacterCount": 903,
+      "createdDate": 1681955544458,
+      "modifiedDate": 1681955544480
+    },
+    "Sources/Books/微信读书同步/计算机/程序员修炼之道：从小工到专家.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 2250,
+      "pageCount": 7.5,
+      "characterCount": 4313,
+      "nonWhitespaceCharacterCount": 3723,
+      "createdDate": 1681955544435,
+      "modifiedDate": 1681955544435
+    },
+    "Sources/Books/微信读书同步/计算机/领域驱动设计（Thoughtworks洞见）.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 644,
+      "pageCount": 2.1466666666666665,
+      "characterCount": 1482,
+      "nonWhitespaceCharacterCount": 1333,
+      "createdDate": 1681955544338,
+      "modifiedDate": 1681955544371
+    },
+    "Sources/Books/微信读书同步/计算机/性能之巅：洞悉系统、企业与云计算.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 432,
+      "pageCount": 1.44,
+      "characterCount": 1045,
+      "nonWhitespaceCharacterCount": 941,
+      "createdDate": 1681955543120,
+      "modifiedDate": 1681955543121
+    },
+    "Sources/Books/微信读书同步/个人成长/异类.md": {
       "isDirectory": false,
       "noteCount": 1,
       "wordCount": 453,
       "pageCount": 1.51,
       "characterCount": 1066,
       "nonWhitespaceCharacterCount": 959,
-      "createdDate": 1681786875500,
-      "modifiedDate": 1681786875520
+      "createdDate": 1681955544626,
+      "modifiedDate": 1681955544648
     },
-    "Sources/Books/微信读书同步/个人成长/跃迁：成为高手的技术（附赠高手秘籍和时间管理秘籍）-古典.md": {
+    "Sources/Books/微信读书同步/个人成长/跃迁：成为高手的技术（附赠高手秘籍和时间管理秘籍）.md": {
       "isDirectory": false,
       "noteCount": 1,
       "wordCount": 485,
       "pageCount": 1.6166666666666667,
       "characterCount": 1122,
       "nonWhitespaceCharacterCount": 1008,
-      "createdDate": 1681786875031,
-      "modifiedDate": 1681786875051
+      "createdDate": 1681955544311,
+      "modifiedDate": 1681955544312
+    },
+    "Sources/Books/微信读书同步/个人成长/逆转：弱者如何找到优势，反败为胜.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 2438,
+      "pageCount": 8.126666666666667,
+      "characterCount": 4265,
+      "nonWhitespaceCharacterCount": 3769,
+      "createdDate": 1681955543016,
+      "modifiedDate": 1681955543017
+    },
+    "Sources/Books/微信读书同步/经济理财/巴菲特之道（原书第3版）.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 873,
+      "pageCount": 2.91,
+      "characterCount": 1734,
+      "nonWhitespaceCharacterCount": 1535,
+      "createdDate": 1681955544210,
+      "modifiedDate": 1681955544238
+    },
+    "Sources/Books/微信读书同步/经济理财/重来：更为简单有效的商业思维.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 1436,
+      "pageCount": 4.786666666666667,
+      "characterCount": 2704,
+      "nonWhitespaceCharacterCount": 2362,
+      "createdDate": 1681955543829,
+      "modifiedDate": 1681955543849
+    },
+    "Sources/Books/微信读书同步/经济理财/置身事内：中国政府与经济发展.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 793,
+      "pageCount": 2.6433333333333335,
+      "characterCount": 1452,
+      "nonWhitespaceCharacterCount": 1337,
+      "createdDate": 1681955543471,
+      "modifiedDate": 1681955543492
+    },
+    "Sources/Books/微信读书同步/经济理财/债务危机.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 711,
+      "pageCount": 2.37,
+      "characterCount": 1317,
+      "nonWhitespaceCharacterCount": 1221,
+      "createdDate": 1681955543345,
+      "modifiedDate": 1681955543346
+    },
+    "Sources/Books/微信读书同步/经济理财/组织的逻辑.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 1052,
+      "pageCount": 3.506666666666667,
+      "characterCount": 1902,
+      "nonWhitespaceCharacterCount": 1725,
+      "createdDate": 1681955543176,
+      "modifiedDate": 1681955543194
+    },
+    "Sources/Books/微信读书同步/经济理财/纳瓦尔宝典.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 4660,
+      "pageCount": 15.533333333333333,
+      "characterCount": 7936,
+      "nonWhitespaceCharacterCount": 6957,
+      "createdDate": 1681955542763,
+      "modifiedDate": 1681955542767
     },
     "Sources/About Sources.md": {
       "isDirectory": false,
@@ -1726,25 +1726,15 @@
       "createdDate": 1681783151761,
       "modifiedDate": 1681783151761
     },
-    "Calendar/Daily notes/纳瓦尔宝典.md": {
+    "Calendar/Daily notes/2023-04-20.md": {
       "isDirectory": false,
       "noteCount": 1,
       "wordCount": 0,
       "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "createdDate": 1681955328802,
-      "modifiedDate": 1681955328802
-    },
-    "Calendar/Daily notes/2023-04-20.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 23,
-      "pageCount": 0.07666666666666666,
-      "characterCount": 126,
-      "nonWhitespaceCharacterCount": 112,
-      "createdDate": 1681955175297,
-      "modifiedDate": 1681955303550
+      "characterCount": 47,
+      "nonWhitespaceCharacterCount": 38,
+      "createdDate": 1681955574684,
+      "modifiedDate": 1681955574684
     },
     "Calendar/Daily notes/2023-04-19.md": {
       "isDirectory": false,
