@@ -19,12 +19,12 @@
     "Spaces/Apps/Alfred.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
+      "wordCount": 415,
+      "pageCount": 1.3833333333333333,
+      "characterCount": 773,
+      "nonWhitespaceCharacterCount": 734,
       "createdDate": 1681897963793,
-      "modifiedDate": 1681897963793
+      "modifiedDate": 1681900141439
     },
     "Spaces/Apps/SizeUp.md": {
       "isDirectory": false,
@@ -319,12 +319,12 @@
     "Sources/Books/微信读书同步/经济理财/纳瓦尔宝典-埃里克·乔根森.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 3709,
-      "pageCount": 12.363333333333333,
-      "characterCount": 6420,
-      "nonWhitespaceCharacterCount": 5627,
+      "wordCount": 4660,
+      "pageCount": 15.533333333333333,
+      "characterCount": 7936,
+      "nonWhitespaceCharacterCount": 6957,
       "createdDate": 1681786873606,
-      "modifiedDate": 1681786873626
+      "modifiedDate": 1681954806174
     },
     "Sources/Books/微信读书同步/经济理财/巴菲特之道（原书第3版）-罗伯特·哈格斯特朗.md": {
       "isDirectory": false,
@@ -1601,10 +1601,10 @@
       "noteCount": 1,
       "wordCount": 0,
       "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
+      "characterCount": 47,
+      "nonWhitespaceCharacterCount": 38,
       "createdDate": 1681783154810,
-      "modifiedDate": 1681783154810
+      "modifiedDate": 1681955150443
     },
     "Extras/Templates/Atlas模板/TOC模板.md": {
       "isDirectory": false,
@@ -1725,6 +1725,26 @@
       "nonWhitespaceCharacterCount": 86,
       "createdDate": 1681783151761,
       "modifiedDate": 1681783151761
+    },
+    "Calendar/Daily notes/纳瓦尔宝典.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1681955328802,
+      "modifiedDate": 1681955328802
+    },
+    "Calendar/Daily notes/2023-04-20.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 23,
+      "pageCount": 0.07666666666666666,
+      "characterCount": 126,
+      "nonWhitespaceCharacterCount": 112,
+      "createdDate": 1681955175297,
+      "modifiedDate": 1681955303550
     },
     "Calendar/Daily notes/2023-04-19.md": {
       "isDirectory": false,

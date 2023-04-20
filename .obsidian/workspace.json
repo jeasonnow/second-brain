@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Apps/Alfred.md",
-                "mode": "preview",
+                "file": "Sources/Books/微信读书同步/经济理财/纳瓦尔宝典-埃里克·乔根森.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Apps/Alfred.md"
+                "file": "Sources/Books/微信读书同步/经济理财/纳瓦尔宝典-埃里克·乔根森.md"
               }
             }
           },
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Apps/Alfred.md",
+                "file": "Sources/Books/微信读书同步/经济理财/纳瓦尔宝典-埃里克·乔根森.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Spaces/Apps/Alfred.md",
+                "file": "Sources/Books/微信读书同步/经济理财/纳瓦尔宝典-埃里克·乔根森.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Apps/Alfred.md",
+                "file": "Sources/Books/微信读书同步/经济理财/纳瓦尔宝典-埃里克·乔根森.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 336.5
+    "width": 472.5
   },
   "right": {
     "id": "c718ea3b78af998f",
@@ -245,14 +245,20 @@
   },
   "active": "5b931f6045e65c8a",
   "lastOpenFiles": [
+    "Calendar/Daily notes/2023-04-20.md",
+    "Calendar/Daily notes/纳瓦尔宝典.md",
+    "Sources/Books/微信读书同步/经济理财/纳瓦尔宝典-埃里克·乔根森.md",
+    "Extras/Templates/Calendar模板/Daily notes模板.md",
+    "Calendar/Daily notes/2023-04-18.md",
+    "Calendar/Daily notes/2023-04-19.md",
+    "Extras/Templates/∑ 模板文件创建入口.md",
+    "Spaces/Apps/Alfred.md",
     "Spaces/Apps/Downie.md",
     "Spaces/Apps/SizeUp.md",
-    "Spaces/Apps/Alfred.md",
     "Calendar/已发布文章/∑ 已发布文章.md",
     "Calendar/已发布文章/» 写文章选题管理技巧.md",
     "Calendar/已发布文章/» 写文章选题分类.md",
     "Calendar/Plan & Review/每周回顾/每周写工作周报就精疲力尽，因此暂时不在个人笔记库做每周回顾.md",
-    "Sources/Books/微信读书同步/经济理财/纳瓦尔宝典-埃里克·乔根森.md",
     "Calendar/文章草稿/» 本库文章发布工作流.md",
     "Calendar/文章草稿/» obsidian中的文章草稿到少数派上投稿，需要经历的处理步骤.md",
     "Extras/Templates/ChatGPT_MD/templates/发散思维.md",
@@ -261,8 +267,6 @@
     "Extras/Media/豆瓣影音封面/p456666151.jpg",
     "Extras/Media/豆瓣影音封面/p451926968.jpg",
     "Extras/Templates/Cards模板/Card卡片_标准模板.md",
-    "Calendar/Daily notes/2023-04-18.md",
-    "Calendar/Daily notes/2023-04-19.md",
     "Sources/Videos/» 视频笔记工作流.md",
     "Sources/Videos/《人生的智慧》.md",
     "Sources/Videos/📹【罗翔】我们为什么要读书？.md",
@@ -272,10 +276,6 @@
     "Spaces/Apps",
     "Spaces/3-Resource/效率工具与服务专题/Obsidian插件使用/∑ obsidian插件.md",
     "Spaces/3-Resource/效率工具与服务专题/VSCode插件使用/∑ VSCode插件.md",
-    "Sources/Videos/downie.md",
-    "Sources/Videos/📹视频笔记-youtube.md",
-    "Sources/Videos/油猴脚本 - tempermonkey.md",
-    "Sources/Newsletter + RSS/独立产品灵感周刊 DecoHack.md",
     "未命名.canvas",
     "Sources/Books/微信读书同步/科学技术",
     "Sources/Books/微信读书同步/社会文化",
