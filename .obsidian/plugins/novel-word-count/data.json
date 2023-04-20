@@ -16,6 +16,16 @@
     "pageCountType": "ByWords"
   },
   "cachedCounts": {
+    "» Daily notes工作流.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1681958113679,
+      "modifiedDate": 1681958113679
+    },
     "Spaces/Apps/Alfred.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -1729,12 +1739,12 @@
     "Calendar/Daily notes/2023-04-20.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 0,
-      "pageCount": 0,
-      "characterCount": 47,
-      "nonWhitespaceCharacterCount": 38,
+      "wordCount": 23,
+      "pageCount": 0.07666666666666666,
+      "characterCount": 126,
+      "nonWhitespaceCharacterCount": 112,
       "createdDate": 1681955574684,
-      "modifiedDate": 1681955574684
+      "modifiedDate": 1681955578035
     },
     "Calendar/Daily notes/2023-04-19.md": {
       "isDirectory": false,
