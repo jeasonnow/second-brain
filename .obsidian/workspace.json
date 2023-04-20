@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "97b7034f4a1aac63",
+        "id": "5b2b050846603d1e",
         "type": "tabs",
         "children": [
           {
-            "id": "80b5b10e6537b0df",
+            "id": "8b52273af27d3705",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calendar/Daily notes/2023-04-20.md",
+                "file": "HOMEPAGE.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": false
+                "source": true
               }
             }
           }
@@ -77,14 +77,6 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "e87502c2c7c757f2",
-            "type": "leaf",
-            "state": {
-              "type": "file-tree-view",
-              "state": {}
-            }
           }
         ]
       },
@@ -99,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calendar/Daily notes/2023-04-20.md"
+                "file": "HOMEPAGE.md"
               }
             }
           },
@@ -109,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calendar/Daily notes/2023-04-20.md",
+                "file": "HOMEPAGE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Calendar/Daily notes/2023-04-20.md",
+                "file": "HOMEPAGE.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -144,7 +136,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.42096192697599744,
+                  "scale": 1,
                   "close": true
                 }
               }
@@ -156,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calendar/Daily notes/2023-04-20.md",
+                "file": "HOMEPAGE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,12 +159,11 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 472.5
+    "width": 336.5
   },
   "right": {
     "id": "c718ea3b78af998f",
@@ -191,54 +182,54 @@
             }
           },
           {
-            "id": "ac8f603adbce05ad",
+            "id": "4de411a2f9535073",
             "type": "leaf",
             "state": {
-              "type": "reminder-list",
+              "type": "calendar",
               "state": {}
             }
           },
           {
-            "id": "ca7bf0ac71fd6d24",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "b015d3f048cb4498",
+            "id": "d5db3c8fe8892d56",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 339.5
+    "width": 386.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "obsidian-weread-plugin:Weread": false,
+      "templates:插入模板": false,
       "daily-notes:打开/创建今天的日记": false,
       "switcher:打开快速切换": false,
       "canvas:新建白板": false,
       "graph:查看关系图谱": false,
       "command-palette:打开命令面板": false,
-      "workspaces:管理工作区布局": false,
       "obsidian-spaced-repetition:复习卡片": false,
-      "file-tree-alternative:File Tree Alternative Plugin": false,
-      "obsidian-weread-plugin:Weread": false,
-      "templates:插入模板": false
+      "workspaces:管理工作区布局": false
     }
   },
-  "active": "80b5b10e6537b0df",
+  "active": "8b52273af27d3705",
   "lastOpenFiles": [
+    "∑ 本库 ACCESS 的文件夹入口汇总.md",
+    "HOMEPAGE.md",
+    "README.md",
+    "» Daily notes工作流.md",
+    "未命名.canvas",
+    "AboutTheGarden.md",
+    "Calendar/Daily notes/2023-04-20.md",
     "Cards/SOP.md",
     "Cards/关于公司内网的组织结构.md",
-    "AboutTheGarden.md",
     "Extras/Templates/Spaces模板/Area创建模板.md",
     "Extras/Templates/Spaces模板/Archive创建模板.md",
     "Extras/Templates/Sources模板/论文笔记模板.md",
@@ -247,12 +238,8 @@
     "Extras/Templates/Calendar模板/回顾总结模板/月度模板.md",
     "Extras/Templates/Cards模板/Sources&Spaces卡片_标准模板.md",
     "Extras/Templates/Cards模板/Card卡片_标准模板.md",
-    "HOMEPAGE.md",
-    "∑ 本库 ACCESS 的文件夹入口汇总.md",
-    "Calendar/Daily notes/2023-04-20.md",
     "Sources/Books/微信读书同步/经济理财/纳瓦尔宝典.md",
     "Calendar/Daily notes/2023-04-18.md",
-    "» Daily notes工作流.md",
     "Calendar/About Calendar.md",
     "Calendar/Daily notes/2023-04-19.md",
     "Sources/Books/微信读书同步/个人成长/异类.md",
@@ -262,7 +249,6 @@
     "Sources/Books/微信读书同步/计算机/程序员修炼之道：从小工到专家.md",
     "Sources/Books/微信读书同步/计算机/领域驱动设计（Thoughtworks洞见）.md",
     "Sources/Books/微信读书同步/个人成长/跃迁：成为高手的技术（附赠高手秘籍和时间管理秘籍）.md",
-    "Sources/Books/微信读书同步/经济理财/巴菲特之道（原书第3版）.md",
     "Sources/Books/微信读书同步/社会文化",
     "Sources/Books/微信读书同步/艺术",
     "Sources/Books/微信读书同步/教育学习",
@@ -276,7 +262,6 @@
     "Extras/Media/豆瓣影音封面/p456666151.jpg",
     "Extras/Media/豆瓣影音封面/p451926968.jpg",
     "Spaces/Apps",
-    "未命名.canvas",
     "Atlas/Canvas/🧩 2022年，我用3个app达成的3个小成就.canvas",
     "Atlas/Canvas/🧩 DevOps成长路线图.canvas",
     "Extras/Media/Pasted image 20230305120820.png",
