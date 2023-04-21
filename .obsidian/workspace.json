@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Extras/Templates/Calendar模板/Daily notes模板.md",
+                "file": "Calendar/Daily notes/2023-04-21.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -91,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Extras/Templates/Calendar模板/Daily notes模板.md"
+                "file": "Calendar/Daily notes/2023-04-21.md"
               }
             }
           },
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Extras/Templates/Calendar模板/Daily notes模板.md",
+                "file": "Calendar/Daily notes/2023-04-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Extras/Templates/Calendar模板/Daily notes模板.md",
+                "file": "Calendar/Daily notes/2023-04-21.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Extras/Templates/Calendar模板/Daily notes模板.md",
+                "file": "Calendar/Daily notes/2023-04-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,6 +221,9 @@
   },
   "active": "8b52273af27d3705",
   "lastOpenFiles": [
+    "Sources/Books/微信读书同步/经济理财/纳瓦尔宝典.md",
+    "Calendar/Daily notes/2023-04-21.md",
+    "Extras/Templates/Calendar模板/Daily notes模板.md",
     "HOMEPAGE.md",
     "∑ 本库 ACCESS 的文件夹入口汇总.md",
     "README.md",
@@ -238,7 +241,6 @@
     "Extras/Templates/Calendar模板/回顾总结模板/月度模板.md",
     "Extras/Templates/Cards模板/Sources&Spaces卡片_标准模板.md",
     "Extras/Templates/Cards模板/Card卡片_标准模板.md",
-    "Sources/Books/微信读书同步/经济理财/纳瓦尔宝典.md",
     "Calendar/Daily notes/2023-04-18.md",
     "Calendar/About Calendar.md",
     "Calendar/Daily notes/2023-04-19.md",
@@ -247,8 +249,6 @@
     "Sources/Books/微信读书同步/科学技术",
     "Sources/Books/微信读书同步/计算机/软技能2：软件开发者职业生涯指南.md",
     "Sources/Books/微信读书同步/计算机/程序员修炼之道：从小工到专家.md",
-    "Sources/Books/微信读书同步/计算机/领域驱动设计（Thoughtworks洞见）.md",
-    "Sources/Books/微信读书同步/个人成长/跃迁：成为高手的技术（附赠高手秘籍和时间管理秘籍）.md",
     "Sources/Books/微信读书同步/社会文化",
     "Sources/Books/微信读书同步/艺术",
     "Sources/Books/微信读书同步/教育学习",

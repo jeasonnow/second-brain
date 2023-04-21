@@ -459,12 +459,12 @@
     "Sources/Books/微信读书同步/经济理财/纳瓦尔宝典.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 4660,
-      "pageCount": 15.533333333333333,
-      "characterCount": 7936,
-      "nonWhitespaceCharacterCount": 6957,
+      "wordCount": 5147,
+      "pageCount": 17.156666666666666,
+      "characterCount": 8733,
+      "nonWhitespaceCharacterCount": 7655,
       "createdDate": 1681955542763,
-      "modifiedDate": 1681955542767
+      "modifiedDate": 1682040958058
     },
     "Sources/About Sources.md": {
       "isDirectory": false,
@@ -1619,12 +1619,12 @@
     "Extras/Templates/Calendar模板/Daily notes模板.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 0,
-      "pageCount": 0,
-      "characterCount": 47,
-      "nonWhitespaceCharacterCount": 38,
+      "wordCount": 8,
+      "pageCount": 0.02666666666666667,
+      "characterCount": 69,
+      "nonWhitespaceCharacterCount": 54,
       "createdDate": 1681783154810,
-      "modifiedDate": 1681955150443
+      "modifiedDate": 1682040998375
     },
     "Extras/Templates/Atlas模板/TOC模板.md": {
       "isDirectory": false,
@@ -1755,6 +1755,16 @@
       "nonWhitespaceCharacterCount": 86,
       "createdDate": 1681783151761,
       "modifiedDate": 1681783151761
+    },
+    "Calendar/Daily notes/2023-04-21.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 8,
+      "pageCount": 0.02666666666666667,
+      "characterCount": 69,
+      "nonWhitespaceCharacterCount": 54,
+      "createdDate": 1682041006709,
+      "modifiedDate": 1682041006710
     },
     "Calendar/Daily notes/2023-04-20.md": {
       "isDirectory": false,
