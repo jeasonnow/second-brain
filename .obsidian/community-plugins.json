@@ -19,7 +19,6 @@
   "obsidian-pangu",
   "table-editor-obsidian",
   "easy-typing-obsidian",
-  "file-tree-alternative",
   "obsidian-weread-plugin",
   "obsidian-sortable",
   "obsidian-shellcommands",
@@ -31,5 +30,6 @@
   "obsidian-douban-plugin",
   "obsidian-git",
   "calendar",
-  "obsidian-reminder-plugin"
+  "obsidian-reminder-plugin",
+  "calendar-beta"
 ]

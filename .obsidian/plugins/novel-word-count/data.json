@@ -1689,12 +1689,12 @@
     "Calendar/文章草稿/为 Android  和 IOS 设备做域名映射.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 208,
-      "pageCount": 0.6933333333333334,
-      "characterCount": 295,
-      "nonWhitespaceCharacterCount": 261,
+      "wordCount": 322,
+      "pageCount": 1.0733333333333333,
+      "characterCount": 488,
+      "nonWhitespaceCharacterCount": 432,
       "createdDate": 1682061703544,
-      "modifiedDate": 1682062131829
+      "modifiedDate": 1682062486841
     },
     "Calendar/文章草稿/∑ 文章草稿.md": {
       "isDirectory": false,
@@ -1765,6 +1765,16 @@
       "nonWhitespaceCharacterCount": 86,
       "createdDate": 1681783151761,
       "modifiedDate": 1681783151761
+    },
+    "Calendar/Daily notes/2023-04-23.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 8,
+      "pageCount": 0.02666666666666667,
+      "characterCount": 69,
+      "nonWhitespaceCharacterCount": 54,
+      "createdDate": 1682216681803,
+      "modifiedDate": 1682216681803
     },
     "Calendar/Daily notes/2023-04-21.md": {
       "isDirectory": false,
