@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calendar/Daily notes/2023-04-23.md",
+                "file": "Sources/Books/微信读书同步/经济理财/纳瓦尔宝典.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -91,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calendar/Daily notes/2023-04-23.md"
+                "file": "Sources/Books/微信读书同步/经济理财/纳瓦尔宝典.md"
               }
             }
           },
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calendar/Daily notes/2023-04-23.md",
+                "file": "Sources/Books/微信读书同步/经济理财/纳瓦尔宝典.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Calendar/Daily notes/2023-04-23.md",
+                "file": "Sources/Books/微信读书同步/经济理财/纳瓦尔宝典.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calendar/Daily notes/2023-04-23.md",
+                "file": "Sources/Books/微信读书同步/经济理财/纳瓦尔宝典.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,9 +232,10 @@
   },
   "active": "ff3c75ae14b679e5",
   "lastOpenFiles": [
+    "Calendar/Daily notes/2023-04-24.md",
+    "Calendar/Daily notes/2023-04-23.md",
     "Sources/Books/微信读书同步/经济理财/纳瓦尔宝典.md",
     "Calendar/Daily notes/2023-04-22.md",
-    "Calendar/Daily notes/2023-04-23.md",
     "Calendar/文章草稿/∑ 文章草稿.md",
     "Calendar/Daily notes/2023-04-18.md",
     "Calendar/Daily notes/2023-04-19.md",
@@ -258,7 +259,6 @@
     "Extras/Templates/Sources模板/论文笔记模板.md",
     "Extras/Templates/Calendar模板/会议相关模板/会议纪要模板.md",
     "Extras/Templates/Calendar模板/回顾总结模板/周记模板.md",
-    "Extras/Templates/Calendar模板/回顾总结模板/月度模板.md",
     "Sources/Books/微信读书同步/科学技术",
     "Sources/Books/微信读书同步/社会文化",
     "Sources/Books/微信读书同步/艺术",
