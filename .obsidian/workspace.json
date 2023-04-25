@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sources/Books/微信读书同步/经济理财/纳瓦尔宝典.md",
+                "file": "Calendar/Daily notes/2023-04-25.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -91,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sources/Books/微信读书同步/经济理财/纳瓦尔宝典.md"
+                "file": "Calendar/Daily notes/2023-04-25.md"
               }
             }
           },
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sources/Books/微信读书同步/经济理财/纳瓦尔宝典.md",
+                "file": "Calendar/Daily notes/2023-04-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Sources/Books/微信读书同步/经济理财/纳瓦尔宝典.md",
+                "file": "Calendar/Daily notes/2023-04-25.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sources/Books/微信读书同步/经济理财/纳瓦尔宝典.md",
+                "file": "Calendar/Daily notes/2023-04-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,23 @@
             }
           },
           {
-            "id": "d5db3c8fe8892d56",
+            "id": "d438777b44744e29",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "34a37d2f6da1c6cc",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          },
+          {
+            "id": "9c863a485ace9e07",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -203,15 +219,15 @@
             }
           },
           {
-            "id": "d438777b44744e29",
+            "id": "a909d853e0300ae8",
             "type": "leaf",
             "state": {
-              "type": "calendar",
+              "type": "smart-connections-chat-view",
               "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -232,9 +248,10 @@
   },
   "active": "ff3c75ae14b679e5",
   "lastOpenFiles": [
+    "Sources/Books/微信读书同步/经济理财/纳瓦尔宝典.md",
+    "Calendar/Daily notes/2023-04-25.md",
     "Calendar/Daily notes/2023-04-24.md",
     "Calendar/Daily notes/2023-04-23.md",
-    "Sources/Books/微信读书同步/经济理财/纳瓦尔宝典.md",
     "Calendar/Daily notes/2023-04-22.md",
     "Calendar/文章草稿/∑ 文章草稿.md",
     "Calendar/Daily notes/2023-04-18.md",
@@ -258,7 +275,6 @@
     "Extras/Templates/Spaces模板/Archive创建模板.md",
     "Extras/Templates/Sources模板/论文笔记模板.md",
     "Extras/Templates/Calendar模板/会议相关模板/会议纪要模板.md",
-    "Extras/Templates/Calendar模板/回顾总结模板/周记模板.md",
     "Sources/Books/微信读书同步/科学技术",
     "Sources/Books/微信读书同步/社会文化",
     "Sources/Books/微信读书同步/艺术",
