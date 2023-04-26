@@ -399,12 +399,12 @@
     "Sources/Books/微信读书同步/经济理财/纳瓦尔宝典.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 6536,
-      "pageCount": 21.786666666666665,
-      "characterCount": 11376,
-      "nonWhitespaceCharacterCount": 9970,
+      "wordCount": 7362,
+      "pageCount": 24.54,
+      "characterCount": 13252,
+      "nonWhitespaceCharacterCount": 11494,
       "createdDate": 1681955542763,
-      "modifiedDate": 1682301652204
+      "modifiedDate": 1682386851451
     },
     "Sources/Books/微信读书同步/经济理财/巴菲特之道（原书第3版）.md": {
       "isDirectory": false,
@@ -606,15 +606,25 @@
       "createdDate": 1681783151761,
       "modifiedDate": 1681783151761
     },
-    "Calendar/Daily notes/2023-04-25.md": {
+    "Calendar/Daily notes/2023-04-26.md": {
       "isDirectory": false,
       "noteCount": 1,
       "wordCount": 8,
       "pageCount": 0.02666666666666667,
       "characterCount": 69,
       "nonWhitespaceCharacterCount": 54,
+      "createdDate": 1682473374884,
+      "modifiedDate": 1682473374885
+    },
+    "Calendar/Daily notes/2023-04-25.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 194,
+      "pageCount": 0.6466666666666666,
+      "characterCount": 629,
+      "nonWhitespaceCharacterCount": 573,
       "createdDate": 1682386844657,
-      "modifiedDate": 1682386844664
+      "modifiedDate": 1682417871783
     },
     "Calendar/Daily notes/2023-04-24.md": {
       "isDirectory": false,

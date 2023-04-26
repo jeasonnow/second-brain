@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calendar/Daily notes/2023-04-25.md",
+                "file": "Calendar/Daily notes/2023-04-26.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -91,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calendar/Daily notes/2023-04-25.md"
+                "file": "Calendar/Daily notes/2023-04-26.md"
               }
             }
           },
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calendar/Daily notes/2023-04-25.md",
+                "file": "Calendar/Daily notes/2023-04-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Calendar/Daily notes/2023-04-25.md",
+                "file": "Calendar/Daily notes/2023-04-26.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calendar/Daily notes/2023-04-25.md",
+                "file": "Calendar/Daily notes/2023-04-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,18 +246,20 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "d438777b44744e29",
+  "active": "ff3c75ae14b679e5",
   "lastOpenFiles": [
-    "Calendar/Daily notes/2023-04-23.md",
     "Calendar/Daily notes/2023-04-25.md",
-    "Sources/Books/微信读书同步/经济理财/纳瓦尔宝典.md",
+    "Calendar/Daily notes/2023-04-21.md",
+    "Calendar/Daily notes/2023-04-19.md",
+    "Calendar/Daily notes/2023-04-18.md",
+    "Sources/Books/微信读书同步/计算机/程序员修炼之道：从小工到专家.md",
+    "Calendar/Daily notes/2023-04-26.md",
+    "Calendar/Daily notes/2023-04-23.md",
     "Calendar/Daily notes/2023-04-24.md",
+    "Sources/Books/微信读书同步/经济理财/纳瓦尔宝典.md",
     "Calendar/Daily notes/2023-04-22.md",
     "Calendar/文章草稿/∑ 文章草稿.md",
-    "Calendar/Daily notes/2023-04-18.md",
-    "Calendar/Daily notes/2023-04-19.md",
     "Calendar/Daily notes/2023-04-20.md",
-    "Calendar/Daily notes/2023-04-21.md",
     "Calendar/文章草稿/为 Android  和 IOS 设备做域名映射.md",
     "Calendar/文章草稿/2022年，借助Notion、Obsidian和微信读书，我减了15kg体脂，拿了800个star，读了1800小时书.md",
     "Calendar/文章草稿/» obsidian中的文章草稿到少数派上投稿，需要经历的处理步骤.md",
@@ -273,8 +275,6 @@
     "Cards/关于公司内网的组织结构.md",
     "Extras/Templates/Spaces模板/Area创建模板.md",
     "Extras/Templates/Spaces模板/Archive创建模板.md",
-    "Extras/Templates/Sources模板/论文笔记模板.md",
-    "Extras/Templates/Calendar模板/会议相关模板/会议纪要模板.md",
     "Sources/Books/微信读书同步/科学技术",
     "Sources/Books/微信读书同步/社会文化",
     "Sources/Books/微信读书同步/艺术",
