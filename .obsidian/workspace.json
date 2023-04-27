@@ -13,41 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calendar/Daily notes/2023-04-27.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "43e53f96d97814ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cards/关于公司内网的组织结构.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "551f9061bd7d26ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Cards/如何在移动端禁用、反禁用复制功能.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -273,12 +246,14 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "551f9061bd7d26ae",
+  "active": "ff3c75ae14b679e5",
   "lastOpenFiles": [
-    "Cards/关于公司内网的组织结构.md",
+    "Cards/前端技术.md",
     "Cards/如何在移动端禁用、反禁用复制功能.md",
-    "Spaces/Studys/HMR 原理.md",
     "Calendar/Daily notes/2023-04-27.md",
+    "Cards/计算机网络.md",
+    "Cards/关于公司内网的组织结构.md",
+    "Spaces/Studys/HMR 原理.md",
     "Spaces/Studys",
     "Sources/Books/微信读书同步/心理/认知觉醒：开启自我改变的原动力.md",
     "Sources/Books/微信读书同步/心理",
@@ -301,8 +276,6 @@
     "Extras/Templates/Calendar模板/Daily notes模板.md",
     "HOMEPAGE.md",
     "∑ 本库 ACCESS 的文件夹入口汇总.md",
-    "README.md",
-    "» Daily notes工作流.md",
     "未命名.canvas",
     "Sources/Books/微信读书同步/科学技术",
     "Sources/Books/微信读书同步/社会文化",
