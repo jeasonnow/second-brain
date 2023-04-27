@@ -44,4 +44,6 @@ module.hot.dispose(fn);
 module.hot.removeDisposeHandler(fn);
 ```
  - 提供 check 和 apply 方法
-2. 如何获取更新
+2. 怎么获取更新？先 check 再 apply 。check 就是检查更新并下载更新的 module 和 chunk。而 apply 则会走如下流程：
+   - 将所有更新的模块状态更新为不可用
+   - 
