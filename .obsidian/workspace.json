@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calendar/Daily notes/2023-04-26.md",
+                "file": "Calendar/Daily notes/2023-04-27.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -91,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calendar/Daily notes/2023-04-26.md"
+                "file": "Calendar/Daily notes/2023-04-27.md"
               }
             }
           },
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calendar/Daily notes/2023-04-26.md",
+                "file": "Calendar/Daily notes/2023-04-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Calendar/Daily notes/2023-04-26.md",
+                "file": "Calendar/Daily notes/2023-04-27.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calendar/Daily notes/2023-04-26.md",
+                "file": "Calendar/Daily notes/2023-04-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,12 +248,15 @@
   },
   "active": "ff3c75ae14b679e5",
   "lastOpenFiles": [
+    "Sources/Books/微信读书同步/心理/认知觉醒：开启自我改变的原动力.md",
+    "Sources/Books/微信读书同步/心理",
+    "Calendar/Daily notes/2023-04-26.md",
+    "Calendar/Daily notes/2023-04-27.md",
     "Calendar/Daily notes/2023-04-25.md",
     "Calendar/Daily notes/2023-04-24.md",
     "Calendar/Daily notes/2023-04-23.md",
     "Calendar/Daily notes/2023-04-21.md",
     "Calendar/Daily notes/2023-04-20.md",
-    "Calendar/Daily notes/2023-04-26.md",
     "Calendar/Daily notes/2023-04-19.md",
     "Calendar/Daily notes/2023-04-18.md",
     "Sources/Books/微信读书同步/计算机/程序员修炼之道：从小工到专家.md",
@@ -273,8 +276,6 @@
     "AboutTheGarden.md",
     "Cards/SOP.md",
     "Cards/关于公司内网的组织结构.md",
-    "Extras/Templates/Spaces模板/Area创建模板.md",
-    "Extras/Templates/Spaces模板/Archive创建模板.md",
     "Sources/Books/微信读书同步/科学技术",
     "Sources/Books/微信读书同步/社会文化",
     "Sources/Books/微信读书同步/艺术",
@@ -288,7 +289,6 @@
     "Extras/Media/豆瓣影音封面/p462470694.jpg",
     "Extras/Media/豆瓣影音封面/p456666151.jpg",
     "Extras/Media/豆瓣影音封面/p451926968.jpg",
-    "Spaces/Apps",
     "Atlas/Canvas/🧩 2022年，我用3个app达成的3个小成就.canvas",
     "Atlas/Canvas/🧩 DevOps成长路线图.canvas",
     "Extras/Media/Pasted image 20230305120820.png",

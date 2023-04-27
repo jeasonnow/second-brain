@@ -286,6 +286,16 @@
       "createdDate": 1681783154838,
       "modifiedDate": 1681783154838
     },
+    "Sources/Books/微信读书同步/心理/认知觉醒：开启自我改变的原动力.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 1874,
+      "pageCount": 6.246666666666667,
+      "characterCount": 3791,
+      "nonWhitespaceCharacterCount": 3261,
+      "createdDate": 1682573863475,
+      "modifiedDate": 1682573863475
+    },
     "Sources/Books/微信读书同步/哲学宗教/资本论（超值白金版）.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -399,12 +409,12 @@
     "Sources/Books/微信读书同步/经济理财/纳瓦尔宝典.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 7362,
-      "pageCount": 24.54,
-      "characterCount": 13252,
-      "nonWhitespaceCharacterCount": 11494,
+      "wordCount": 7997,
+      "pageCount": 26.656666666666666,
+      "characterCount": 14578,
+      "nonWhitespaceCharacterCount": 12621,
       "createdDate": 1681955542763,
-      "modifiedDate": 1682386851451
+      "modifiedDate": 1682573863491
     },
     "Sources/Books/微信读书同步/经济理财/巴菲特之道（原书第3版）.md": {
       "isDirectory": false,
@@ -606,15 +616,25 @@
       "createdDate": 1681783151761,
       "modifiedDate": 1681783151761
     },
-    "Calendar/Daily notes/2023-04-26.md": {
+    "Calendar/Daily notes/2023-04-27.md": {
       "isDirectory": false,
       "noteCount": 1,
       "wordCount": 8,
       "pageCount": 0.02666666666666667,
       "characterCount": 69,
       "nonWhitespaceCharacterCount": 54,
+      "createdDate": 1682573858995,
+      "modifiedDate": 1682573858996
+    },
+    "Calendar/Daily notes/2023-04-26.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 37,
+      "pageCount": 0.12333333333333334,
+      "characterCount": 150,
+      "nonWhitespaceCharacterCount": 124,
       "createdDate": 1682473374884,
-      "modifiedDate": 1682473374885
+      "modifiedDate": 1682573858238
     },
     "Calendar/Daily notes/2023-04-25.md": {
       "isDirectory": false,
