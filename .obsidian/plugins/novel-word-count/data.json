@@ -36,6 +36,16 @@
       "createdDate": 1681969628442,
       "modifiedDate": 1681969628442
     },
+    "Spaces/Studys/HMR 原理.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1682583111544,
+      "modifiedDate": 1682583111544
+    },
     "Spaces/About Spaces.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -619,12 +629,12 @@
     "Calendar/Daily notes/2023-04-27.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 8,
-      "pageCount": 0.02666666666666667,
-      "characterCount": 69,
-      "nonWhitespaceCharacterCount": 54,
+      "wordCount": 345,
+      "pageCount": 1.15,
+      "characterCount": 852,
+      "nonWhitespaceCharacterCount": 811,
       "createdDate": 1682573858995,
-      "modifiedDate": 1682573858996
+      "modifiedDate": 1682577981815
     },
     "Calendar/Daily notes/2023-04-26.md": {
       "isDirectory": false,
