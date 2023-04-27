@@ -1,4 +1,3 @@
-![image.png](https://raw.githubusercontent.com/jeasonnow/pics/main/202304271612522.png)
 1. 每个模块都会进行的处理。
    - 检测模块的父子依赖，并记录。
    - 提供各种 hot API 用来管理更新关系 
@@ -46,4 +45,8 @@ module.hot.removeDisposeHandler(fn);
  - 提供 check 和 apply 方法
 2. 怎么获取更新？先 check 再 apply 。check 就是检查更新并下载更新的 module 和 chunk。而 apply 则会走如下流程：
    - 将所有更新的模块状态更新为不可用
-   - 
+   - 每个模块自己检测自己和父模块是否有 accept handler，没有的话会刷新，有的话会一直向上冒泡到最初的 accept handler 模块为止。
+   - dispose 并 upload 所有不可用的模块。
+   - 执行所有的 Accept Handler
+3. 主要的逻辑仍然在 Runtime 中，compiler 负责提供更新后的 module 和 chunk 列表：
+   ![](https://raw.githubusercontent.com/jeasonnow/pics/main/202304271738625.png)
