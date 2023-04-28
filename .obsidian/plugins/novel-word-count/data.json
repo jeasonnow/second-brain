@@ -16,16 +16,6 @@
     "pageCountType": "ByWords"
   },
   "cachedCounts": {
-    "» Daily notes工作流.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "createdDate": 1681958113679,
-      "modifiedDate": 1681958113679
-    },
     "∑ 本库 ACCESS 的文件夹入口汇总.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -36,6 +26,16 @@
       "createdDate": 1681969628442,
       "modifiedDate": 1681969628442
     },
+    "» Daily notes工作流.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1681958113679,
+      "modifiedDate": 1681958113679
+    },
     "Spaces/Studys/HMR 原理.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -45,26 +45,6 @@
       "nonWhitespaceCharacterCount": 2361,
       "createdDate": 1682583111544,
       "modifiedDate": 1682589239061
-    },
-    "Spaces/About Spaces.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 124,
-      "pageCount": 0.41333333333333333,
-      "characterCount": 1501,
-      "nonWhitespaceCharacterCount": 1266,
-      "createdDate": 1681783155158,
-      "modifiedDate": 1681783155158
-    },
-    "Spaces/Apps/Alfred.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 415,
-      "pageCount": 1.3833333333333333,
-      "characterCount": 773,
-      "nonWhitespaceCharacterCount": 734,
-      "createdDate": 1681897963793,
-      "modifiedDate": 1681900141439
     },
     "Spaces/Apps/SizeUp.md": {
       "isDirectory": false,
@@ -86,85 +66,25 @@
       "createdDate": 1681897521969,
       "modifiedDate": 1681897562990
     },
-    "HOMEPAGE.md": {
+    "Spaces/Apps/Alfred.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 146,
-      "pageCount": 0.4866666666666667,
-      "characterCount": 586,
-      "nonWhitespaceCharacterCount": 509,
-      "createdDate": 1681783154837,
-      "modifiedDate": 1681783154838
+      "wordCount": 415,
+      "pageCount": 1.3833333333333333,
+      "characterCount": 773,
+      "nonWhitespaceCharacterCount": 734,
+      "createdDate": 1681897963793,
+      "modifiedDate": 1681900141439
     },
-    "README.md": {
+    "Spaces/About Spaces.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 704,
-      "pageCount": 2.3466666666666667,
-      "characterCount": 2125,
-      "nonWhitespaceCharacterCount": 2009,
-      "createdDate": 1681783154838,
-      "modifiedDate": 1681783154838
-    },
-    "Sources/Newsletter + RSS/科技爱好者周刊 - 阮一峰.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 38,
-      "pageCount": 0.12666666666666668,
-      "characterCount": 241,
-      "nonWhitespaceCharacterCount": 218,
-      "createdDate": 1681783155057,
-      "modifiedDate": 1681783155057
-    },
-    "Sources/Newsletter + RSS/独立产品灵感周刊 DecoHack.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 34,
-      "pageCount": 0.11333333333333333,
-      "characterCount": 187,
-      "nonWhitespaceCharacterCount": 165,
-      "createdDate": 1681783155057,
-      "modifiedDate": 1681783155057
-    },
-    "Sources/Newsletter + RSS/好工具周刊 - BestXTools.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 55,
-      "pageCount": 0.18333333333333332,
-      "characterCount": 239,
-      "nonWhitespaceCharacterCount": 217,
-      "createdDate": 1681783155056,
-      "modifiedDate": 1681783155057
-    },
-    "Sources/Newsletter + RSS/产品沉思录 - 少楠.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 51,
-      "pageCount": 0.17,
-      "characterCount": 216,
-      "nonWhitespaceCharacterCount": 198,
-      "createdDate": 1681783155056,
-      "modifiedDate": 1681783155056
-    },
-    "Sources/Newsletter + RSS/∑ 订阅型期刊笔记.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 90,
-      "pageCount": 0.3,
-      "characterCount": 312,
-      "nonWhitespaceCharacterCount": 269,
-      "createdDate": 1681783155056,
-      "modifiedDate": 1681783155056
-    },
-    "Sources/Newsletter + RSS/§ 订阅列表.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 50,
-      "pageCount": 0.16666666666666666,
-      "characterCount": 2956,
-      "nonWhitespaceCharacterCount": 2240,
-      "createdDate": 1681783155056,
-      "modifiedDate": 1681783155056
+      "wordCount": 124,
+      "pageCount": 0.41333333333333333,
+      "characterCount": 1501,
+      "nonWhitespaceCharacterCount": 1266,
+      "createdDate": 1681783155158,
+      "modifiedDate": 1681783155158
     },
     "Sources/Videos/📹视频笔记-youtube.md": {
       "isDirectory": false,
@@ -286,55 +206,65 @@
       "createdDate": 1681783155057,
       "modifiedDate": 1681783155057
     },
-    "Sources/About Sources.md": {
+    "Sources/Newsletter + RSS/科技爱好者周刊 - 阮一峰.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 120,
-      "pageCount": 0.4,
-      "characterCount": 513,
-      "nonWhitespaceCharacterCount": 445,
-      "createdDate": 1681783154838,
-      "modifiedDate": 1681783154838
+      "wordCount": 38,
+      "pageCount": 0.12666666666666668,
+      "characterCount": 241,
+      "nonWhitespaceCharacterCount": 218,
+      "createdDate": 1681783155057,
+      "modifiedDate": 1681783155057
     },
-    "Sources/Books/微信读书同步/心理/认知觉醒：开启自我改变的原动力.md": {
+    "Sources/Newsletter + RSS/独立产品灵感周刊 DecoHack.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 1874,
-      "pageCount": 6.246666666666667,
-      "characterCount": 3791,
-      "nonWhitespaceCharacterCount": 3261,
-      "createdDate": 1682573863475,
-      "modifiedDate": 1682573863475
+      "wordCount": 34,
+      "pageCount": 0.11333333333333333,
+      "characterCount": 187,
+      "nonWhitespaceCharacterCount": 165,
+      "createdDate": 1681783155057,
+      "modifiedDate": 1681783155057
     },
-    "Sources/Books/微信读书同步/哲学宗教/资本论（超值白金版）.md": {
+    "Sources/Newsletter + RSS/好工具周刊 - BestXTools.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 747,
-      "pageCount": 2.49,
-      "characterCount": 1611,
-      "nonWhitespaceCharacterCount": 1395,
-      "createdDate": 1681955543417,
-      "modifiedDate": 1681955543445
+      "wordCount": 55,
+      "pageCount": 0.18333333333333332,
+      "characterCount": 239,
+      "nonWhitespaceCharacterCount": 217,
+      "createdDate": 1681783155056,
+      "modifiedDate": 1681783155057
     },
-    "Sources/Books/微信读书同步/哲学宗教/查拉图斯特拉如是说.md": {
+    "Sources/Newsletter + RSS/产品沉思录 - 少楠.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 2728,
-      "pageCount": 9.093333333333334,
-      "characterCount": 5058,
-      "nonWhitespaceCharacterCount": 4373,
-      "createdDate": 1681955543260,
-      "modifiedDate": 1681955543275
+      "wordCount": 51,
+      "pageCount": 0.17,
+      "characterCount": 216,
+      "nonWhitespaceCharacterCount": 198,
+      "createdDate": 1681783155056,
+      "modifiedDate": 1681783155056
     },
-    "Sources/Books/微信读书同步/哲学宗教/哲学家们都干了些什么？ （修订版）.md": {
+    "Sources/Newsletter + RSS/∑ 订阅型期刊笔记.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 404,
-      "pageCount": 1.3466666666666667,
-      "characterCount": 1020,
-      "nonWhitespaceCharacterCount": 863,
-      "createdDate": 1681955543371,
-      "modifiedDate": 1681955543391
+      "wordCount": 90,
+      "pageCount": 0.3,
+      "characterCount": 312,
+      "nonWhitespaceCharacterCount": 269,
+      "createdDate": 1681783155056,
+      "modifiedDate": 1681783155056
+    },
+    "Sources/Newsletter + RSS/§ 订阅列表.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 50,
+      "pageCount": 0.16666666666666666,
+      "characterCount": 2956,
+      "nonWhitespaceCharacterCount": 2240,
+      "createdDate": 1681783155056,
+      "modifiedDate": 1681783155056
     },
     "Sources/Books/微信读书同步/计算机/领域驱动设计（Thoughtworks洞见）.md": {
       "isDirectory": false,
@@ -486,6 +416,46 @@
       "createdDate": 1681955543555,
       "modifiedDate": 1681955543571
     },
+    "Sources/Books/微信读书同步/心理/认知觉醒：开启自我改变的原动力.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 1874,
+      "pageCount": 6.246666666666667,
+      "characterCount": 3791,
+      "nonWhitespaceCharacterCount": 3261,
+      "createdDate": 1682573863475,
+      "modifiedDate": 1682573863475
+    },
+    "Sources/Books/微信读书同步/哲学宗教/资本论（超值白金版）.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 747,
+      "pageCount": 2.49,
+      "characterCount": 1611,
+      "nonWhitespaceCharacterCount": 1395,
+      "createdDate": 1681955543417,
+      "modifiedDate": 1681955543445
+    },
+    "Sources/Books/微信读书同步/哲学宗教/查拉图斯特拉如是说.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 2728,
+      "pageCount": 9.093333333333334,
+      "characterCount": 5058,
+      "nonWhitespaceCharacterCount": 4373,
+      "createdDate": 1681955543260,
+      "modifiedDate": 1681955543275
+    },
+    "Sources/Books/微信读书同步/哲学宗教/哲学家们都干了些什么？ （修订版）.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 404,
+      "pageCount": 1.3466666666666667,
+      "characterCount": 1020,
+      "nonWhitespaceCharacterCount": 863,
+      "createdDate": 1681955543371,
+      "modifiedDate": 1681955543391
+    },
     "Sources/Books/微信读书同步/个人成长/逆转：弱者如何找到优势，反败为胜.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -516,315 +486,265 @@
       "createdDate": 1681955544626,
       "modifiedDate": 1681955544648
     },
-    "Cards/最佳实践.md": {
+    "Sources/About Sources.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 120,
+      "pageCount": 0.4,
+      "characterCount": 513,
+      "nonWhitespaceCharacterCount": 445,
+      "createdDate": 1681783154838,
+      "modifiedDate": 1681783154838
+    },
+    "README.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 704,
+      "pageCount": 2.3466666666666667,
+      "characterCount": 2125,
+      "nonWhitespaceCharacterCount": 2009,
+      "createdDate": 1681783154838,
+      "modifiedDate": 1681783154838
+    },
+    "HOMEPAGE.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 146,
+      "pageCount": 0.4866666666666667,
+      "characterCount": 586,
+      "nonWhitespaceCharacterCount": 509,
+      "createdDate": 1681783154837,
+      "modifiedDate": 1681783154838
+    },
+    "Extras/Templates/其他/领域入门模板.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 15,
+      "pageCount": 0.05,
+      "characterCount": 20,
+      "nonWhitespaceCharacterCount": 15,
+      "createdDate": 1681783154836,
+      "modifiedDate": 1681783154836
+    },
+    "Extras/Templates/其他/模板来源.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 18,
+      "pageCount": 0.06,
+      "characterCount": 20,
+      "nonWhitespaceCharacterCount": 20,
+      "createdDate": 1681783154836,
+      "modifiedDate": 1681783154836
+    },
+    "Extras/Templates/其他/更新日志模板.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 1,
+      "pageCount": 0.0033333333333333335,
+      "characterCount": 84,
+      "nonWhitespaceCharacterCount": 66,
+      "createdDate": 1681783154836,
+      "modifiedDate": 1681783154836
+    },
+    "Extras/Templates/其他/思维思考模板/康奈尔笔记法模板.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 318,
+      "pageCount": 1.06,
+      "characterCount": 521,
+      "nonWhitespaceCharacterCount": 452,
+      "createdDate": 1681783154836,
+      "modifiedDate": 1681783154836
+    },
+    "Extras/Templates/其他/思维思考模板/六顶思考帽模板.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 228,
+      "pageCount": 0.76,
+      "characterCount": 424,
+      "nonWhitespaceCharacterCount": 344,
+      "createdDate": 1681783154835,
+      "modifiedDate": 1681783154835
+    },
+    "Extras/Templates/其他/微信读书同步模板.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 63,
+      "pageCount": 0.21,
+      "characterCount": 1840,
+      "nonWhitespaceCharacterCount": 1627,
+      "createdDate": 1681783154835,
+      "modifiedDate": 1681783154835
+    },
+    "Extras/Templates/其他/工作流模板.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 18,
+      "pageCount": 0.06,
+      "characterCount": 36,
+      "nonWhitespaceCharacterCount": 26,
+      "createdDate": 1681783154835,
+      "modifiedDate": 1681783154835
+    },
+    "Extras/Templates/其他/tp_学习测试.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 12,
+      "pageCount": 0.04,
+      "characterCount": 1027,
+      "nonWhitespaceCharacterCount": 877,
+      "createdDate": 1681783154835,
+      "modifiedDate": 1681783154835
+    },
+    "Extras/Templates/其他/mermaid模板/mermaid模板.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 157,
+      "pageCount": 0.5233333333333333,
+      "characterCount": 2152,
+      "nonWhitespaceCharacterCount": 1537,
+      "createdDate": 1681783154834,
+      "modifiedDate": 1681783154835
+    },
+    "Extras/Templates/其他/mermaid模板/mermaid stateDiagram 模板.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 1,
+      "pageCount": 0.0033333333333333335,
+      "characterCount": 156,
+      "nonWhitespaceCharacterCount": 109,
+      "createdDate": 1681783154834,
+      "modifiedDate": 1681783154834
+    },
+    "Extras/Templates/其他/mermaid模板/mermaid sequenceDiagram 模板.md": {
       "isDirectory": false,
       "noteCount": 1,
       "wordCount": 0,
       "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "createdDate": 1682675114666,
-      "modifiedDate": 1682675114666
+      "characterCount": 304,
+      "nonWhitespaceCharacterCount": 216,
+      "createdDate": 1681783154834,
+      "modifiedDate": 1681783154834
     },
-    "Cards/解决问题最佳实践.md": {
+    "Extras/Templates/其他/mermaid模板/mermaid pie 模板.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 72,
-      "pageCount": 0.24,
-      "characterCount": 241,
-      "nonWhitespaceCharacterCount": 205,
-      "createdDate": 1682660346098,
-      "modifiedDate": 1682675111683
+      "wordCount": 7,
+      "pageCount": 0.023333333333333334,
+      "characterCount": 148,
+      "nonWhitespaceCharacterCount": 105,
+      "createdDate": 1681783154834,
+      "modifiedDate": 1681783154834
     },
-    "Cards/计算机网络.md": {
+    "Extras/Templates/其他/mermaid模板/mermaid journal 模板.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 5,
+      "pageCount": 0.016666666666666666,
+      "characterCount": 220,
+      "nonWhitespaceCharacterCount": 142,
+      "createdDate": 1681783154834,
+      "modifiedDate": 1681783154834
+    },
+    "Extras/Templates/其他/mermaid模板/mermaid graph 模板.md": {
       "isDirectory": false,
       "noteCount": 1,
       "wordCount": 0,
       "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "createdDate": 1682589342229,
-      "modifiedDate": 1682589342229
+      "characterCount": 77,
+      "nonWhitespaceCharacterCount": 45,
+      "createdDate": 1681783154834,
+      "modifiedDate": 1681783154834
     },
-    "Cards/前端技术.md": {
+    "Extras/Templates/其他/mermaid模板/mermaid gantt 模板.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "createdDate": 1682589334763,
-      "modifiedDate": 1682589334763
+      "wordCount": 22,
+      "pageCount": 0.07333333333333333,
+      "characterCount": 391,
+      "nonWhitespaceCharacterCount": 255,
+      "createdDate": 1681783154833,
+      "modifiedDate": 1681783154834
     },
-    "Cards/如何在移动端禁用、反禁用复制功能.md": {
+    "Extras/Templates/其他/mermaid模板/mermaid flow chart 模板.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 218,
-      "pageCount": 0.7266666666666667,
-      "characterCount": 481,
-      "nonWhitespaceCharacterCount": 435,
-      "createdDate": 1682589259695,
-      "modifiedDate": 1682589709382
+      "wordCount": 9,
+      "pageCount": 0.03,
+      "characterCount": 172,
+      "nonWhitespaceCharacterCount": 130,
+      "createdDate": 1681783154833,
+      "modifiedDate": 1681783154833
     },
-    "Cards/SOP.md": {
+    "Extras/Templates/其他/mermaid模板/mermaid class diagram 模板.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 177,
-      "pageCount": 0.59,
-      "characterCount": 445,
-      "nonWhitespaceCharacterCount": 415,
-      "createdDate": 1681979868095,
-      "modifiedDate": 1681980364505
+      "wordCount": 20,
+      "pageCount": 0.06666666666666667,
+      "characterCount": 358,
+      "nonWhitespaceCharacterCount": 277,
+      "createdDate": 1681783154833,
+      "modifiedDate": 1681783154833
     },
-    "Cards/关于公司内网的组织结构.md": {
+    "Extras/Templates/其他/dict/dict.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 112,
-      "pageCount": 0.37333333333333335,
-      "characterCount": 242,
-      "nonWhitespaceCharacterCount": 217,
-      "createdDate": 1681896881877,
-      "modifiedDate": 1681897167169
+      "wordCount": 128,
+      "pageCount": 0.4266666666666667,
+      "characterCount": 906,
+      "nonWhitespaceCharacterCount": 772,
+      "createdDate": 1681783154833,
+      "modifiedDate": 1681783154833
     },
-    "Cards/About Cards.md": {
+    "Extras/Templates/其他/dict/chatgpt_prompts_dict.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 261,
-      "pageCount": 0.87,
-      "characterCount": 1479,
-      "nonWhitespaceCharacterCount": 1269,
-      "createdDate": 1681783151766,
-      "modifiedDate": 1681783151766
+      "wordCount": 76,
+      "pageCount": 0.25333333333333335,
+      "characterCount": 132,
+      "nonWhitespaceCharacterCount": 120,
+      "createdDate": 1681783154833,
+      "modifiedDate": 1681783154833
     },
-    "Calendar/文章草稿/为 Android  和 IOS 设备做域名映射.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 322,
-      "pageCount": 1.0733333333333333,
-      "characterCount": 488,
-      "nonWhitespaceCharacterCount": 432,
-      "createdDate": 1682061703544,
-      "modifiedDate": 1682062486841
-    },
-    "Calendar/文章草稿/∑ 文章草稿.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 41,
-      "pageCount": 0.13666666666666666,
-      "characterCount": 175,
-      "nonWhitespaceCharacterCount": 153,
-      "createdDate": 1681783151766,
-      "modifiedDate": 1681783151766
-    },
-    "Calendar/文章草稿/» 本库文章发布工作流.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 72,
-      "pageCount": 0.24,
-      "characterCount": 286,
-      "nonWhitespaceCharacterCount": 260,
-      "createdDate": 1681783151765,
-      "modifiedDate": 1681783151765
-    },
-    "Calendar/文章草稿/» obsidian中的文章草稿到少数派上投稿，需要经历的处理步骤.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 28,
-      "pageCount": 0.09333333333333334,
-      "characterCount": 100,
-      "nonWhitespaceCharacterCount": 89,
-      "createdDate": 1681783151765,
-      "modifiedDate": 1681783151765
-    },
-    "Calendar/已发布文章/∑ 已发布文章.md": {
+    "Extras/Templates/其他/anki卡片模板.md": {
       "isDirectory": false,
       "noteCount": 1,
       "wordCount": 36,
       "pageCount": 0.12,
-      "characterCount": 139,
-      "nonWhitespaceCharacterCount": 113,
-      "createdDate": 1681783151762,
-      "modifiedDate": 1681783151762
+      "characterCount": 163,
+      "nonWhitespaceCharacterCount": 134,
+      "createdDate": 1681783154833,
+      "modifiedDate": 1681783154833
     },
-    "Calendar/已发布文章/» 写文章选题管理技巧.md": {
+    "Extras/Templates/∑ 模板文件创建入口.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 160,
-      "pageCount": 0.5333333333333333,
-      "characterCount": 352,
-      "nonWhitespaceCharacterCount": 294,
-      "createdDate": 1681783151762,
-      "modifiedDate": 1681783151762
+      "wordCount": 154,
+      "pageCount": 0.5133333333333333,
+      "characterCount": 442,
+      "nonWhitespaceCharacterCount": 367,
+      "createdDate": 1681783154832,
+      "modifiedDate": 1681783154832
     },
-    "Calendar/已发布文章/» 写文章选题分类.md": {
+    "Extras/Templates/textgenerator模板/prompts/自建/AI - 头脑风暴.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 261,
-      "pageCount": 0.87,
-      "characterCount": 424,
-      "nonWhitespaceCharacterCount": 401,
-      "createdDate": 1681783151762,
-      "modifiedDate": 1681783151762
+      "wordCount": 35,
+      "pageCount": 0.11666666666666667,
+      "characterCount": 185,
+      "nonWhitespaceCharacterCount": 158,
+      "createdDate": 1681783154832,
+      "modifiedDate": 1681783154832
     },
-    "Calendar/Plan & Review/每周回顾/每周写工作周报就精疲力尽，因此暂时不在个人笔记库做每周回顾.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 34,
-      "pageCount": 0.11333333333333333,
-      "characterCount": 96,
-      "nonWhitespaceCharacterCount": 86,
-      "createdDate": 1681783151761,
-      "modifiedDate": 1681783151761
-    },
-    "Calendar/Daily notes/2023-04-27.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 345,
-      "pageCount": 1.15,
-      "characterCount": 852,
-      "nonWhitespaceCharacterCount": 811,
-      "createdDate": 1682573858995,
-      "modifiedDate": 1682577981815
-    },
-    "Calendar/Daily notes/2023-04-26.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 37,
-      "pageCount": 0.12333333333333334,
-      "characterCount": 150,
-      "nonWhitespaceCharacterCount": 124,
-      "createdDate": 1682473374884,
-      "modifiedDate": 1682573858238
-    },
-    "Calendar/Daily notes/2023-04-25.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 194,
-      "pageCount": 0.6466666666666666,
-      "characterCount": 629,
-      "nonWhitespaceCharacterCount": 573,
-      "createdDate": 1682386844657,
-      "modifiedDate": 1682417871783
-    },
-    "Calendar/Daily notes/2023-04-24.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 49,
-      "pageCount": 0.16333333333333333,
-      "characterCount": 224,
-      "nonWhitespaceCharacterCount": 202,
-      "createdDate": 1682301659924,
-      "modifiedDate": 1682301662775
-    },
-    "Calendar/Daily notes/2023-04-23.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 40,
-      "pageCount": 0.13333333333333333,
-      "characterCount": 177,
-      "nonWhitespaceCharacterCount": 136,
-      "createdDate": 1682216681803,
-      "modifiedDate": 1682243829556
-    },
-    "Calendar/Daily notes/2023-04-22.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 8,
-      "pageCount": 0.02666666666666667,
-      "characterCount": 69,
-      "nonWhitespaceCharacterCount": 54,
-      "createdDate": 1682216891523,
-      "modifiedDate": 1682216891523
-    },
-    "Calendar/Daily notes/2023-04-19.md": {
+    "Extras/Templates/textgenerator模板/prompts/自建/AI - 翻译英文段落.md": {
       "isDirectory": false,
       "noteCount": 1,
       "wordCount": 25,
       "pageCount": 0.08333333333333333,
-      "characterCount": 47,
-      "nonWhitespaceCharacterCount": 38,
-      "createdDate": 1681893334739,
-      "modifiedDate": 1681893401382
-    },
-    "Calendar/Daily notes/2023-04-21.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 81,
-      "pageCount": 0.27,
-      "characterCount": 247,
-      "nonWhitespaceCharacterCount": 206,
-      "createdDate": 1682041006709,
-      "modifiedDate": 1682044353096
-    },
-    "Calendar/Daily notes/2023-04-20.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 52,
-      "pageCount": 0.17333333333333334,
-      "characterCount": 161,
-      "nonWhitespaceCharacterCount": 138,
-      "createdDate": 1681955574684,
-      "modifiedDate": 1681980448957
-    },
-    "Calendar/Daily notes/2023-04-18.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 31,
-      "pageCount": 0.10333333333333333,
-      "characterCount": 51,
-      "nonWhitespaceCharacterCount": 43,
-      "createdDate": 1681787098033,
-      "modifiedDate": 1681893331720
-    },
-    "Calendar/About Calendar.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 62,
-      "pageCount": 0.20666666666666667,
-      "characterCount": 536,
-      "nonWhitespaceCharacterCount": 441,
-      "createdDate": 1681783151726,
-      "modifiedDate": 1681783151726
-    },
-    "Extras/Templates/Spaces模板/Resource创建模板.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "createdDate": 1681783154817,
-      "modifiedDate": 1681783154817
-    },
-    "Extras/Templates/Spaces模板/Project创建模板.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "createdDate": 1681783154817,
-      "modifiedDate": 1681783154817
-    },
-    "Extras/Templates/Spaces模板/Archive创建模板.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "createdDate": 1681783154817,
-      "modifiedDate": 1681783154817
-    },
-    "Extras/Templates/Spaces模板/Area创建模板.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "createdDate": 1681783154817,
-      "modifiedDate": 1681783154817
+      "characterCount": 179,
+      "nonWhitespaceCharacterCount": 149,
+      "createdDate": 1681783154832,
+      "modifiedDate": 1681783154832
     },
     "Extras/Templates/textgenerator模板/prompts/huggingface/summarizeBART.md": {
       "isDirectory": false,
@@ -896,16 +816,6 @@
       "createdDate": 1681783154830,
       "modifiedDate": 1681783154830
     },
-    "Extras/Templates/textgenerator模板/prompts/default/getParagraph.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 3,
-      "pageCount": 0.01,
-      "characterCount": 269,
-      "nonWhitespaceCharacterCount": 228,
-      "createdDate": 1681783154830,
-      "modifiedDate": 1681783154830
-    },
     "Extras/Templates/textgenerator模板/prompts/default/getTags.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -913,6 +823,16 @@
       "pageCount": 0.013333333333333334,
       "characterCount": 307,
       "nonWhitespaceCharacterCount": 256,
+      "createdDate": 1681783154830,
+      "modifiedDate": 1681783154830
+    },
+    "Extras/Templates/textgenerator模板/prompts/default/getParagraph.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 3,
+      "pageCount": 0.01,
+      "characterCount": 269,
+      "nonWhitespaceCharacterCount": 228,
       "createdDate": 1681783154830,
       "modifiedDate": 1681783154830
     },
@@ -956,56 +876,6 @@
       "createdDate": 1681783154829,
       "modifiedDate": 1681783154830
     },
-    "Extras/Templates/textgenerator模板/prompts/自建/AI - 翻译英文段落.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 25,
-      "pageCount": 0.08333333333333333,
-      "characterCount": 179,
-      "nonWhitespaceCharacterCount": 149,
-      "createdDate": 1681783154832,
-      "modifiedDate": 1681783154832
-    },
-    "Extras/Templates/textgenerator模板/prompts/自建/AI - 头脑风暴.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 35,
-      "pageCount": 0.11666666666666667,
-      "characterCount": 185,
-      "nonWhitespaceCharacterCount": 158,
-      "createdDate": 1681783154832,
-      "modifiedDate": 1681783154832
-    },
-    "Extras/Templates/textgenerator模板/prompts/dalle-2/quaMacro.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 10,
-      "pageCount": 0.03333333333333333,
-      "characterCount": 485,
-      "nonWhitespaceCharacterCount": 415,
-      "createdDate": 1681783154829,
-      "modifiedDate": 1681783154829
-    },
-    "Extras/Templates/textgenerator模板/prompts/dalle-2/artClaymation.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 10,
-      "pageCount": 0.03333333333333333,
-      "characterCount": 530,
-      "nonWhitespaceCharacterCount": 455,
-      "createdDate": 1681783154819,
-      "modifiedDate": 1681783154819
-    },
-    "Extras/Templates/textgenerator模板/prompts/dalle-2/artColoringBook.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 10,
-      "pageCount": 0.03333333333333333,
-      "characterCount": 521,
-      "nonWhitespaceCharacterCount": 446,
-      "createdDate": 1681783154819,
-      "modifiedDate": 1681783154819
-    },
     "Extras/Templates/textgenerator模板/prompts/dalle-2/sitNature.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -1023,6 +893,16 @@
       "pageCount": 0.03333333333333333,
       "characterCount": 516,
       "nonWhitespaceCharacterCount": 445,
+      "createdDate": 1681783154829,
+      "modifiedDate": 1681783154829
+    },
+    "Extras/Templates/textgenerator模板/prompts/dalle-2/quaMacro.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 10,
+      "pageCount": 0.03333333333333333,
+      "characterCount": 485,
+      "nonWhitespaceCharacterCount": 415,
       "createdDate": 1681783154829,
       "modifiedDate": 1681783154829
     },
@@ -1406,6 +1286,16 @@
       "createdDate": 1681783154821,
       "modifiedDate": 1681783154821
     },
+    "Extras/Templates/textgenerator模板/prompts/dalle-2/artDigital.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 10,
+      "pageCount": 0.03333333333333333,
+      "characterCount": 511,
+      "nonWhitespaceCharacterCount": 435,
+      "createdDate": 1681783154820,
+      "modifiedDate": 1681783154820
+    },
     "Extras/Templates/textgenerator模板/prompts/dalle-2/artGlitchcore.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -1416,13 +1306,13 @@
       "createdDate": 1681783154820,
       "modifiedDate": 1681783154820
     },
-    "Extras/Templates/textgenerator模板/prompts/dalle-2/artDigital.md": {
+    "Extras/Templates/textgenerator模板/prompts/dalle-2/artDeco.md": {
       "isDirectory": false,
       "noteCount": 1,
       "wordCount": 10,
       "pageCount": 0.03333333333333333,
-      "characterCount": 511,
-      "nonWhitespaceCharacterCount": 435,
+      "characterCount": 498,
+      "nonWhitespaceCharacterCount": 423,
       "createdDate": 1681783154820,
       "modifiedDate": 1681783154820
     },
@@ -1436,24 +1326,24 @@
       "createdDate": 1681783154819,
       "modifiedDate": 1681783154820
     },
-    "Extras/Templates/textgenerator模板/prompts/dalle-2/artDeco.md": {
+    "Extras/Templates/textgenerator模板/prompts/dalle-2/artColoringBook.md": {
       "isDirectory": false,
       "noteCount": 1,
       "wordCount": 10,
       "pageCount": 0.03333333333333333,
-      "characterCount": 498,
-      "nonWhitespaceCharacterCount": 423,
-      "createdDate": 1681783154820,
-      "modifiedDate": 1681783154820
+      "characterCount": 521,
+      "nonWhitespaceCharacterCount": 446,
+      "createdDate": 1681783154819,
+      "modifiedDate": 1681783154819
     },
-    "Extras/Templates/textgenerator模板/prompts/dalle-2/artCartoon.md": {
+    "Extras/Templates/textgenerator模板/prompts/dalle-2/artClaymation.md": {
       "isDirectory": false,
       "noteCount": 1,
       "wordCount": 10,
       "pageCount": 0.03333333333333333,
-      "characterCount": 509,
-      "nonWhitespaceCharacterCount": 435,
-      "createdDate": 1681783154818,
+      "characterCount": 530,
+      "nonWhitespaceCharacterCount": 455,
+      "createdDate": 1681783154819,
       "modifiedDate": 1681783154819
     },
     "Extras/Templates/textgenerator模板/prompts/dalle-2/artChildrenDrawing.md": {
@@ -1464,6 +1354,16 @@
       "characterCount": 537,
       "nonWhitespaceCharacterCount": 461,
       "createdDate": 1681783154819,
+      "modifiedDate": 1681783154819
+    },
+    "Extras/Templates/textgenerator模板/prompts/dalle-2/artCartoon.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 10,
+      "pageCount": 0.03333333333333333,
+      "characterCount": 509,
+      "nonWhitespaceCharacterCount": 435,
+      "createdDate": 1681783154818,
       "modifiedDate": 1681783154819
     },
     "Extras/Templates/textgenerator模板/prompts/dalle-2/artBauhaus.md": {
@@ -1516,285 +1416,45 @@
       "createdDate": 1681783154817,
       "modifiedDate": 1681783154818
     },
-    "Extras/Templates/其他/领域入门模板.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 15,
-      "pageCount": 0.05,
-      "characterCount": 20,
-      "nonWhitespaceCharacterCount": 15,
-      "createdDate": 1681783154836,
-      "modifiedDate": 1681783154836
-    },
-    "Extras/Templates/其他/模板来源.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 18,
-      "pageCount": 0.06,
-      "characterCount": 20,
-      "nonWhitespaceCharacterCount": 20,
-      "createdDate": 1681783154836,
-      "modifiedDate": 1681783154836
-    },
-    "Extras/Templates/其他/更新日志模板.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 1,
-      "pageCount": 0.0033333333333333335,
-      "characterCount": 84,
-      "nonWhitespaceCharacterCount": 66,
-      "createdDate": 1681783154836,
-      "modifiedDate": 1681783154836
-    },
-    "Extras/Templates/其他/思维思考模板/康奈尔笔记法模板.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 318,
-      "pageCount": 1.06,
-      "characterCount": 521,
-      "nonWhitespaceCharacterCount": 452,
-      "createdDate": 1681783154836,
-      "modifiedDate": 1681783154836
-    },
-    "Extras/Templates/其他/思维思考模板/六顶思考帽模板.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 228,
-      "pageCount": 0.76,
-      "characterCount": 424,
-      "nonWhitespaceCharacterCount": 344,
-      "createdDate": 1681783154835,
-      "modifiedDate": 1681783154835
-    },
-    "Extras/Templates/其他/微信读书同步模板.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 63,
-      "pageCount": 0.21,
-      "characterCount": 1840,
-      "nonWhitespaceCharacterCount": 1627,
-      "createdDate": 1681783154835,
-      "modifiedDate": 1681783154835
-    },
-    "Extras/Templates/其他/工作流模板.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 18,
-      "pageCount": 0.06,
-      "characterCount": 36,
-      "nonWhitespaceCharacterCount": 26,
-      "createdDate": 1681783154835,
-      "modifiedDate": 1681783154835
-    },
-    "Extras/Templates/其他/tp_学习测试.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 12,
-      "pageCount": 0.04,
-      "characterCount": 1027,
-      "nonWhitespaceCharacterCount": 877,
-      "createdDate": 1681783154835,
-      "modifiedDate": 1681783154835
-    },
-    "Extras/Templates/其他/mermaid模板/mermaid模板.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 157,
-      "pageCount": 0.5233333333333333,
-      "characterCount": 2152,
-      "nonWhitespaceCharacterCount": 1537,
-      "createdDate": 1681783154834,
-      "modifiedDate": 1681783154835
-    },
-    "Extras/Templates/其他/mermaid模板/mermaid stateDiagram 模板.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 1,
-      "pageCount": 0.0033333333333333335,
-      "characterCount": 156,
-      "nonWhitespaceCharacterCount": 109,
-      "createdDate": 1681783154834,
-      "modifiedDate": 1681783154834
-    },
-    "Extras/Templates/其他/mermaid模板/mermaid pie 模板.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 7,
-      "pageCount": 0.023333333333333334,
-      "characterCount": 148,
-      "nonWhitespaceCharacterCount": 105,
-      "createdDate": 1681783154834,
-      "modifiedDate": 1681783154834
-    },
-    "Extras/Templates/其他/mermaid模板/mermaid sequenceDiagram 模板.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 0,
-      "pageCount": 0,
-      "characterCount": 304,
-      "nonWhitespaceCharacterCount": 216,
-      "createdDate": 1681783154834,
-      "modifiedDate": 1681783154834
-    },
-    "Extras/Templates/其他/mermaid模板/mermaid graph 模板.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 0,
-      "pageCount": 0,
-      "characterCount": 77,
-      "nonWhitespaceCharacterCount": 45,
-      "createdDate": 1681783154834,
-      "modifiedDate": 1681783154834
-    },
-    "Extras/Templates/其他/mermaid模板/mermaid journal 模板.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 5,
-      "pageCount": 0.016666666666666666,
-      "characterCount": 220,
-      "nonWhitespaceCharacterCount": 142,
-      "createdDate": 1681783154834,
-      "modifiedDate": 1681783154834
-    },
-    "Extras/Templates/其他/mermaid模板/mermaid gantt 模板.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 22,
-      "pageCount": 0.07333333333333333,
-      "characterCount": 391,
-      "nonWhitespaceCharacterCount": 255,
-      "createdDate": 1681783154833,
-      "modifiedDate": 1681783154834
-    },
-    "Extras/Templates/其他/mermaid模板/mermaid flow chart 模板.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 9,
-      "pageCount": 0.03,
-      "characterCount": 172,
-      "nonWhitespaceCharacterCount": 130,
-      "createdDate": 1681783154833,
-      "modifiedDate": 1681783154833
-    },
-    "Extras/Templates/其他/mermaid模板/mermaid class diagram 模板.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 20,
-      "pageCount": 0.06666666666666667,
-      "characterCount": 358,
-      "nonWhitespaceCharacterCount": 277,
-      "createdDate": 1681783154833,
-      "modifiedDate": 1681783154833
-    },
-    "Extras/Templates/其他/dict/dict.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 128,
-      "pageCount": 0.4266666666666667,
-      "characterCount": 906,
-      "nonWhitespaceCharacterCount": 772,
-      "createdDate": 1681783154833,
-      "modifiedDate": 1681783154833
-    },
-    "Extras/Templates/其他/dict/chatgpt_prompts_dict.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 76,
-      "pageCount": 0.25333333333333335,
-      "characterCount": 132,
-      "nonWhitespaceCharacterCount": 120,
-      "createdDate": 1681783154833,
-      "modifiedDate": 1681783154833
-    },
-    "Extras/Templates/其他/anki卡片模板.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 36,
-      "pageCount": 0.12,
-      "characterCount": 163,
-      "nonWhitespaceCharacterCount": 134,
-      "createdDate": 1681783154833,
-      "modifiedDate": 1681783154833
-    },
-    "Extras/Templates/∑ 模板文件创建入口.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 154,
-      "pageCount": 0.5133333333333333,
-      "characterCount": 442,
-      "nonWhitespaceCharacterCount": 367,
-      "createdDate": 1681783154832,
-      "modifiedDate": 1681783154832
-    },
-    "Extras/Templates/Calendar模板/文章发布模板/文章草稿-模板.md": {
+    "Extras/Templates/Spaces模板/Resource创建模板.md": {
       "isDirectory": false,
       "noteCount": 1,
       "wordCount": 0,
       "pageCount": 0,
       "characterCount": 0,
       "nonWhitespaceCharacterCount": 0,
-      "createdDate": 1681783154812,
-      "modifiedDate": 1681783154812
+      "createdDate": 1681783154817,
+      "modifiedDate": 1681783154817
     },
-    "Extras/Templates/Calendar模板/文章发布模板/发文章-前言模板.md": {
+    "Extras/Templates/Spaces模板/Project创建模板.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 19,
-      "pageCount": 0.06333333333333334,
-      "characterCount": 22,
-      "nonWhitespaceCharacterCount": 22,
-      "createdDate": 1681783154812,
-      "modifiedDate": 1681783154812
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1681783154817,
+      "modifiedDate": 1681783154817
     },
-    "Extras/Templates/Calendar模板/文章发布模板/发文章-写在最后模板.md": {
+    "Extras/Templates/Spaces模板/Area创建模板.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 55,
-      "pageCount": 0.18333333333333332,
-      "characterCount": 196,
-      "nonWhitespaceCharacterCount": 186,
-      "createdDate": 1681783154811,
-      "modifiedDate": 1681783154811
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1681783154817,
+      "modifiedDate": 1681783154817
     },
-    "Extras/Templates/Calendar模板/回顾总结模板/月度模板.md": {
+    "Extras/Templates/Spaces模板/Archive创建模板.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 34,
-      "pageCount": 0.11333333333333333,
-      "characterCount": 48,
-      "nonWhitespaceCharacterCount": 40,
-      "createdDate": 1681783154811,
-      "modifiedDate": 1681783154811
-    },
-    "Extras/Templates/Calendar模板/回顾总结模板/周记模板.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 34,
-      "pageCount": 0.11333333333333333,
-      "characterCount": 48,
-      "nonWhitespaceCharacterCount": 40,
-      "createdDate": 1681783154811,
-      "modifiedDate": 1681783154811
-    },
-    "Extras/Templates/Calendar模板/会议相关模板/会议纪要模板.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 54,
-      "pageCount": 0.18,
-      "characterCount": 101,
-      "nonWhitespaceCharacterCount": 77,
-      "createdDate": 1681783154811,
-      "modifiedDate": 1681783154811
-    },
-    "Extras/Templates/Calendar模板/Daily notes模板.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 8,
-      "pageCount": 0.02666666666666667,
-      "characterCount": 69,
-      "nonWhitespaceCharacterCount": 54,
-      "createdDate": 1681783154810,
-      "modifiedDate": 1682040998375
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1681783154817,
+      "modifiedDate": 1681783154817
     },
     "Extras/Templates/Sources模板/课程笔记模板.md": {
       "isDirectory": false,
@@ -1916,6 +1576,76 @@
       "createdDate": 1681783154813,
       "modifiedDate": 1681979914102
     },
+    "Extras/Templates/Calendar模板/文章发布模板/文章草稿-模板.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1681783154812,
+      "modifiedDate": 1681783154812
+    },
+    "Extras/Templates/Calendar模板/文章发布模板/发文章-前言模板.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 19,
+      "pageCount": 0.06333333333333334,
+      "characterCount": 22,
+      "nonWhitespaceCharacterCount": 22,
+      "createdDate": 1681783154812,
+      "modifiedDate": 1681783154812
+    },
+    "Extras/Templates/Calendar模板/文章发布模板/发文章-写在最后模板.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 55,
+      "pageCount": 0.18333333333333332,
+      "characterCount": 196,
+      "nonWhitespaceCharacterCount": 186,
+      "createdDate": 1681783154811,
+      "modifiedDate": 1681783154811
+    },
+    "Extras/Templates/Calendar模板/回顾总结模板/月度模板.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 34,
+      "pageCount": 0.11333333333333333,
+      "characterCount": 48,
+      "nonWhitespaceCharacterCount": 40,
+      "createdDate": 1681783154811,
+      "modifiedDate": 1681783154811
+    },
+    "Extras/Templates/Calendar模板/回顾总结模板/周记模板.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 34,
+      "pageCount": 0.11333333333333333,
+      "characterCount": 48,
+      "nonWhitespaceCharacterCount": 40,
+      "createdDate": 1681783154811,
+      "modifiedDate": 1681783154811
+    },
+    "Extras/Templates/Calendar模板/会议相关模板/会议纪要模板.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 54,
+      "pageCount": 0.18,
+      "characterCount": 101,
+      "nonWhitespaceCharacterCount": 77,
+      "createdDate": 1681783154811,
+      "modifiedDate": 1681783154811
+    },
+    "Extras/Templates/Calendar模板/Daily notes模板.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 8,
+      "pageCount": 0.02666666666666667,
+      "characterCount": 69,
+      "nonWhitespaceCharacterCount": 54,
+      "createdDate": 1681783154810,
+      "modifiedDate": 1682040998375
+    },
     "Extras/Templates/Atlas模板/TOC模板.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -1945,6 +1675,276 @@
       "nonWhitespaceCharacterCount": 338,
       "createdDate": 1681783151882,
       "modifiedDate": 1681783151882
+    },
+    "Cards/计算机网络.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1682589342229,
+      "modifiedDate": 1682589342229
+    },
+    "Cards/解决问题最佳实践.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 72,
+      "pageCount": 0.24,
+      "characterCount": 241,
+      "nonWhitespaceCharacterCount": 205,
+      "createdDate": 1682660346098,
+      "modifiedDate": 1682675111683
+    },
+    "Cards/最佳实践.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1682675114666,
+      "modifiedDate": 1682675114666
+    },
+    "Cards/如何在移动端禁用、反禁用复制功能.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 218,
+      "pageCount": 0.7266666666666667,
+      "characterCount": 481,
+      "nonWhitespaceCharacterCount": 435,
+      "createdDate": 1682589259695,
+      "modifiedDate": 1682589709382
+    },
+    "Cards/前端技术.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1682589334763,
+      "modifiedDate": 1682589334763
+    },
+    "Cards/关于公司内网的组织结构.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 112,
+      "pageCount": 0.37333333333333335,
+      "characterCount": 242,
+      "nonWhitespaceCharacterCount": 217,
+      "createdDate": 1681896881877,
+      "modifiedDate": 1681897167169
+    },
+    "Cards/SOP.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 177,
+      "pageCount": 0.59,
+      "characterCount": 445,
+      "nonWhitespaceCharacterCount": 415,
+      "createdDate": 1681979868095,
+      "modifiedDate": 1681980364505
+    },
+    "Cards/About Cards.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 261,
+      "pageCount": 0.87,
+      "characterCount": 1479,
+      "nonWhitespaceCharacterCount": 1269,
+      "createdDate": 1681783151766,
+      "modifiedDate": 1681783151766
+    },
+    "Calendar/文章草稿/为 Android  和 IOS 设备做域名映射.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 322,
+      "pageCount": 1.0733333333333333,
+      "characterCount": 488,
+      "nonWhitespaceCharacterCount": 432,
+      "createdDate": 1682061703544,
+      "modifiedDate": 1682062486841
+    },
+    "Calendar/文章草稿/∑ 文章草稿.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 41,
+      "pageCount": 0.13666666666666666,
+      "characterCount": 175,
+      "nonWhitespaceCharacterCount": 153,
+      "createdDate": 1681783151766,
+      "modifiedDate": 1681783151766
+    },
+    "Calendar/文章草稿/» 本库文章发布工作流.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 72,
+      "pageCount": 0.24,
+      "characterCount": 286,
+      "nonWhitespaceCharacterCount": 260,
+      "createdDate": 1681783151765,
+      "modifiedDate": 1681783151765
+    },
+    "Calendar/文章草稿/» obsidian中的文章草稿到少数派上投稿，需要经历的处理步骤.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 28,
+      "pageCount": 0.09333333333333334,
+      "characterCount": 100,
+      "nonWhitespaceCharacterCount": 89,
+      "createdDate": 1681783151765,
+      "modifiedDate": 1681783151765
+    },
+    "Calendar/已发布文章/∑ 已发布文章.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 36,
+      "pageCount": 0.12,
+      "characterCount": 139,
+      "nonWhitespaceCharacterCount": 113,
+      "createdDate": 1681783151762,
+      "modifiedDate": 1681783151762
+    },
+    "Calendar/已发布文章/» 写文章选题管理技巧.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 160,
+      "pageCount": 0.5333333333333333,
+      "characterCount": 352,
+      "nonWhitespaceCharacterCount": 294,
+      "createdDate": 1681783151762,
+      "modifiedDate": 1681783151762
+    },
+    "Calendar/已发布文章/» 写文章选题分类.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 261,
+      "pageCount": 0.87,
+      "characterCount": 424,
+      "nonWhitespaceCharacterCount": 401,
+      "createdDate": 1681783151762,
+      "modifiedDate": 1681783151762
+    },
+    "Calendar/Plan & Review/每周回顾/每周写工作周报就精疲力尽，因此暂时不在个人笔记库做每周回顾.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 34,
+      "pageCount": 0.11333333333333333,
+      "characterCount": 96,
+      "nonWhitespaceCharacterCount": 86,
+      "createdDate": 1681783151761,
+      "modifiedDate": 1681783151761
+    },
+    "Calendar/Daily notes/2023-04-27.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 345,
+      "pageCount": 1.15,
+      "characterCount": 852,
+      "nonWhitespaceCharacterCount": 811,
+      "createdDate": 1682573858995,
+      "modifiedDate": 1682577981815
+    },
+    "Calendar/Daily notes/2023-04-26.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 37,
+      "pageCount": 0.12333333333333334,
+      "characterCount": 150,
+      "nonWhitespaceCharacterCount": 124,
+      "createdDate": 1682473374884,
+      "modifiedDate": 1682573858238
+    },
+    "Calendar/Daily notes/2023-04-25.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 194,
+      "pageCount": 0.6466666666666666,
+      "characterCount": 629,
+      "nonWhitespaceCharacterCount": 573,
+      "createdDate": 1682386844657,
+      "modifiedDate": 1682417871783
+    },
+    "Calendar/Daily notes/2023-04-24.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 49,
+      "pageCount": 0.16333333333333333,
+      "characterCount": 224,
+      "nonWhitespaceCharacterCount": 202,
+      "createdDate": 1682301659924,
+      "modifiedDate": 1682301662775
+    },
+    "Calendar/Daily notes/2023-04-23.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 40,
+      "pageCount": 0.13333333333333333,
+      "characterCount": 177,
+      "nonWhitespaceCharacterCount": 136,
+      "createdDate": 1682216681803,
+      "modifiedDate": 1682243829556
+    },
+    "Calendar/Daily notes/2023-04-22.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 8,
+      "pageCount": 0.02666666666666667,
+      "characterCount": 69,
+      "nonWhitespaceCharacterCount": 54,
+      "createdDate": 1682216891523,
+      "modifiedDate": 1682216891523
+    },
+    "Calendar/Daily notes/2023-04-21.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 81,
+      "pageCount": 0.27,
+      "characterCount": 247,
+      "nonWhitespaceCharacterCount": 206,
+      "createdDate": 1682041006709,
+      "modifiedDate": 1682044353096
+    },
+    "Calendar/Daily notes/2023-04-20.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 52,
+      "pageCount": 0.17333333333333334,
+      "characterCount": 161,
+      "nonWhitespaceCharacterCount": 138,
+      "createdDate": 1681955574684,
+      "modifiedDate": 1681980448957
+    },
+    "Calendar/Daily notes/2023-04-19.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 25,
+      "pageCount": 0.08333333333333333,
+      "characterCount": 47,
+      "nonWhitespaceCharacterCount": 38,
+      "createdDate": 1681893334739,
+      "modifiedDate": 1681893401382
+    },
+    "Calendar/Daily notes/2023-04-18.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 31,
+      "pageCount": 0.10333333333333333,
+      "characterCount": 51,
+      "nonWhitespaceCharacterCount": 43,
+      "createdDate": 1681787098033,
+      "modifiedDate": 1681893331720
+    },
+    "Calendar/About Calendar.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 62,
+      "pageCount": 0.20666666666666667,
+      "characterCount": 536,
+      "nonWhitespaceCharacterCount": 441,
+      "createdDate": 1681783151726,
+      "modifiedDate": 1681783151726
     },
     "AboutTheGarden.md": {
       "isDirectory": false,
