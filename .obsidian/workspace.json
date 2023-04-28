@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6169fd1f4d9b93c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cards/如何在移动端禁用、反禁用复制功能.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Studys/HMR 原理.md"
+                "file": "Cards/如何在移动端禁用、反禁用复制功能.md"
               }
             }
           },
@@ -101,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Studys/HMR 原理.md",
+                "file": "Cards/如何在移动端禁用、反禁用复制功能.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +127,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Spaces/Studys/HMR 原理.md",
+                "file": "Cards/如何在移动端禁用、反禁用复制功能.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Studys/HMR 原理.md",
+                "file": "Cards/如何在移动端禁用、反禁用复制功能.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,14 +260,15 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "ff3c75ae14b679e5",
+  "active": "6169fd1f4d9b93c6",
   "lastOpenFiles": [
-    "Cards/关于公司内网的组织结构.md",
-    "Cards/如何在移动端禁用、反禁用复制功能.md",
     "Cards/前端技术.md",
     "Cards/计算机网络.md",
-    "Calendar/Daily notes/2023-04-27.md",
+    "Cards/关于公司内网的组织结构.md",
+    "Cards/发现问题.md",
     "Spaces/Studys/HMR 原理.md",
+    "Cards/如何在移动端禁用、反禁用复制功能.md",
+    "Calendar/Daily notes/2023-04-27.md",
     "Spaces/Studys",
     "Sources/Books/微信读书同步/心理/认知觉醒：开启自我改变的原动力.md",
     "Sources/Books/微信读书同步/心理",
@@ -275,7 +290,6 @@
     "Calendar/文章草稿/» 本库文章发布工作流.md",
     "Extras/Templates/Calendar模板/Daily notes模板.md",
     "HOMEPAGE.md",
-    "∑ 本库 ACCESS 的文件夹入口汇总.md",
     "未命名.canvas",
     "Sources/Books/微信读书同步/科学技术",
     "Sources/Books/微信读书同步/社会文化",

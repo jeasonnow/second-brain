@@ -516,6 +516,16 @@
       "createdDate": 1681955544626,
       "modifiedDate": 1681955544648
     },
+    "Cards/发现问题.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1682660346098,
+      "modifiedDate": 1682660346098
+    },
     "Cards/计算机网络.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -539,12 +549,12 @@
     "Cards/如何在移动端禁用、反禁用复制功能.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 70,
-      "pageCount": 0.23333333333333334,
-      "characterCount": 236,
-      "nonWhitespaceCharacterCount": 200,
+      "wordCount": 218,
+      "pageCount": 0.7266666666666667,
+      "characterCount": 481,
+      "nonWhitespaceCharacterCount": 435,
       "createdDate": 1682589259695,
-      "modifiedDate": 1682589332435
+      "modifiedDate": 1682589709382
     },
     "Cards/SOP.md": {
       "isDirectory": false,
