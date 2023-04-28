@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/如何在移动端禁用、反禁用复制功能.md",
+                "file": "Spaces/Studys/HMR 原理.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -91,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cards/如何在移动端禁用、反禁用复制功能.md"
+                "file": "Spaces/Studys/HMR 原理.md"
               }
             }
           },
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cards/如何在移动端禁用、反禁用复制功能.md",
+                "file": "Spaces/Studys/HMR 原理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cards/如何在移动端禁用、反禁用复制功能.md",
+                "file": "Spaces/Studys/HMR 原理.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cards/如何在移动端禁用、反禁用复制功能.md",
+                "file": "Spaces/Studys/HMR 原理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,10 +248,10 @@
   },
   "active": "ff3c75ae14b679e5",
   "lastOpenFiles": [
-    "Cards/前端技术.md",
-    "Cards/计算机网络.md",
     "Cards/关于公司内网的组织结构.md",
     "Cards/如何在移动端禁用、反禁用复制功能.md",
+    "Cards/前端技术.md",
+    "Cards/计算机网络.md",
     "Calendar/Daily notes/2023-04-27.md",
     "Spaces/Studys/HMR 原理.md",
     "Spaces/Studys",
