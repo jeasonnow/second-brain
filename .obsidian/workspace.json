@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/如何在移动端禁用、反禁用复制功能.md",
+                "file": "Cards/解决问题最佳实践.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cards/如何在移动端禁用、反禁用复制功能.md"
+                "file": "Cards/解决问题最佳实践.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cards/如何在移动端禁用、反禁用复制功能.md",
+                "file": "Cards/解决问题最佳实践.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cards/如何在移动端禁用、反禁用复制功能.md",
+                "file": "Cards/解决问题最佳实践.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cards/如何在移动端禁用、反禁用复制功能.md",
+                "file": "Cards/解决问题最佳实践.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -262,12 +262,12 @@
   },
   "active": "6169fd1f4d9b93c6",
   "lastOpenFiles": [
+    "Cards/如何在移动端禁用、反禁用复制功能.md",
     "Cards/前端技术.md",
     "Cards/计算机网络.md",
     "Cards/关于公司内网的组织结构.md",
-    "Cards/发现问题.md",
+    "Cards/解决问题最佳实践.md",
     "Spaces/Studys/HMR 原理.md",
-    "Cards/如何在移动端禁用、反禁用复制功能.md",
     "Calendar/Daily notes/2023-04-27.md",
     "Spaces/Studys",
     "Sources/Books/微信读书同步/心理/认知觉醒：开启自我改变的原动力.md",
