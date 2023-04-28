@@ -516,15 +516,25 @@
       "createdDate": 1681955544626,
       "modifiedDate": 1681955544648
     },
-    "Cards/解决问题最佳实践.md": {
+    "Cards/最佳实践.md": {
       "isDirectory": false,
       "noteCount": 1,
       "wordCount": 0,
       "pageCount": 0,
       "characterCount": 0,
       "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1682675114666,
+      "modifiedDate": 1682675114666
+    },
+    "Cards/解决问题最佳实践.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 72,
+      "pageCount": 0.24,
+      "characterCount": 241,
+      "nonWhitespaceCharacterCount": 205,
       "createdDate": 1682660346098,
-      "modifiedDate": 1682675008794
+      "modifiedDate": 1682675111683
     },
     "Cards/计算机网络.md": {
       "isDirectory": false,
