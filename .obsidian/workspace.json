@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calendar/Daily notes/2023-04-28.md",
+                "file": "Calendar/Daily notes/2023-04-23.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -91,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calendar/Daily notes/2023-04-28.md"
+                "file": "Calendar/Daily notes/2023-04-23.md"
               }
             }
           },
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calendar/Daily notes/2023-04-28.md",
+                "file": "Calendar/Daily notes/2023-04-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Calendar/Daily notes/2023-04-28.md",
+                "file": "Calendar/Daily notes/2023-04-23.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calendar/Daily notes/2023-04-28.md",
+                "file": "Calendar/Daily notes/2023-04-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +211,7 @@
             }
           },
           {
-            "id": "f2235d391a0c34fc",
+            "id": "e2fb6d98b22fe537",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -219,7 +219,7 @@
             }
           },
           {
-            "id": "2cad207e535d7158",
+            "id": "b7ce51013b61265a",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -248,8 +248,20 @@
   },
   "active": "ff3c75ae14b679e5",
   "lastOpenFiles": [
-    "Cards/解决问题最佳实践.md",
+    "Calendar/Daily notes/2023-04-22.md",
+    "Calendar/Daily notes/2023-04-18.md",
+    "Calendar/Daily notes/2023-04-19.md",
+    "Calendar/Daily notes/2023-04-20.md",
+    "Calendar/Daily notes/2023-04-21.md",
+    "Calendar/Daily notes/Farnam Street Bolg.md",
+    "Calendar/Daily notes/2023-04-23.md",
+    "Calendar/Daily notes/2023-04-24.md",
+    "Calendar/Daily notes/2023-04-25.md",
     "Calendar/Daily notes/2023-04-28.md",
+    "Calendar/Daily notes/2023-04-27.md",
+    "Calendar/Daily notes/2023-04-26.md",
+    "Calendar/Daily notes/2023-05-04.md",
+    "Cards/解决问题最佳实践.md",
     "Cards/最佳实践.md",
     "Spaces/Studys/HMR 原理.md",
     "Extras/Templates/Calendar模板/回顾总结模板/周记模板.md",
@@ -262,20 +274,8 @@
     "Extras/Templates/ChatGPT_MD/templates/发散思维.md",
     "Extras/Templates/Cards模板/Sources&Spaces卡片_标准模板.md",
     "Extras/Templates/Cards模板/Card卡片_标准模板.md",
-    "Cards/如何在移动端禁用、反禁用复制功能.md",
-    "Cards/前端技术.md",
-    "Cards/计算机网络.md",
-    "Cards/关于公司内网的组织结构.md",
-    "Calendar/Daily notes/2023-04-27.md",
     "Spaces/Studys",
-    "Sources/Books/微信读书同步/心理/认知觉醒：开启自我改变的原动力.md",
     "Sources/Books/微信读书同步/心理",
-    "Calendar/Daily notes/2023-04-26.md",
-    "Calendar/Daily notes/2023-04-25.md",
-    "Calendar/Daily notes/2023-04-24.md",
-    "Calendar/Daily notes/2023-04-23.md",
-    "Calendar/Daily notes/2023-04-21.md",
-    "Calendar/Daily notes/2023-04-20.md",
     "未命名.canvas",
     "Sources/Books/微信读书同步/科学技术",
     "Sources/Books/微信读书同步/社会文化",
