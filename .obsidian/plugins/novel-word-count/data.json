@@ -726,15 +726,25 @@
       "createdDate": 1681783154837,
       "modifiedDate": 1681783154838
     },
+    "Cards/Farnam Street Bolg.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1683186535355,
+      "modifiedDate": 1683186535355
+    },
     "Cards/巴菲特公式：睡觉比起床时更聪明.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 60,
-      "pageCount": 0.2,
-      "characterCount": 214,
-      "nonWhitespaceCharacterCount": 178,
+      "wordCount": 63,
+      "pageCount": 0.21,
+      "characterCount": 256,
+      "nonWhitespaceCharacterCount": 217,
       "createdDate": 1683186313033,
-      "modifiedDate": 1683186321901
+      "modifiedDate": 1683186533327
     },
     "Cards/计算机网络.md": {
       "isDirectory": false,
@@ -1939,12 +1949,12 @@
     "Extras/Templates/Cards模板/Card卡片_标准模板.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 60,
-      "pageCount": 0.2,
-      "characterCount": 214,
-      "nonWhitespaceCharacterCount": 178,
+      "wordCount": 57,
+      "pageCount": 0.19,
+      "characterCount": 229,
+      "nonWhitespaceCharacterCount": 192,
       "createdDate": 1681783154813,
-      "modifiedDate": 1681979914102
+      "modifiedDate": 1683186503176
     },
     "Extras/Templates/Atlas模板/TOC模板.md": {
       "isDirectory": false,
