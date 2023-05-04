@@ -64,30 +64,6 @@
   "disableOnMobile": true,
   "showLogAboutPerformanceInConsole": false,
   "selectionHistoryTree": {
-    "GTD": {
-      "GTD": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1679220970769
-        }
-      }
-    },
-    "中图法": {
-      "中图法": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1679221776081
-        }
-      }
-    },
-    "co-tip": {
-      "co-tip": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1679320141477
-        }
-      }
-    },
     "ai-translate": {
       "ai-translate": {
         "customDictionary": {
@@ -101,6 +77,14 @@
         "internalLink": {
           "count": 1,
           "lastUpdated": 1681897069534
+        }
+      }
+    },
+    "{{bookReview.createTime.slice(0, 10)}}": {
+      "{{bookReview.createTime.slice(0, 10)}}": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1683186395710
         }
       }
     }

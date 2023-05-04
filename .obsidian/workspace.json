@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7d3fba8f7fe228d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cards/巴菲特公式：睡觉比起床时更聪明.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calendar/Daily notes/2023-04-23.md"
+                "file": "Cards/巴菲特公式：睡觉比起床时更聪明.md"
               }
             }
           },
@@ -101,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calendar/Daily notes/2023-04-23.md",
+                "file": "Cards/巴菲特公式：睡觉比起床时更聪明.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +127,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Calendar/Daily notes/2023-04-23.md",
+                "file": "Cards/巴菲特公式：睡觉比起床时更聪明.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calendar/Daily notes/2023-04-23.md",
+                "file": "Cards/巴菲特公式：睡觉比起床时更聪明.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,15 +260,17 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "ff3c75ae14b679e5",
+  "active": "7d3fba8f7fe228d2",
   "lastOpenFiles": [
+    "Extras/Templates/Cards模板/Card卡片_标准模板.md",
+    "Cards/巴菲特公式：睡觉比起床时更聪明.md",
+    "Calendar/Daily notes/2023-04-23.md",
     "Calendar/Daily notes/2023-04-22.md",
     "Calendar/Daily notes/2023-04-18.md",
     "Calendar/Daily notes/2023-04-19.md",
     "Calendar/Daily notes/2023-04-20.md",
     "Calendar/Daily notes/2023-04-21.md",
     "Calendar/Daily notes/Farnam Street Bolg.md",
-    "Calendar/Daily notes/2023-04-23.md",
     "Calendar/Daily notes/2023-04-24.md",
     "Calendar/Daily notes/2023-04-25.md",
     "Calendar/Daily notes/2023-04-28.md",
@@ -272,8 +288,6 @@
     "Extras/Templates/Spaces模板/Area创建模板.md",
     "Extras/Templates/Spaces模板/Archive创建模板.md",
     "Extras/Templates/ChatGPT_MD/templates/发散思维.md",
-    "Extras/Templates/Cards模板/Sources&Spaces卡片_标准模板.md",
-    "Extras/Templates/Cards模板/Card卡片_标准模板.md",
     "Spaces/Studys",
     "Sources/Books/微信读书同步/心理",
     "未命名.canvas",
