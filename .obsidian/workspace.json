@@ -26,8 +26,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/巴菲特公式：睡觉比起床时更聪明.md",
-                "mode": "source",
+                "file": "Cards/Farnam Street Bolg.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cards/巴菲特公式：睡觉比起床时更聪明.md"
+                "file": "Cards/Farnam Street Bolg.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cards/巴菲特公式：睡觉比起床时更聪明.md",
+                "file": "Cards/Farnam Street Bolg.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cards/巴菲特公式：睡觉比起床时更聪明.md",
+                "file": "Cards/Farnam Street Bolg.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cards/巴菲特公式：睡觉比起床时更聪明.md",
+                "file": "Cards/Farnam Street Bolg.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -262,8 +262,8 @@
   },
   "active": "7d3fba8f7fe228d2",
   "lastOpenFiles": [
-    "Cards/Farnam Street Bolg.md",
     "Cards/巴菲特公式：睡觉比起床时更聪明.md",
+    "Cards/Farnam Street Bolg.md",
     "Extras/Templates/Cards模板/Card卡片_标准模板.md",
     "Calendar/Daily notes/2023-04-23.md",
     "Calendar/Daily notes/2023-04-22.md",
