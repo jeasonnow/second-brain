@@ -726,6 +726,16 @@
       "createdDate": 1681783154837,
       "modifiedDate": 1681783154838
     },
+    "Cards/未命名.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 56,
+      "pageCount": 0.18666666666666668,
+      "characterCount": 198,
+      "nonWhitespaceCharacterCount": 164,
+      "createdDate": 1683193794773,
+      "modifiedDate": 1683193807127
+    },
     "Cards/Farnam Street Bolg.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -739,12 +749,12 @@
     "Cards/巴菲特公式：睡觉比起床时更聪明.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 63,
-      "pageCount": 0.21,
-      "characterCount": 256,
-      "nonWhitespaceCharacterCount": 217,
+      "wordCount": 353,
+      "pageCount": 1.1766666666666667,
+      "characterCount": 696,
+      "nonWhitespaceCharacterCount": 623,
       "createdDate": 1683186313033,
-      "modifiedDate": 1683186533327
+      "modifiedDate": 1683192579201
     },
     "Cards/计算机网络.md": {
       "isDirectory": false,
@@ -1845,26 +1855,6 @@
       "nonWhitespaceCharacterCount": 0,
       "createdDate": 1681783154815,
       "modifiedDate": 1681783154815
-    },
-    "Extras/Templates/ChatGPT_MD/templates/默认模板.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 8,
-      "pageCount": 0.02666666666666667,
-      "characterCount": 187,
-      "nonWhitespaceCharacterCount": 160,
-      "createdDate": 1681783154814,
-      "modifiedDate": 1681783154814
-    },
-    "Extras/Templates/ChatGPT_MD/templates/发散思维.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 528,
-      "pageCount": 1.76,
-      "characterCount": 984,
-      "nonWhitespaceCharacterCount": 898,
-      "createdDate": 1681783154813,
-      "modifiedDate": 1681783154814
     },
     "Extras/Templates/Calendar模板/文章发布模板/文章草稿-模板.md": {
       "isDirectory": false,

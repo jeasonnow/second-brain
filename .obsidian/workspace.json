@@ -26,15 +26,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/Farnam Street Bolg.md",
+                "file": "Cards/巴菲特公式：睡觉比起床时更聪明.md",
                 "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fbc923720cb93922",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Extras/Templates/Cards模板/Card卡片_标准模板.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -105,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cards/Farnam Street Bolg.md"
+                "file": "Extras/Templates/Cards模板/Card卡片_标准模板.md"
               }
             }
           },
@@ -115,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cards/Farnam Street Bolg.md",
+                "file": "Extras/Templates/Cards模板/Card卡片_标准模板.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +140,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cards/Farnam Street Bolg.md",
+                "file": "Extras/Templates/Cards模板/Card卡片_标准模板.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -162,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cards/Farnam Street Bolg.md",
+                "file": "Extras/Templates/Cards模板/Card卡片_标准模板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -260,8 +273,9 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "7d3fba8f7fe228d2",
+  "active": "fbc923720cb93922",
   "lastOpenFiles": [
+    "Cards/未命名.md",
     "Cards/巴菲特公式：睡觉比起床时更聪明.md",
     "Cards/Farnam Street Bolg.md",
     "Extras/Templates/Cards模板/Card卡片_标准模板.md",
@@ -287,7 +301,6 @@
     "Extras/Templates/Atlas模板/MOC模板.md",
     "Extras/Templates/Spaces模板/Project创建模板.md",
     "Extras/Templates/Spaces模板/Area创建模板.md",
-    "Extras/Templates/Spaces模板/Archive创建模板.md",
     "Spaces/Studys",
     "Sources/Books/微信读书同步/心理",
     "未命名.canvas",
