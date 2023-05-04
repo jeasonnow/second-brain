@@ -726,15 +726,15 @@
       "createdDate": 1681783154837,
       "modifiedDate": 1681783154838
     },
-    "Cards/未命名.md": {
+    "Cards/费曼学习法.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 56,
-      "pageCount": 0.18666666666666668,
-      "characterCount": 198,
-      "nonWhitespaceCharacterCount": 164,
-      "createdDate": 1683193794773,
-      "modifiedDate": 1683193807127
+      "wordCount": 34,
+      "pageCount": 0.11333333333333333,
+      "characterCount": 176,
+      "nonWhitespaceCharacterCount": 139,
+      "createdDate": 1683194288419,
+      "modifiedDate": 1683194357524
     },
     "Cards/Farnam Street Bolg.md": {
       "isDirectory": false,
@@ -1939,12 +1939,12 @@
     "Extras/Templates/Cards模板/Card卡片_标准模板.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 57,
-      "pageCount": 0.19,
-      "characterCount": 229,
-      "nonWhitespaceCharacterCount": 192,
+      "wordCount": 25,
+      "pageCount": 0.08333333333333333,
+      "characterCount": 171,
+      "nonWhitespaceCharacterCount": 135,
       "createdDate": 1681783154813,
-      "modifiedDate": 1683186503176
+      "modifiedDate": 1683194365264
     },
     "Extras/Templates/Atlas模板/TOC模板.md": {
       "isDirectory": false,
