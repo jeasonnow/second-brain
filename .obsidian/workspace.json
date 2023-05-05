@@ -45,9 +45,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3a973f655f9d0d04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cards/算法/未命名.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f5cfbee6cc9cc052",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cards/算法/未命名 1.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -118,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cards/算法/贪心算法.md"
+                "file": "Cards/算法/未命名 1.md"
               }
             }
           },
@@ -128,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cards/算法/贪心算法.md",
+                "file": "Cards/算法/未命名 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +166,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cards/算法/贪心算法.md",
+                "file": "Cards/算法/未命名 1.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -175,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cards/算法/贪心算法.md",
+                "file": "Cards/算法/未命名 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +264,7 @@
             }
           },
           {
-            "id": "eb62e9e0afe60c89",
+            "id": "e2eda319ff568077",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -246,7 +272,7 @@
             }
           },
           {
-            "id": "49a5b21fcb08125f",
+            "id": "562176a1bb37c17a",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -273,10 +299,12 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "fbc923720cb93922",
+  "active": "f5cfbee6cc9cc052",
   "lastOpenFiles": [
-    "Calendar/Daily notes/2023-05-05.md",
+    "Cards/算法/未命名.md",
+    "Cards/算法/未命名 1.md",
     "Cards/算法/贪心算法.md",
+    "Calendar/Daily notes/2023-05-05.md",
     "Cards/算法",
     "Cards/最佳实践.md",
     "Cards/如何在移动端禁用、反禁用复制功能.md",
@@ -300,8 +328,6 @@
     "Calendar/Daily notes/2023-04-24.md",
     "Calendar/Daily notes/2023-04-25.md",
     "Calendar/Daily notes/2023-04-28.md",
-    "Calendar/Daily notes/2023-04-27.md",
-    "Calendar/Daily notes/2023-04-26.md",
     "Spaces/Studys",
     "Sources/Books/微信读书同步/心理",
     "未命名.canvas",
