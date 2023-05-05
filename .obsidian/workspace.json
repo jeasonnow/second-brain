@@ -45,35 +45,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "3a973f655f9d0d04",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cards/算法/未命名.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f5cfbee6cc9cc052",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cards/算法/未命名 1.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -144,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cards/算法/未命名 1.md"
+                "file": "Cards/算法/贪心算法.md"
               }
             }
           },
@@ -154,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cards/算法/未命名 1.md",
+                "file": "Cards/算法/贪心算法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +140,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cards/算法/未命名 1.md",
+                "file": "Cards/算法/贪心算法.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -201,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cards/算法/未命名 1.md",
+                "file": "Cards/算法/贪心算法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -299,10 +273,10 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "f5cfbee6cc9cc052",
+  "active": "fbc923720cb93922",
   "lastOpenFiles": [
-    "Cards/算法/未命名.md",
     "Cards/算法/未命名 1.md",
+    "Cards/算法/未命名.md",
     "Cards/算法/贪心算法.md",
     "Calendar/Daily notes/2023-05-05.md",
     "Cards/算法",
