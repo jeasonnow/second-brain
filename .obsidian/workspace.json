@@ -40,7 +40,7 @@
               "type": "markdown",
               "state": {
                 "file": "Cards/费曼学习法.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -275,10 +275,11 @@
   },
   "active": "fbc923720cb93922",
   "lastOpenFiles": [
-    "Cards/未命名.md",
-    "Cards/费曼学习法.md",
-    "Extras/Templates/Cards模板/Card卡片_标准模板.md",
+    "Cards/关于公司内网的组织结构.md",
     "Cards/巴菲特公式：睡觉比起床时更聪明.md",
+    "Cards/费曼学习法.md",
+    "Cards/未命名.md",
+    "Extras/Templates/Cards模板/Card卡片_标准模板.md",
     "Cards/Farnam Street Bolg.md",
     "Calendar/Daily notes/2023-04-23.md",
     "Calendar/Daily notes/2023-04-22.md",
@@ -300,7 +301,6 @@
     "Extras/Templates/Calendar模板/回顾总结模板/月度模板.md",
     "Extras/Templates/Atlas模板/TOC模板.md",
     "Extras/Templates/Atlas模板/MOC模板.md",
-    "Extras/Templates/Spaces模板/Project创建模板.md",
     "Spaces/Studys",
     "Sources/Books/微信读书同步/心理",
     "未命名.canvas",
