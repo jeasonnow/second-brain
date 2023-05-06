@@ -72,7 +72,23 @@ function workLoopConcurrent() {
 通常只需要对比 dom 类型和 key ，不一致时则不能复用，一致时则复用。
 
 ### 多节点 Diff
+两轮遍历，第一轮找到更新节点，第二轮找到非更新操作的节点。
+#### 第一轮
+1.  `let i = 0`，遍历 `newChildren`，将 `newChildren[i]` 与 `oldFiber` 比较，判断 `DOM节点` 是否可复用。
+    
+2.  如果可复用，`i++`，继续比较`newChildren[i]`与`oldFiber.sibling`，可以复用则继续遍历。
+    
+3.  如果不可复用，分两种情况：
+    
 
+-   `key`不同导致不可复用，立即跳出整个遍历，**第一轮遍历结束。**
+    
+-   `key`相同`type`不同导致不可复用，会将`oldFiber`标记为`DELETION`，并继续遍历
+    
+
+4.  如果 `newChildren` 遍历完（即 `i === newChildren.length - 1`）或者 `oldFiber` 遍历完（即 `oldFiber.sibling === null`），跳出遍历
+
+#### 第二轮
 
 
 ---
