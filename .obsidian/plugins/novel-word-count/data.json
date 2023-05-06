@@ -269,12 +269,12 @@
     "Sources/Books/微信读书同步/心理/认知觉醒：开启自我改变的原动力.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 1874,
-      "pageCount": 6.246666666666667,
-      "characterCount": 3791,
-      "nonWhitespaceCharacterCount": 3261,
+      "wordCount": 3094,
+      "pageCount": 10.313333333333333,
+      "characterCount": 6147,
+      "nonWhitespaceCharacterCount": 5247,
       "createdDate": 1682573863475,
-      "modifiedDate": 1682573863475
+      "modifiedDate": 1683336398771
     },
     "Sources/Books/微信读书同步/个人成长/逆转：弱者如何找到优势，反败为胜.md": {
       "isDirectory": false,
@@ -1656,6 +1656,26 @@
       "createdDate": 1681783151882,
       "modifiedDate": 1681783151882
     },
+    "Cards/React.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1683336423531,
+      "modifiedDate": 1683336423531
+    },
+    "Cards/React技术原理.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 31,
+      "pageCount": 0.10333333333333333,
+      "characterCount": 181,
+      "nonWhitespaceCharacterCount": 145,
+      "createdDate": 1683336381827,
+      "modifiedDate": 1683336415842
+    },
     "Cards/费曼学习法.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -1719,12 +1739,12 @@
     "Cards/算法/贪心算法.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 257,
-      "pageCount": 0.8566666666666667,
-      "characterCount": 646,
-      "nonWhitespaceCharacterCount": 593,
+      "wordCount": 440,
+      "pageCount": 1.4666666666666666,
+      "characterCount": 899,
+      "nonWhitespaceCharacterCount": 809,
       "createdDate": 1683275317619,
-      "modifiedDate": 1683290226251
+      "modifiedDate": 1683295207148
     },
     "Cards/最佳实践.md": {
       "isDirectory": false,
