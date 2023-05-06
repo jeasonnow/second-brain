@@ -65,6 +65,16 @@ function workLoopConcurrent() {
 
 ![image.png](https://raw.githubusercontent.com/jeasonnow/pics/main/202305061458035.png)
 
+## Diff 算法
+为了减少遍历树的昂贵消费（O(n^3)），如果是跨层级的更新，React 默认不复用 Fiber，而只关注同级的更新。
+
+### 单节点 Diff
+通常只需要对比 dom 类型和 key ，不一致时则不能复用，一致时则复用。
+
+### 多节点 Diff
+
+
+
 ---
 
 ## 参考文献
