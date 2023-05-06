@@ -89,7 +89,85 @@ function workLoopConcurrent() {
 4.  如果 `newChildren` 遍历完（即 `i === newChildren.length - 1`）或者 `oldFiber` 遍历完（即 `oldFiber.sibling === null`），跳出遍历
 
 #### 第二轮
+##### NewChilder 遍历完但是 OldFiber 未遍历完
+说明删除了节点，将 Oldfiber 剩下的节点都标记为删除
 
+##### NewChildren 未遍历完但是 OldFiber 遍历完
+说明新增了节点，将 NewChildren 的接下来的节点标记为插入
+
+##### NewChildren 和 OldChildren 都遍历完
+说明一遍遍历完后知道了所有的更新节点。
+
+##### NewChildren 和 OldChildren 都没有遍历完
+通过 Demo 查看
+```
+// 之前
+abcd
+
+// 之后
+acdb
+
+===第一轮遍历开始===
+a（之后）vs a（之前）  
+key不变，可复用
+此时 a 对应的oldFiber（之前的a）在之前的数组（abcd）中索引为0
+所以 lastPlacedIndex = 0;
+
+继续第一轮遍历…
+
+c（之后）vs b（之前）  
+key改变，不能复用，跳出第一轮遍历
+此时 lastPlacedIndex === 0;
+===第一轮遍历结束===
+
+===第二轮遍历开始===
+newChildren === cdb，没用完，不需要执行删除旧节点
+oldFiber === bcd，没用完，不需要执行插入新节点
+
+将剩余oldFiber（bcd）保存为map
+
+// 当前oldFiber：bcd
+// 当前newChildren：cdb
+
+继续遍历剩余newChildren
+
+key === c 在 oldFiber中存在
+const oldIndex = c（之前）.index;
+此时 oldIndex === 2;  // 之前节点为 abcd，所以c.index === 2
+比较 oldIndex 与 lastPlacedIndex;
+
+如果 oldIndex >= lastPlacedIndex 代表该可复用节点不需要移动
+并将 lastPlacedIndex = oldIndex;
+如果 oldIndex < lastplacedIndex 该可复用节点之前插入的位置索引小于这次更新需要插入的位置索引，代表该节点需要向右移动
+
+在例子中，oldIndex 2 > lastPlacedIndex 0，
+则 lastPlacedIndex = 2;
+c节点位置不变
+
+继续遍历剩余newChildren
+
+// 当前oldFiber：bd
+// 当前newChildren：db
+
+key === d 在 oldFiber中存在
+const oldIndex = d（之前）.index;
+oldIndex 3 > lastPlacedIndex 2 // 之前节点为 abcd，所以d.index === 3
+则 lastPlacedIndex = 3;
+d节点位置不变
+
+继续遍历剩余newChildren
+
+// 当前oldFiber：b
+// 当前newChildren：b
+
+key === b 在 oldFiber中存在
+const oldIndex = b（之前）.index;
+oldIndex 1 < lastPlacedIndex 3 // 之前节点为 abcd，所以b.index === 1
+则 b节点需要向右移动
+===第二轮遍历结束===
+
+最终acd 3个节点都没有移动，b节点被标记为移动
+```
 
 ---
 
