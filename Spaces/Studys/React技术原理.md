@@ -36,10 +36,20 @@ function workLoopConcurrent() {
 ## BeginWork 工作细节
 ![image.png](https://raw.githubusercontent.com/jeasonnow/pics/main/202305061112608.png)
 ### Mount
-当不存在可复用节点时，则直接根据类型创建新的 FiberNode 子节点
+当不存在可复用节点时，则直接根据类型创建新的 FiberNode 
 
 ### Update
-ru'guo
+根据 type 和 Props 等判断条件判断是否可以直接复用子节点。
+
+### Reconciler
+使用协调器对更新做处理，通过 diff 算法和是否 mount，来生成真正 Fiber 节点。
+
+### EffectTag
+判断每个  Fiber Node 需要做的真实 Dom 操作，附带到每个 Fiber 节点上。
+
+
+## CompleteWork
+
 
 ---
 
