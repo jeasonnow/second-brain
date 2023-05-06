@@ -29,7 +29,10 @@ function workLoopConcurrent() {
   }
 }
 ```
-而 performUnitOfWork 这个函数正是把原来的递归树转换为可中断的
+而 performUnitOfWork 这个函数正是把原来的递归树转换为可中断的循环遍历，向上回归的两个过程，且其分为多步来完成，可在任意环节中断：
+1. 首先从`rootFiber`开始向下深度优先遍历。为遍历到的每个`Fiber节点`调用[beginWork方法 (opens new window)](https://github.com/facebook/react/blob/970fa122d8188bafa600e9b5214833487fbf1092/packages/react-reconciler/src/ReactFiberBeginWork.new.js#L3058)。
+
+
 
 ---
 

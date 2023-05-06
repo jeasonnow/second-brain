@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/React技术原理.md",
+                "file": "Spaces/Studys/React技术原理.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cards/React技术原理.md"
+                "file": "Spaces/Studys/React技术原理.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cards/React技术原理.md",
+                "file": "Spaces/Studys/React技术原理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cards/React技术原理.md",
+                "file": "Spaces/Studys/React技术原理.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cards/React技术原理.md",
+                "file": "Spaces/Studys/React技术原理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -262,14 +262,14 @@
   },
   "active": "7d3fba8f7fe228d2",
   "lastOpenFiles": [
+    "Spaces/Studys/React.md",
+    "Spaces/Studys/React技术原理.md",
     "Cards/巴菲特公式：睡觉比起床时更聪明.md",
-    "Cards/React.md",
-    "Cards/React技术原理.md",
-    "Cards/算法/贪心算法.md",
+    "Spaces/算法/贪心算法.md",
     "Cards/算法/未命名 1.md",
     "Cards/算法/未命名.md",
     "Calendar/Daily notes/2023-05-05.md",
-    "Cards/算法",
+    "Spaces/算法",
     "Cards/最佳实践.md",
     "Cards/如何在移动端禁用、反禁用复制功能.md",
     "Cards/前端技术.md",
