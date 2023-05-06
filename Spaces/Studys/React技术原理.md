@@ -33,6 +33,13 @@ function workLoopConcurrent() {
 1. 首先从 `rootFiber` 开始向下深度优先遍历。为遍历到的每个 `Fiber节点` 调用 [beginWork方法 (opens new window)](https://github.com/facebook/react/blob/970fa122d8188bafa600e9b5214833487fbf1092/packages/react-reconciler/src/ReactFiberBeginWork.new.js#L3058)。
 2. 当达到叶子节点时，归阶段开始，先调用当前节点的 completeWork，如果没有 siblings ，则其父节点也开始 completeWork，如果有则执行兄弟节点的 beginWork 并进行递操作，当最后所有的节点都完成遍历的递阶段，则会往上层完成归阶段直至 rootFiber 也完成归操作。
 
+## BeginWork 工作细节
+![image.png](https://raw.githubusercontent.com/jeasonnow/pics/main/202305061112608.png)
+### Mount
+当不存在可复用节点时，则直接根据类型创建新的 FiberNode 子节点
+
+### Update
+ru'guo
 
 ---
 
