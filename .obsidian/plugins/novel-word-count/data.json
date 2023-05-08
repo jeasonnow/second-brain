@@ -59,12 +59,12 @@
     "Spaces/Studys/React技术原理.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 219,
-      "pageCount": 0.73,
-      "characterCount": 792,
-      "nonWhitespaceCharacterCount": 681,
+      "wordCount": 1050,
+      "pageCount": 3.5,
+      "characterCount": 3647,
+      "nonWhitespaceCharacterCount": 3162,
       "createdDate": 1683336381827,
-      "modifiedDate": 1683336928215
+      "modifiedDate": 1683358686453
     },
     "Spaces/Studys/HMR 原理.md": {
       "isDirectory": false,
@@ -1875,6 +1875,16 @@
       "nonWhitespaceCharacterCount": 86,
       "createdDate": 1681783151761,
       "modifiedDate": 1681783151761
+    },
+    "Calendar/Daily notes/2023-05-08.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 8,
+      "pageCount": 0.02666666666666667,
+      "characterCount": 69,
+      "nonWhitespaceCharacterCount": 54,
+      "createdDate": 1683512434176,
+      "modifiedDate": 1683512434176
     },
     "Calendar/Daily notes/2023-04-26.md": {
       "isDirectory": false,

@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Studys/React技术原理.md",
+                "file": "Calendar/Daily notes/2023-05-08.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Studys/React技术原理.md"
+                "file": "Calendar/Daily notes/2023-05-08.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Studys/React技术原理.md",
+                "file": "Calendar/Daily notes/2023-05-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Spaces/Studys/React技术原理.md",
+                "file": "Calendar/Daily notes/2023-05-08.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Studys/React技术原理.md",
+                "file": "Calendar/Daily notes/2023-05-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -262,8 +262,9 @@
   },
   "active": "7d3fba8f7fe228d2",
   "lastOpenFiles": [
-    "Spaces/Studys/React.md",
     "Spaces/Studys/React技术原理.md",
+    "Calendar/Daily notes/2023-05-08.md",
+    "Spaces/Studys/React.md",
     "Cards/巴菲特公式：睡觉比起床时更聪明.md",
     "Spaces/算法/贪心算法.md",
     "Cards/算法/未命名 1.md",
@@ -288,7 +289,6 @@
     "Calendar/Daily notes/2023-04-21.md",
     "Calendar/Daily notes/Farnam Street Bolg.md",
     "Calendar/Daily notes/2023-04-24.md",
-    "Calendar/Daily notes/2023-04-25.md",
     "Spaces/Studys",
     "Sources/Books/微信读书同步/心理",
     "未命名.canvas",
