@@ -1686,15 +1686,15 @@
       "createdDate": 1681783151882,
       "modifiedDate": 1681783151882
     },
-    "Cards/未命名.md": {
+    "Cards/使用 WeakMap 来做更灵活的内存清理.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
+      "wordCount": 34,
+      "pageCount": 0.11333333333333333,
+      "characterCount": 175,
+      "nonWhitespaceCharacterCount": 139,
       "createdDate": 1683539190257,
-      "modifiedDate": 1683539190257
+      "modifiedDate": 1683539197621
     },
     "Cards/费曼学习法.md": {
       "isDirectory": false,
