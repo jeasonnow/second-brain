@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/Farnam Street Bolg.md",
+                "file": "Calendar/Daily notes/2023-05-08.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cards/Farnam Street Bolg.md"
+                "file": "Calendar/Daily notes/2023-05-08.md"
               }
             }
           },
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cards/Farnam Street Bolg.md",
+                "file": "Calendar/Daily notes/2023-05-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cards/Farnam Street Bolg.md",
+                "file": "Calendar/Daily notes/2023-05-08.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cards/Farnam Street Bolg.md",
+                "file": "Calendar/Daily notes/2023-05-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -261,6 +261,7 @@
   },
   "active": "ff3c75ae14b679e5",
   "lastOpenFiles": [
+    "Cards/Farnam Street Bolg.md",
     "Calendar/Daily notes/2023-05-08.md",
     "Calendar/Daily notes/2023-04-23.md",
     "Cards/使用 WeakMap 来做更灵活的内存清理.md",
@@ -278,7 +279,6 @@
     "Cards/解决问题最佳实践.md",
     "Cards/关于公司内网的组织结构.md",
     "Cards/费曼学习法.md",
-    "Cards/Farnam Street Bolg.md",
     "Calendar/Daily notes/未命名 1.md",
     "Calendar/Daily notes/未命名.md",
     "Extras/Templates/Cards模板/Card卡片_标准模板.md",
