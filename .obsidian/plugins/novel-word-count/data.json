@@ -299,12 +299,12 @@
     "Sources/Books/微信读书同步/心理/认知觉醒：开启自我改变的原动力.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 3094,
-      "pageCount": 10.313333333333333,
-      "characterCount": 6147,
-      "nonWhitespaceCharacterCount": 5247,
+      "wordCount": 3413,
+      "pageCount": 11.376666666666667,
+      "characterCount": 6681,
+      "nonWhitespaceCharacterCount": 5714,
       "createdDate": 1682573863475,
-      "modifiedDate": 1683336398771
+      "modifiedDate": 1683512558890
     },
     "Sources/Books/微信读书同步/个人成长/逆转：弱者如何找到优势，反败为胜.md": {
       "isDirectory": false,
@@ -1686,6 +1686,16 @@
       "createdDate": 1681783151882,
       "modifiedDate": 1681783151882
     },
+    "Cards/未命名.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1683539190257,
+      "modifiedDate": 1683539190257
+    },
     "Cards/费曼学习法.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -1879,12 +1889,12 @@
     "Calendar/Daily notes/2023-05-08.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 8,
-      "pageCount": 0.02666666666666667,
-      "characterCount": 69,
-      "nonWhitespaceCharacterCount": 54,
+      "wordCount": 114,
+      "pageCount": 0.38,
+      "characterCount": 395,
+      "nonWhitespaceCharacterCount": 340,
       "createdDate": 1683512434176,
-      "modifiedDate": 1683512434176
+      "modifiedDate": 1683538510206
     },
     "Calendar/Daily notes/2023-04-26.md": {
       "isDirectory": false,
