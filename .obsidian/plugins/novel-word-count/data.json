@@ -1826,15 +1826,25 @@
       "createdDate": 1683612694166,
       "modifiedDate": 1683612694166
     },
+    "Calendar/Plan & Review/本月计划.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1683613290392,
+      "modifiedDate": 1683613290392
+    },
     "Calendar/Daily notes/2023-05-09.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 191,
-      "pageCount": 0.6366666666666667,
-      "characterCount": 550,
-      "nonWhitespaceCharacterCount": 490,
+      "wordCount": 203,
+      "pageCount": 0.6766666666666666,
+      "characterCount": 578,
+      "nonWhitespaceCharacterCount": 518,
       "createdDate": 1683598583165,
-      "modifiedDate": 1683612674462
+      "modifiedDate": 1683613236648
     },
     "Calendar/Daily notes/2023-05-08.md": {
       "isDirectory": false,
