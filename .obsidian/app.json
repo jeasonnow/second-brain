@@ -27,7 +27,7 @@
   "autoPairBrackets": true,
   "smartIndentList": true,
   "tabSize": 4,
-  "showInlineTitle": true,
+  "showInlineTitle": false,
   "showIndentGuide": true,
   "showFrontmatter": false,
   "mobileToolbarCommands": [

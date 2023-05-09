@@ -1,11 +1,11 @@
 {
   "showGettingStartedBanner": true,
-  "hasMigratedDailyNoteSettings": false,
+  "hasMigratedDailyNoteSettings": true,
   "hasMigratedWeeklyNoteSettings": false,
   "daily": {
-    "format": "",
-    "template": "",
-    "folder": "",
+    "format": "YYYY-MM-DD",
+    "folder": "Calendar/Daily notes",
+    "template": "Extras/Templates/Calendar模板/Daily notes模板",
     "enabled": true
   },
   "weekly": {
