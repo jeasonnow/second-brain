@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0e76fa35d73a2517",
+        "id": "a6a2b02a759b49dc",
         "type": "tabs",
         "children": [
           {
-            "id": "9d0241c5e1812439",
+            "id": "b745e7c25a44463a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "闪念笔记/未命名.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "哲学社科/未命名.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -38,12 +40,9 @@
             "id": "a4d1994dfc9f1870",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "file-explorer",
               "state": {
-                "file": "Calendar/Daily notes/2023-05-09.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -80,19 +79,8 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "71ed94475c84a263",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "92910ae8836a7b22",
@@ -105,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "闪念笔记/未命名.md"
+                "file": "哲学社科/未命名.canvas"
               }
             }
           },
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "闪念笔记/未命名.md",
+                "file": "哲学社科/未命名.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +115,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "闪念笔记/未命名.md",
+                "file": "哲学社科/未命名.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -150,7 +138,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.5717221537336777,
+                  "scale": 1,
                   "close": true
                 }
               }
@@ -162,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "闪念笔记/未命名.md",
+                "file": "哲学社科/未命名.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,12 +161,11 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 369.5
+    "width": 336.5
   },
   "right": {
     "id": "c718ea3b78af998f",
@@ -200,56 +187,64 @@
             "id": "4de411a2f9535073",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cards/Farnam Street Bolg.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d438777b44744e29",
-            "type": "leaf",
-            "state": {
               "type": "calendar",
               "state": {}
             }
           },
           {
-            "id": "34a37d2f6da1c6cc",
+            "id": "d5db3c8fe8892d56",
             "type": "leaf",
             "state": {
-              "type": "reminder-list",
+              "type": "smart-connections-view",
               "state": {}
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 386.5
+    "width": 386.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
       "obsidian-weread-plugin:Weread": false,
       "templates:插入模板": false,
+      "periodic-notes:Open today": false,
       "daily-notes:打开/创建今天的日记": false,
       "switcher:打开快速切换": false,
       "canvas:新建白板": false,
       "graph:查看关系图谱": false,
       "command-palette:打开命令面板": false,
       "obsidian-spaced-repetition:复习卡片": false,
-      "workspaces:管理工作区布局": false,
-      "periodic-notes:Open today": false
+      "workspaces:管理工作区布局": false
     }
   },
-  "active": "9d0241c5e1812439",
+  "active": "b745e7c25a44463a",
   "lastOpenFiles": [
-    "闪念笔记/提升心智模型.md",
+    "哲学社科/Untitled Diagram.svg",
+    "哲学社科/未命名.canvas",
+    "哲学社科/未命名.md",
+    "Calendar/Daily notes/2023-05-09.md",
+    "未命名.canvas",
+    "Cards/Farnam Street Bolg.md",
+    "哲学社科/心智模型.md",
+    "Extras/About Extras.md",
+    "Extras/Templates/∑ 模板文件创建入口.md",
+    "Extras/Templates/Spaces模板/Archive创建模板.md",
+    "Extras/Templates/Spaces模板/Project创建模板.md",
+    "Extras/Templates/Sources模板/读书笔记模板.md",
+    "Extras/Templates/Canvas模板/精益画布 - 模板.canvas",
+    "Extras/Templates/Canvas模板/思维导图 - 模板.canvas",
+    "Extras/Templates/Atlas模板/TOC模板.md",
+    "Extras/Templates/Atlas模板/MOC模板.md",
+    "Extras/Templates/其他/微信读书同步模板.md",
+    "Extras/Templates/其他/思维思考模板/康奈尔笔记法模板.md",
+    "Extras/Templates/其他/思维思考模板/六顶思考帽模板.md",
     "闪念笔记/未命名.md",
+    "哲学社科",
+    "闪念笔记/提升心智模型.md",
     "闪念笔记/心智模型是啥.md",
     "闪念笔记/无结构的知识毫无用处.md",
     "Extras/Templates/Cards模板/Small Card 模板.md",
@@ -260,32 +255,15 @@
     "Cards/费曼学习法.md",
     "Cards/关于公司内网的组织结构.md",
     "Cards/解决问题最佳实践.md",
-    "Cards/巴菲特公式：睡觉比起床时更聪明.md",
-    "Frontend/深入理解 Javascript 引擎.md",
-    "2023-05-10.md",
     "心智模型",
-    "未命名.canvas",
     "Untitled Diagram.svg",
-    "Cards/Farnam Street Bolg.md",
-    "Calendar/Daily notes/2023-05-09.md",
-    "Frontend/HMR 原理.md",
-    "Frontend/React.md",
     "Frontend",
-    "Calendar/Weekly Notes/2023-W19.md",
-    "Spaces/Studys/内联.md",
-    "Calendar/Daily notes/2023-04-18.md",
-    "Calendar/Daily notes/2023-04-23.md",
-    "Calendar/About Calendar.md",
-    "Cards/About Cards.md",
-    "Extras/Templates/Calendar模板/Weekly Notes.md",
-    "Calendar/2023-W19.md",
     "Cards/未命名",
     "Calendar/Weekly Notes",
     "Spaces/算法",
     "Spaces/Studys",
     "Sources/Books/微信读书同步/心理",
     "Sources/Books/微信读书同步/科学技术",
-    "Sources/Books/微信读书同步/社会文化",
     "Extras/Media/豆瓣影音封面/p689612649.jpg",
     "Extras/Media/豆瓣影音封面/p462470694.jpg",
     "Extras/Media/豆瓣影音封面/p456666151.jpg",
@@ -296,13 +274,9 @@
     "Extras/Media/Pasted image 20230305122456.png",
     "Extras/Media/Pasted image 20230312131834.png",
     "Extras/Media/Pasted image 20230317221306.png",
-    "Extras/Media/Pasted image 20230329192147.png",
     "Atlas/Canvas/🧩 如何学会减脂和健身.canvas",
     "Atlas/Canvas/🧩 canvas 嵌入高级视图使用示例.canvas",
     "Atlas/Canvas/🧩 如何构建第二大脑.canvas",
-    "Atlas/Canvas/PPV人生管理系统.canvas",
-    "Atlas/Canvas/🧩 如何做读书笔记.canvas",
-    "Atlas/Canvas/🧩 白板canvas-示意图.canvas",
-    "Spaces/2-Area/个人职业生涯/远程面试 共享桌面 演示流程.canvas"
+    "Atlas/Canvas/PPV人生管理系统.canvas"
   ]
 }
