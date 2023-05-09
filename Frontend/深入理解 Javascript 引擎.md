@@ -150,4 +150,13 @@ const someMethod = () => {
 #### Shapes
 对象的创建涉及许多的 property，在一个工程里，对象会有很多，如果来一个就重新创建且初始化会造成相当多的性能消耗，所以针对对象各个引擎都实现了公用结构体的实现，结构体相同的对象会公用同一个结构体，擅自去改变结构体的结构会导致引擎需要新建新的 Shape 来适应，所以尽量减少变动对象结构且尽量保证项目中对象的结构体一致，达到优化生成新对象的作用。
 ![image.png](https://raw.githubusercontent.com/jeasonnow/pics/main/202305091731368.png)
-![Uploading file...z805h]()
+![image.png](https://raw.githubusercontent.com/jeasonnow/pics/main/202305091732698.png)
+#### 文档优化建议速记
+- 不要创建需要大量可选属性的函数。尽量使你的对象形状和参数类型保持一致。
+- 尽量在对象初始化时设置你的属性。
+- 如果你不能在对象的初始化中设置你的属性，那么就按同样的顺序添加你的属性。
+- 尽量使你的函数具有单态性。尽量让你的思维像写静态类型语言一样（使用 Typescript 可以帮助你）。
+
+
+## 文章来源
+[Deep Dive Into Javascript Engines — Blazingly Fast ⚡️ | by Doğukan Akkaya | Medium](https://medium.com/@dogukanakkaya/deep-dive-into-javascript-engines-blazingly-fast-%EF%B8%8F-fc47069e97a4)

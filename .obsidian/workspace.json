@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "e014934744ad0b87",
+        "id": "0e76fa35d73a2517",
         "type": "tabs",
         "children": [
           {
-            "id": "3b972017c0d0d163",
+            "id": "9d0241c5e1812439",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend/HMR 原理.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e8d71df8808d1db5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Frontend/深入理解 Javascript 引擎.md",
+                "file": "Cards/未命名.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frontend/深入理解 Javascript 引擎.md"
+                "file": "Cards/未命名.md"
               }
             }
           },
@@ -129,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frontend/深入理解 Javascript 引擎.md",
+                "file": "Cards/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +127,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Frontend/深入理解 Javascript 引擎.md",
+                "file": "Cards/未命名.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -164,7 +150,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6613010244209162,
+                  "scale": 0.5717221537336777,
                   "close": true
                 }
               }
@@ -176,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frontend/深入理解 Javascript 引擎.md",
+                "file": "Cards/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +174,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -216,7 +202,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calendar/Daily notes/2023-05-09.md",
+                "file": "Cards/Farnam Street Bolg.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -260,38 +246,39 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "71ed94475c84a263",
+  "active": "9d0241c5e1812439",
   "lastOpenFiles": [
-    "Frontend/React.md",
-    "Frontend/HMR 原理.md",
+    "Extras/Templates/Cards模板/Small Card 模板.md",
+    "Cards/未命名.md",
+    "Cards/计算机网络.md",
+    "Cards/费曼学习法.md",
+    "Cards/关于公司内网的组织结构.md",
+    "Cards/解决问题最佳实践.md",
+    "Cards/巴菲特公式：睡觉比起床时更聪明.md",
     "Frontend/深入理解 Javascript 引擎.md",
+    "2023-05-10.md",
+    "心智模型",
+    "未命名.canvas",
+    "Untitled Diagram.svg",
+    "Cards/Farnam Street Bolg.md",
+    "Calendar/Daily notes/2023-05-09.md",
+    "Frontend/HMR 原理.md",
+    "Frontend/React.md",
     "Frontend",
     "Calendar/Weekly Notes/2023-W19.md",
-    "Calendar/Daily notes/2023-05-09.md",
     "Spaces/Studys/内联.md",
     "Calendar/Daily notes/2023-04-18.md",
-    "2023-05-10.md",
     "Calendar/Daily notes/2023-04-23.md",
     "Calendar/About Calendar.md",
     "Cards/About Cards.md",
-    "Cards/Farnam Street Bolg.md",
     "Extras/Templates/Calendar模板/Weekly Notes.md",
     "Calendar/2023-W19.md",
     "Calendar/Weekly Notes/未命名.md",
-    "Untitled Diagram.svg",
     "Extras/Templates/Calendar模板/回顾总结模板/月度模板.md",
     "Extras/Templates/Calendar模板/Daily notes模板.md",
     "Extras/Templates/Calendar模板/会议相关模板/会议纪要模板.md",
-    "未命名.canvas",
     "Calendar/Daily notes/2023-04-27.md",
-    "Sources/Books/微信读书同步/心理/认知觉醒：开启自我改变的原动力.md",
-    "Calendar/Plan & Review/本月计划.md",
-    "Extras/Templates/textgenerator模板/prompts/dalle-2/artWatercolor.md",
-    "Extras/About Extras.md",
-    "Extras/Templates/Cards模板/Card卡片_标准模板.md",
     "Cards/未命名",
-    "Cards/巴菲特公式：睡觉比起床时更聪明.md",
-    "Extras/Templates/其他/tp_学习测试.md",
     "Calendar/Weekly Notes",
     "Spaces/算法",
     "Spaces/Studys",
@@ -299,7 +286,6 @@
     "Sources/Books/微信读书同步/科学技术",
     "Sources/Books/微信读书同步/社会文化",
     "Sources/Books/微信读书同步/艺术",
-    "Sources/Books/微信读书同步/教育学习",
     "Extras/Media/豆瓣影音封面/p689612649.jpg",
     "Extras/Media/豆瓣影音封面/p462470694.jpg",
     "Extras/Media/豆瓣影音封面/p456666151.jpg",
