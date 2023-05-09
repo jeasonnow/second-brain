@@ -13,3 +13,4 @@
 
 ### 引擎的工作流程
 ![image.png](https://raw.githubusercontent.com/jeasonnow/pics/main/202305091547035.png)
+源码 - parser -> 语法数 - interpreter -> ByteCode 且生成优化机器码。

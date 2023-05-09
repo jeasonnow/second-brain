@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calendar/Daily notes/2023-05-09.md",
+                "file": "Spaces/Studys/深入理解 Javascript 引擎.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calendar/Daily notes/2023-05-09.md"
+                "file": "Spaces/Studys/深入理解 Javascript 引擎.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calendar/Daily notes/2023-05-09.md",
+                "file": "Spaces/Studys/深入理解 Javascript 引擎.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Calendar/Daily notes/2023-05-09.md",
+                "file": "Spaces/Studys/深入理解 Javascript 引擎.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calendar/Daily notes/2023-05-09.md",
+                "file": "Spaces/Studys/深入理解 Javascript 引擎.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -250,6 +250,7 @@
   "lastOpenFiles": [
     "Calendar/Weekly Notes/2023-W19.md",
     "Calendar/Daily notes/2023-05-09.md",
+    "Calendar/Daily notes/2023-04-18.md",
     "2023-05-10.md",
     "Calendar/Daily notes/2023-04-23.md",
     "Spaces/Studys/深入理解 Javascript 引擎.md",
@@ -276,7 +277,6 @@
     "Extras/Templates/其他/anki卡片模板.md",
     "Extras/Templates/其他/微信读书同步模板.md",
     "Extras/Templates/其他/模板来源.md",
-    "Extras/Templates/其他/领域入门模板.md",
     "Calendar/Weekly Notes",
     "Spaces/算法",
     "Spaces/Studys",
