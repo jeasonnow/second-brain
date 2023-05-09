@@ -33,8 +33,54 @@
 
 
 ### 优化编译器做了什么
-#### 内联
+#### 内联 (避免重复的引用跳转)
 相比函数调用，直接使用函数的内容替代函数调用会减少昂贵的引用消耗，所以优化编译器会将部分循环或者函数主体内的函数调用替换成被调用函数主体本身。
 ```javascript
+// before
+const add = (a, b) => {  
+    return a + b;  
+};
+
+for (let i = 0; i < 100000; i++) {  
+    add(i, i * 2);  
+}
+
+//optimized
+for (let i = 0; i < 100000; i++) {  
+    i + i * 2;
+}
+```
+
+#### 循环内不可变元素提升（避免重复不变的计算）
+针对函数内不会发生改变的计算量，将其从循环中提升到外部然后直接调用，避免在循环时重复调用，优化机器码运行速度。
+```javascript
+// before
+let result = 0;
+for (let i = 0; i < 1000; i++) {
+	result += 24 * 60 * 60 * 1000; 
+}
+
+// optimized
+let result = 0;
+let count = 24 * 60 * 60 * 1000;
+for (let i = 0; i < 1000; i++) {
+	result += count; 
+}
 
 ```
+
+### 消除重复表达式定义（单一原则）
+避免在源代码中出现的重复表达式，将其抽象成一个变量到处调用。
+```javascript
+// before
+let foo = (a * b) + 1;
+let bar = (a * b) * (a * b);
+
+// optimized
+let temp = a * b;
+let foo = temp + 1;
+let bar = temp * temp;
+```
+
+#### Tree Shaking (消除无用代码)
+避免无用代码被编译，
