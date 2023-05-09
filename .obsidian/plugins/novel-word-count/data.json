@@ -1471,10 +1471,10 @@
       "noteCount": 1,
       "wordCount": 9,
       "pageCount": 0.03,
-      "characterCount": 682,
-      "nonWhitespaceCharacterCount": 570,
+      "characterCount": 701,
+      "nonWhitespaceCharacterCount": 585,
       "createdDate": 1683615041015,
-      "modifiedDate": 1683616220814
+      "modifiedDate": 1683617321772
     },
     "Extras/Templates/Calendar模板/Daily notes模板.md": {
       "isDirectory": false,
@@ -1646,15 +1646,15 @@
       "createdDate": 1681783151766,
       "modifiedDate": 1681783151766
     },
-    "Calendar/Weekly Notes/未命名.md": {
+    "Calendar/Weekly Notes/2023-W19.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 18,
-      "pageCount": 0.06,
-      "characterCount": 772,
-      "nonWhitespaceCharacterCount": 648,
-      "createdDate": 1683616229185,
-      "modifiedDate": 1683616507331
+      "wordCount": 9,
+      "pageCount": 0.03,
+      "characterCount": 701,
+      "nonWhitespaceCharacterCount": 585,
+      "createdDate": 1683617333641,
+      "modifiedDate": 1683617333641
     },
     "Calendar/Plan & Review/本月计划.md": {
       "isDirectory": false,
@@ -1684,7 +1684,7 @@
       "characterCount": 395,
       "nonWhitespaceCharacterCount": 340,
       "createdDate": 1683512434176,
-      "modifiedDate": 1683612585605
+      "modifiedDate": 1683617114518
     },
     "Calendar/Daily notes/2023-05-05.md": {
       "isDirectory": false,

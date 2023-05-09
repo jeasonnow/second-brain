@@ -8,7 +8,7 @@
   "strictLineBreaks": true,
   "emacsyKeys": false,
   "legacyEditor": false,
-  "livePreview": false,
+  "livePreview": true,
   "showLineNumber": false,
   "communityPluginSortOrder": "release",
   "alwaysUpdateLinks": true,

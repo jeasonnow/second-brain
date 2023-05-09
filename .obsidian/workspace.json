@@ -13,10 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calendar/Weekly Notes/未命名.md",
+                "file": "Calendar/Daily notes/2023-05-09.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": true
+                "source": false
               }
             }
           }
@@ -43,7 +43,7 @@
                 "file": "Calendar/Daily notes/2023-05-09.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": true
+                "source": false
               }
             }
           },
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calendar/Weekly Notes/未命名.md"
+                "file": "Calendar/Daily notes/2023-05-09.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calendar/Weekly Notes/未命名.md",
+                "file": "Calendar/Daily notes/2023-05-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Calendar/Weekly Notes/未命名.md",
+                "file": "Calendar/Daily notes/2023-05-09.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calendar/Weekly Notes/未命名.md",
+                "file": "Calendar/Daily notes/2023-05-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +205,7 @@
                 "file": "Calendar/Daily notes/2023-04-23.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": true
+                "source": false
               }
             }
           },
@@ -248,10 +248,15 @@
   },
   "active": "73201497322beb67",
   "lastOpenFiles": [
+    "Calendar/Weekly Notes/2023-W19.md",
+    "Calendar/About Calendar.md",
+    "Cards/About Cards.md",
+    "Cards/Farnam Street Bolg.md",
+    "Extras/Templates/Calendar模板/Weekly Notes.md",
+    "Calendar/2023-W19.md",
+    "Calendar/Weekly Notes/未命名.md",
     "Calendar/Daily notes/2023-05-09.md",
     "Untitled Diagram.svg",
-    "Calendar/Weekly Notes/未命名.md",
-    "Extras/Templates/Calendar模板/Weekly Notes.md",
     "Extras/Templates/Calendar模板/回顾总结模板/月度模板.md",
     "Extras/Templates/Calendar模板/Daily notes模板.md",
     "Extras/Templates/Calendar模板/会议相关模板/会议纪要模板.md",
@@ -272,11 +277,7 @@
     "Extras/Templates/其他/工作流模板.md",
     "Extras/Templates/其他/更新日志模板.md",
     "Extras/Templates/∑ 模板文件创建入口.md",
-    "Extras/Templates/未命名.md",
     "Calendar/Weekly Notes",
-    "Cards/使用 WeakMap 来做更灵活的内存清理.md",
-    "Calendar/Daily notes/2023-04-23.md",
-    "Calendar/Plan & Review/每周回顾/每周写工作周报就精疲力尽，因此暂时不在个人笔记库做每周回顾.md",
     "Spaces/算法",
     "Spaces/Studys",
     "Sources/Books/微信读书同步/心理",

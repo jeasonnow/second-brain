@@ -9,9 +9,9 @@
     "enabled": true
   },
   "weekly": {
-    "format": "",
-    "template": "",
-    "folder": "Calendar",
+    "format": "gggg-[W]w",
+    "template": "Extras/Templates/Calendar模板/Weekly Notes.md",
+    "folder": "Calendar/Weekly Notes",
     "enabled": true
   },
   "monthly": {
