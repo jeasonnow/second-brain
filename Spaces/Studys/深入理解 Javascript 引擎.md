@@ -14,4 +14,14 @@
 ### 引擎的工作流程
 ![image.png](https://raw.githubusercontent.com/jeasonnow/pics/main/202305091547035.png)
 源码 - parser -> 语法数 - interpreter -> ByteCode 且生成优化机器码。
-所有引擎都遵循这个大体结构，通过解释器解释 js 的抽象语法
+
+所有引擎都遵循这个大体结构，通过解释器解释 js 的抽象语法树，如果有可以进行优化的部分则继续使用优化编译器针对性的进行优化，最后生成字节码和优化过的机器码。共同产物提供给机器进行执行。
+
+### 大同小异的编译器
+#### V 8 (Chorme/NodeJs)
+- 解释器：`Ignition`
+- 优化编译器：`TurboFan`
+
+#### JSC (Safari/Ios)
+- 解释器（`LLInt` / `Baseline JIT`）
+- 优化编译器（`DFG`/`FTL`）
