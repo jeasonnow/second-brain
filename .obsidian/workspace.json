@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/未命名.md",
+                "file": "闪念笔记/提升心智模型.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cards/未命名.md"
+                "file": "闪念笔记/提升心智模型.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cards/未命名.md",
+                "file": "闪念笔记/提升心智模型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cards/未命名.md",
+                "file": "闪念笔记/提升心智模型.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cards/未命名.md",
+                "file": "闪念笔记/提升心智模型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,8 +248,12 @@
   },
   "active": "9d0241c5e1812439",
   "lastOpenFiles": [
+    "闪念笔记/心智模型是啥.md",
     "Extras/Templates/Cards模板/Small Card 模板.md",
-    "Cards/未命名.md",
+    "Extras/Templates/Cards模板/Card卡片_标准模板.md",
+    "Extras/Templates/Cards模板/Sources&Spaces卡片_标准模板.md",
+    "闪念笔记/提升心智模型.md",
+    "闪念笔记",
     "Cards/计算机网络.md",
     "Cards/费曼学习法.md",
     "Cards/关于公司内网的组织结构.md",
@@ -275,9 +279,6 @@
     "Calendar/2023-W19.md",
     "Calendar/Weekly Notes/未命名.md",
     "Extras/Templates/Calendar模板/回顾总结模板/月度模板.md",
-    "Extras/Templates/Calendar模板/Daily notes模板.md",
-    "Extras/Templates/Calendar模板/会议相关模板/会议纪要模板.md",
-    "Calendar/Daily notes/2023-04-27.md",
     "Cards/未命名",
     "Calendar/Weekly Notes",
     "Spaces/算法",
@@ -285,7 +286,6 @@
     "Sources/Books/微信读书同步/心理",
     "Sources/Books/微信读书同步/科学技术",
     "Sources/Books/微信读书同步/社会文化",
-    "Sources/Books/微信读书同步/艺术",
     "Extras/Media/豆瓣影音封面/p689612649.jpg",
     "Extras/Media/豆瓣影音封面/p462470694.jpg",
     "Extras/Media/豆瓣影音封面/p456666151.jpg",

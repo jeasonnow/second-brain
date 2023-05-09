@@ -16,6 +16,26 @@
     "pageCountType": "ByWords"
   },
   "cachedCounts": {
+    "闪念笔记/提升心智模型.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 17,
+      "pageCount": 0.056666666666666664,
+      "characterCount": 109,
+      "nonWhitespaceCharacterCount": 86,
+      "createdDate": 1683625622723,
+      "modifiedDate": 1683625832182
+    },
+    "闪念笔记/心智模型是啥.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 68,
+      "pageCount": 0.22666666666666666,
+      "characterCount": 221,
+      "nonWhitespaceCharacterCount": 194,
+      "createdDate": 1683625323877,
+      "modifiedDate": 1683625799822
+    },
     "Frontend/React技术原理.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -1401,10 +1421,10 @@
       "noteCount": 1,
       "wordCount": 4,
       "pageCount": 0.013333333333333334,
-      "characterCount": 13,
-      "nonWhitespaceCharacterCount": 8,
+      "characterCount": 94,
+      "nonWhitespaceCharacterCount": 76,
       "createdDate": 1683625181762,
-      "modifiedDate": 1683625217748
+      "modifiedDate": 1683625810316
     },
     "Extras/Templates/Cards模板/Sources&Spaces卡片_标准模板.md": {
       "isDirectory": false,
@@ -1535,16 +1555,6 @@
       "nonWhitespaceCharacterCount": 338,
       "createdDate": 1681783151882,
       "modifiedDate": 1681783151882
-    },
-    "Cards/未命名.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "createdDate": 1683625323877,
-      "modifiedDate": 1683625323877
     },
     "Cards/费曼学习法.md": {
       "isDirectory": false,
