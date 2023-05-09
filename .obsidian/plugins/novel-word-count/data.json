@@ -16,15 +16,25 @@
     "pageCountType": "ByWords"
   },
   "cachedCounts": {
-    "闪念笔记/无结构的知识毫无用处.md": {
+    "闪念笔记/未命名.md": {
       "isDirectory": false,
       "noteCount": 1,
       "wordCount": 0,
       "pageCount": 0,
       "characterCount": 0,
       "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1683640499117,
+      "modifiedDate": 1683640499117
+    },
+    "闪念笔记/无结构的知识毫无用处.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 131,
+      "pageCount": 0.43666666666666665,
+      "characterCount": 292,
+      "nonWhitespaceCharacterCount": 264,
       "createdDate": 1683626189914,
-      "modifiedDate": 1683626189914
+      "modifiedDate": 1683626365607
     },
     "闪念笔记/提升心智模型.md": {
       "isDirectory": false,

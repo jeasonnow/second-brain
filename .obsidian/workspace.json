@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "闪念笔记/提升心智模型.md",
+                "file": "闪念笔记/未命名.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "闪念笔记/提升心智模型.md"
+                "file": "闪念笔记/未命名.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "闪念笔记/提升心智模型.md",
+                "file": "闪念笔记/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "闪念笔记/提升心智模型.md",
+                "file": "闪念笔记/未命名.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "闪念笔记/提升心智模型.md",
+                "file": "闪念笔记/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,9 +248,10 @@
   },
   "active": "9d0241c5e1812439",
   "lastOpenFiles": [
+    "闪念笔记/提升心智模型.md",
+    "闪念笔记/未命名.md",
     "闪念笔记/心智模型是啥.md",
     "闪念笔记/无结构的知识毫无用处.md",
-    "闪念笔记/提升心智模型.md",
     "Extras/Templates/Cards模板/Small Card 模板.md",
     "Extras/Templates/Cards模板/Card卡片_标准模板.md",
     "Extras/Templates/Cards模板/Sources&Spaces卡片_标准模板.md",
@@ -278,7 +279,6 @@
     "Cards/About Cards.md",
     "Extras/Templates/Calendar模板/Weekly Notes.md",
     "Calendar/2023-W19.md",
-    "Calendar/Weekly Notes/未命名.md",
     "Cards/未命名",
     "Calendar/Weekly Notes",
     "Spaces/算法",
