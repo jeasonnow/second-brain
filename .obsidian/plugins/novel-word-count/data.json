@@ -16,25 +16,35 @@
     "pageCountType": "ByWords"
   },
   "cachedCounts": {
+    "闪念笔记/无结构的知识毫无用处.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1683626189914,
+      "modifiedDate": 1683626189914
+    },
     "闪念笔记/提升心智模型.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 17,
-      "pageCount": 0.056666666666666664,
-      "characterCount": 109,
-      "nonWhitespaceCharacterCount": 86,
+      "wordCount": 104,
+      "pageCount": 0.3466666666666667,
+      "characterCount": 354,
+      "nonWhitespaceCharacterCount": 312,
       "createdDate": 1683625622723,
-      "modifiedDate": 1683625832182
+      "modifiedDate": 1683626219476
     },
     "闪念笔记/心智模型是啥.md": {
       "isDirectory": false,
       "noteCount": 1,
       "wordCount": 68,
       "pageCount": 0.22666666666666666,
-      "characterCount": 221,
-      "nonWhitespaceCharacterCount": 194,
+      "characterCount": 228,
+      "nonWhitespaceCharacterCount": 197,
       "createdDate": 1683625323877,
-      "modifiedDate": 1683625799822
+      "modifiedDate": 1683626215356
     },
     "Frontend/React技术原理.md": {
       "isDirectory": false,
