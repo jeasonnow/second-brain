@@ -1689,12 +1689,12 @@
     "Cards/使用 WeakMap 来做更灵活的内存清理.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 34,
-      "pageCount": 0.11333333333333333,
-      "characterCount": 175,
-      "nonWhitespaceCharacterCount": 139,
+      "wordCount": 75,
+      "pageCount": 0.25,
+      "characterCount": 387,
+      "nonWhitespaceCharacterCount": 332,
       "createdDate": 1683539190257,
-      "modifiedDate": 1683539197621
+      "modifiedDate": 1683539323208
     },
     "Cards/费曼学习法.md": {
       "isDirectory": false,
@@ -1886,15 +1886,25 @@
       "createdDate": 1681783151761,
       "modifiedDate": 1681783151761
     },
+    "Calendar/Daily notes/2023-05-09.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 8,
+      "pageCount": 0.02666666666666667,
+      "characterCount": 69,
+      "nonWhitespaceCharacterCount": 54,
+      "createdDate": 1683598583165,
+      "modifiedDate": 1683598583165
+    },
     "Calendar/Daily notes/2023-05-08.md": {
       "isDirectory": false,
       "noteCount": 1,
       "wordCount": 114,
       "pageCount": 0.38,
       "characterCount": 395,
-      "nonWhitespaceCharacterCount": 340,
+      "nonWhitespaceCharacterCount": 341,
       "createdDate": 1683512434176,
-      "modifiedDate": 1683538510206
+      "modifiedDate": 1683539333746
     },
     "Calendar/Daily notes/2023-04-26.md": {
       "isDirectory": false,
