@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ee02477cfa70cd85",
+        "id": "e014934744ad0b87",
         "type": "tabs",
         "children": [
           {
-            "id": "73201497322beb67",
+            "id": "3b972017c0d0d163",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calendar/Daily notes/2023-05-09.md",
+                "file": "Spaces/Studys/深入理解 Javascript 引擎.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calendar/Daily notes/2023-05-09.md"
+                "file": "Spaces/Studys/深入理解 Javascript 引擎.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calendar/Daily notes/2023-05-09.md",
+                "file": "Spaces/Studys/深入理解 Javascript 引擎.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Calendar/Daily notes/2023-05-09.md",
+                "file": "Spaces/Studys/深入理解 Javascript 引擎.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calendar/Daily notes/2023-05-09.md",
+                "file": "Spaces/Studys/深入理解 Javascript 引擎.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,16 +246,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "73201497322beb67",
+  "active": "3b972017c0d0d163",
   "lastOpenFiles": [
     "Calendar/Weekly Notes/2023-W19.md",
+    "Calendar/Daily notes/2023-05-09.md",
+    "Spaces/Studys/深入理解 Javascript 引擎.md",
     "Calendar/About Calendar.md",
     "Cards/About Cards.md",
     "Cards/Farnam Street Bolg.md",
     "Extras/Templates/Calendar模板/Weekly Notes.md",
     "Calendar/2023-W19.md",
     "Calendar/Weekly Notes/未命名.md",
-    "Calendar/Daily notes/2023-05-09.md",
     "Untitled Diagram.svg",
     "Extras/Templates/Calendar模板/回顾总结模板/月度模板.md",
     "Extras/Templates/Calendar模板/Daily notes模板.md",
@@ -276,7 +277,6 @@
     "Extras/Templates/其他/领域入门模板.md",
     "Extras/Templates/其他/工作流模板.md",
     "Extras/Templates/其他/更新日志模板.md",
-    "Extras/Templates/∑ 模板文件创建入口.md",
     "Calendar/Weekly Notes",
     "Spaces/算法",
     "Spaces/Studys",
