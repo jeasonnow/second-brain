@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calendar/Plan & Review/本月计划.md",
+                "file": "Cards/计算机网络.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -91,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calendar/Plan & Review/本月计划.md"
+                "file": "Cards/计算机网络.md"
               }
             }
           },
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calendar/Plan & Review/本月计划.md",
+                "file": "Cards/计算机网络.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Calendar/Plan & Review/本月计划.md",
+                "file": "Cards/计算机网络.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calendar/Plan & Review/本月计划.md",
+                "file": "Cards/计算机网络.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,8 +232,13 @@
   },
   "active": "7d3fba8f7fe228d2",
   "lastOpenFiles": [
-    "Calendar/Daily notes/2023-05-09.md",
+    "Extras/Templates/textgenerator模板/prompts/dalle-2/artWatercolor.md",
+    "Extras/About Extras.md",
     "Calendar/Plan & Review/本月计划.md",
+    "Extras/Templates/Cards模板/Card卡片_标准模板.md",
+    "Cards/未命名",
+    "Cards/巴菲特公式：睡觉比起床时更聪明.md",
+    "Calendar/Daily notes/2023-05-09.md",
     "Extras/Templates/其他/tp_学习测试.md",
     "Extras/Templates/其他/anki卡片模板.md",
     "Extras/Templates/其他/微信读书同步模板.md",
@@ -249,16 +254,12 @@
     "Cards/使用 WeakMap 来做更灵活的内存清理.md",
     "Calendar/Daily notes/2023-04-23.md",
     "Calendar/Plan & Review/每周回顾/每周写工作周报就精疲力尽，因此暂时不在个人笔记库做每周回顾.md",
-    "Cards/巴菲特公式：睡觉比起床时更聪明.md",
     "Cards/费曼学习法.md",
     "Cards/前端技术.md",
     "Cards/卡片笔记实践.md",
     "Cards/如何在移动端禁用、反禁用复制功能.md",
     "Cards/解决问题最佳实践.md",
     "Cards/关于公司内网的组织结构.md",
-    "Calendar/Daily notes/2023-05-08.md",
-    "Cards/Farnam Street Bolg.md",
-    "Spaces/Studys/React技术原理.md",
     "Spaces/算法",
     "Spaces/Studys",
     "Sources/Books/微信读书同步/心理",
@@ -268,7 +269,6 @@
     "Sources/Books/微信读书同步/艺术",
     "Sources/Books/微信读书同步/教育学习",
     "Sources/Books/微信读书同步/政治军事",
-    "Sources/Books/微信读书同步/哲学宗教",
     "Extras/Media/豆瓣影音封面/p689612649.jpg",
     "Extras/Media/豆瓣影音封面/p462470694.jpg",
     "Extras/Media/豆瓣影音封面/p456666151.jpg",
