@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "44ac9dee5538119c",
+        "id": "ee02477cfa70cd85",
         "type": "tabs",
         "children": [
           {
-            "id": "7d3fba8f7fe228d2",
+            "id": "73201497322beb67",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calendar/Daily notes/2023-05-09.md",
+                "file": "Extras/Templates/Calendar模板/Weekly Notes.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": false
+                "source": true
               }
             }
           }
@@ -38,9 +38,9 @@
             "id": "a4d1994dfc9f1870",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
+              "type": "diagram-edit",
               "state": {
-                "sortOrder": "alphabetical"
+                "file": "Untitled Diagram.svg"
               }
             }
           },
@@ -77,8 +77,19 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "71ed94475c84a263",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "92910ae8836a7b22",
@@ -91,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calendar/Daily notes/2023-05-09.md"
+                "file": "Extras/Templates/Calendar模板/Weekly Notes.md"
               }
             }
           },
@@ -101,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calendar/Daily notes/2023-05-09.md",
+                "file": "Extras/Templates/Calendar模板/Weekly Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +124,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Calendar/Daily notes/2023-05-09.md",
+                "file": "Extras/Templates/Calendar模板/Weekly Notes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -136,7 +147,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1,
+                  "scale": 0.6613010244209162,
                   "close": true
                 }
               }
@@ -148,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calendar/Daily notes/2023-05-09.md",
+                "file": "Extras/Templates/Calendar模板/Weekly Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,11 +170,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 336.5
+    "width": 369.5
   },
   "right": {
     "id": "c718ea3b78af998f",
@@ -190,7 +202,7 @@
                 "file": "Calendar/Daily notes/2023-04-23.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": false
+                "source": true
               }
             }
           },
@@ -227,13 +239,23 @@
       "graph:查看关系图谱": false,
       "command-palette:打开命令面板": false,
       "obsidian-spaced-repetition:复习卡片": false,
-      "workspaces:管理工作区布局": false
+      "workspaces:管理工作区布局": false,
+      "periodic-notes:Open this week": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "7d3fba8f7fe228d2",
+  "active": "73201497322beb67",
   "lastOpenFiles": [
-    "Calendar/Plan & Review/本月计划.md",
+    "Extras/Templates/Calendar模板/回顾总结模板/月度模板.md",
+    "Extras/Templates/Calendar模板/Daily notes模板.md",
+    "Extras/Templates/Calendar模板/会议相关模板/会议纪要模板.md",
+    "Extras/Templates/Calendar模板/Weekly Notes.md",
+    "未命名.canvas",
+    "Calendar/Daily notes/2023-04-27.md",
+    "Sources/Books/微信读书同步/心理/认知觉醒：开启自我改变的原动力.md",
     "Calendar/Daily notes/2023-05-09.md",
+    "Untitled Diagram.svg",
+    "Calendar/Plan & Review/本月计划.md",
     "Extras/Templates/textgenerator模板/prompts/dalle-2/artWatercolor.md",
     "Extras/About Extras.md",
     "Extras/Templates/Cards模板/Card卡片_标准模板.md",
@@ -247,7 +269,6 @@
     "Extras/Templates/其他/工作流模板.md",
     "Extras/Templates/其他/更新日志模板.md",
     "Calendar/Weekly Notes/未命名.md",
-    "Extras/Templates/Calendar模板/回顾总结模板/月度模板.md",
     "Extras/Templates/∑ 模板文件创建入口.md",
     "Extras/Templates/未命名.md",
     "Calendar/Weekly Notes",
@@ -255,15 +276,9 @@
     "Calendar/Daily notes/2023-04-23.md",
     "Calendar/Plan & Review/每周回顾/每周写工作周报就精疲力尽，因此暂时不在个人笔记库做每周回顾.md",
     "Cards/费曼学习法.md",
-    "Cards/前端技术.md",
-    "Cards/卡片笔记实践.md",
-    "Cards/如何在移动端禁用、反禁用复制功能.md",
-    "Cards/解决问题最佳实践.md",
-    "Cards/关于公司内网的组织结构.md",
     "Spaces/算法",
     "Spaces/Studys",
     "Sources/Books/微信读书同步/心理",
-    "未命名.canvas",
     "Sources/Books/微信读书同步/科学技术",
     "Sources/Books/微信读书同步/社会文化",
     "Sources/Books/微信读书同步/艺术",
@@ -280,7 +295,6 @@
     "Extras/Media/Pasted image 20230312131834.png",
     "Extras/Media/Pasted image 20230317221306.png",
     "Extras/Media/Pasted image 20230329192147.png",
-    "Extras/Media/Screenshot_2022-11-20-18-40-36-52_d138286dbdf585e65d8870f8ad4cb89b.jpg",
     "Atlas/Canvas/🧩 如何学会减脂和健身.canvas",
     "Atlas/Canvas/🧩 canvas 嵌入高级视图使用示例.canvas",
     "Atlas/Canvas/🧩 如何构建第二大脑.canvas",

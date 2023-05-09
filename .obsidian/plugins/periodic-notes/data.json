@@ -5,12 +5,14 @@
   "daily": {
     "format": "",
     "template": "",
-    "folder": ""
+    "folder": "",
+    "enabled": true
   },
   "weekly": {
     "format": "",
     "template": "",
-    "folder": ""
+    "folder": "Calendar",
+    "enabled": true
   },
   "monthly": {
     "format": "",
