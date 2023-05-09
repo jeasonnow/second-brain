@@ -14,7 +14,6 @@
   "obsidian-advanced-uri",
   "obsidian-image-auto-upload-plugin",
   "novel-word-count",
-  "smart-connections",
   "obsidian-plugin-update-tracker",
   "obsidian-pangu",
   "table-editor-obsidian",
@@ -34,5 +33,6 @@
   "calendar-beta",
   "editing-toolbar",
   "drawio-obsidian",
-  "obsidian-outliner"
+  "obsidian-outliner",
+  "periodic-notes"
 ]

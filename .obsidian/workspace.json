@@ -8,25 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ff3c75ae14b679e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Calendar/Daily notes/2023-05-09.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7d3fba8f7fe228d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/使用 WeakMap 来做更灵活的内存清理.md",
+                "file": "Calendar/Weekly Notes/未命名.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -104,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calendar/Daily notes/2023-05-09.md"
+                "file": "Calendar/Weekly Notes/未命名.md"
               }
             }
           },
@@ -114,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calendar/Daily notes/2023-05-09.md",
+                "file": "Calendar/Weekly Notes/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Calendar/Daily notes/2023-05-09.md",
+                "file": "Calendar/Weekly Notes/未命名.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -161,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calendar/Daily notes/2023-05-09.md",
+                "file": "Calendar/Weekly Notes/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,25 +209,9 @@
               "type": "reminder-list",
               "state": {}
             }
-          },
-          {
-            "id": "e2eda319ff568077",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "562176a1bb37c17a",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -259,35 +230,36 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "ff3c75ae14b679e5",
+  "active": "7d3fba8f7fe228d2",
   "lastOpenFiles": [
-    "Calendar/Daily notes/2023-05-08.md",
     "Calendar/Daily notes/2023-05-09.md",
-    "Cards/Farnam Street Bolg.md",
-    "Calendar/Daily notes/2023-04-23.md",
+    "Calendar/Weekly Notes/未命名.md",
+    "Calendar/Weekly Notes",
     "Cards/使用 WeakMap 来做更灵活的内存清理.md",
+    "Calendar/Daily notes/2023-04-23.md",
+    "Calendar/Plan & Review/每周回顾/每周写工作周报就精疲力尽，因此暂时不在个人笔记库做每周回顾.md",
+    "Cards/巴菲特公式：睡觉比起床时更聪明.md",
+    "Cards/费曼学习法.md",
+    "Cards/前端技术.md",
+    "Cards/卡片笔记实践.md",
+    "Cards/如何在移动端禁用、反禁用复制功能.md",
+    "Cards/解决问题最佳实践.md",
+    "Cards/关于公司内网的组织结构.md",
+    "Calendar/Daily notes/2023-05-08.md",
+    "Cards/Farnam Street Bolg.md",
     "Spaces/Studys/React技术原理.md",
     "Spaces/Studys/React.md",
-    "Cards/巴菲特公式：睡觉比起床时更聪明.md",
     "Spaces/算法/贪心算法.md",
     "Cards/算法/未命名 1.md",
     "Cards/算法/未命名.md",
     "Calendar/Daily notes/2023-05-05.md",
     "Spaces/算法",
     "Cards/最佳实践.md",
-    "Cards/如何在移动端禁用、反禁用复制功能.md",
-    "Cards/前端技术.md",
-    "Cards/解决问题最佳实践.md",
-    "Cards/关于公司内网的组织结构.md",
-    "Cards/费曼学习法.md",
     "Calendar/Daily notes/未命名 1.md",
     "Calendar/Daily notes/未命名.md",
     "Extras/Templates/Cards模板/Card卡片_标准模板.md",
     "Calendar/Daily notes/2023-04-22.md",
     "Calendar/Daily notes/2023-04-18.md",
-    "Calendar/Daily notes/2023-04-19.md",
-    "Calendar/Daily notes/2023-04-20.md",
-    "Calendar/Daily notes/2023-04-21.md",
     "Spaces/Studys",
     "Sources/Books/微信读书同步/心理",
     "未命名.canvas",
@@ -297,7 +269,6 @@
     "Sources/Books/微信读书同步/教育学习",
     "Sources/Books/微信读书同步/政治军事",
     "Sources/Books/微信读书同步/哲学宗教",
-    "Sources/Books/微信读书同步/计算机",
     "Extras/Media/豆瓣影音封面/p689612649.jpg",
     "Extras/Media/豆瓣影音封面/p462470694.jpg",
     "Extras/Media/豆瓣影音封面/p456666151.jpg",
