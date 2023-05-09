@@ -83,4 +83,27 @@ let bar = temp * temp;
 ```
 
 #### Tree Shaking (消除无用代码)
-避免无用代码被编译，
+避免无用代码被编译，减少编译和优化量以及执行代码所需的内存。
+
+
+#### 减少源代码中的昂贵操作
+相比对每次都重新替换连续内存中的元素或引用，替换成对原有内存指针中的元素进行改变，会降低消耗。
+```javascript
+// before
+let x = 7;  
+let arr = [];for (let i = 0; i < 10; i++) {  
+    arr[i] = x * i;  
+}
+
+// optimized
+let x = 7;  
+let s = 0;  
+let arr = [];for (let i = 0; i < 10; i++) {  
+    arr[i] = s;  
+    s += x;  
+}
+```
+
+
+#### 内置函数优化
+针对一些在引擎内实现的 ECMA 基类，其实现本身其实已经可以确定，不需要重复执行一些biao'zhun'ha
