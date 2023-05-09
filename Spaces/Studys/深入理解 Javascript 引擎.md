@@ -23,5 +23,18 @@
 - 优化编译器：`TurboFan`
 
 #### JSC (Safari/Ios)
+不同的解释器、优化器在针对不同复杂度的代码时生效。
 - 解释器（`LLInt` / `Baseline JIT`）
-- 优化编译器（`DFG`/`FTL`）
+- 优化编译器（`DFG` / `FTL`）
+
+#### SpiderMonkey
+- 解释器：`BaseLink Interpreter`
+- 优化编译器：`Baseline Compiler` 、 `WarpMonkey`
+
+
+### 优化编译器做了什么
+#### 内联
+相比函数调用，直接使用函数的内容替代函数调用会减少昂贵的引用消耗，所以优化编译器会将部分循环或者函数主体内的函数调用替换成被调用函数主体本身。
+```javascript
+
+```
