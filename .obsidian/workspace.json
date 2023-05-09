@@ -11,14 +11,12 @@
             "id": "b745e7c25a44463a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "哲学社科/未命名.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "哲学社科/心智模型.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -93,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "哲学社科/未命名.canvas"
+                "file": "哲学社科/心智模型.md"
               }
             }
           },
@@ -103,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "哲学社科/未命名.canvas",
+                "file": "哲学社科/心智模型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "哲学社科/未命名.canvas",
+                "file": "哲学社科/心智模型.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -150,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "哲学社科/未命名.canvas",
+                "file": "哲学社科/心智模型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,13 +221,13 @@
   },
   "active": "b745e7c25a44463a",
   "lastOpenFiles": [
-    "哲学社科/Untitled Diagram.svg",
+    "Calendar/Weekly Notes/2023-W19.md",
+    "哲学社科/心智模型.md",
     "哲学社科/未命名.canvas",
-    "哲学社科/未命名.md",
+    "哲学社科/Untitled Diagram.svg",
     "Calendar/Daily notes/2023-05-09.md",
     "未命名.canvas",
     "Cards/Farnam Street Bolg.md",
-    "哲学社科/心智模型.md",
     "Extras/About Extras.md",
     "Extras/Templates/∑ 模板文件创建入口.md",
     "Extras/Templates/Spaces模板/Archive创建模板.md",
