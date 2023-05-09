@@ -106,4 +106,41 @@ let arr = [];for (let i = 0; i < 10; i++) {
 
 
 #### 内置函数优化
-针对一些在引擎内实现的 ECMA 基类，其实现本身其实已经可以确定，不需要重复执行一些biao'zhun'ha
+针对一些在引擎内实现的 ECMA 基类，其实现本身其实已经可以确定，不需要重复执行一些标准函数，相应的只需要替换其内置的某些函数为被调用函数的函数体（类似 [[#内联 (避免重复的引用跳转)]]）
+
+```javascript
+// before
+const someMethod = () => {  
+    let callbackfn = x => x === true;  
+    let len = this.length;  
+    if (typeof callbackfn !== "function") {  
+        throw new TypeError();  
+    }  
+    let k = 0;  
+      
+    while (k < len) {  
+        if (k in this) {  
+            if (callbackfn(this[k])) {  
+                return true;  
+            }  
+        }  
+        k = k + 1;  
+    }    return false;  
+}
+
+//optimized
+const someMethod = () => {  
+    let len = this.length;  
+    let k = 0;  
+      
+    while (k < len) {  
+        if (this[k] === true) {  
+            return true;  
+        }  
+        k = k + 1;  
+    }    return false;  
+}
+```
+
+
+##  
