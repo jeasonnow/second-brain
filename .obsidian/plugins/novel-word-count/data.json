@@ -15,5 +15,1826 @@
     "wordCountType": "CJK",
     "pageCountType": "ByWords"
   },
-  "cachedCounts": {}
+  "cachedCounts": {
+    "∑ 本库 ACCESS 的文件夹入口汇总.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1681969628442,
+      "modifiedDate": 1681969628442
+    },
+    "» Daily notes工作流.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1681958113679,
+      "modifiedDate": 1681958113679
+    },
+    "Spaces/算法/贪心算法.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 440,
+      "pageCount": 1.4666666666666666,
+      "characterCount": 899,
+      "nonWhitespaceCharacterCount": 809,
+      "createdDate": 1683275317619,
+      "modifiedDate": 1683295207148
+    },
+    "Spaces/Studys/React技术原理.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 1050,
+      "pageCount": 3.5,
+      "characterCount": 3647,
+      "nonWhitespaceCharacterCount": 3162,
+      "createdDate": 1683336381827,
+      "modifiedDate": 1683358686453
+    },
+    "Spaces/Studys/React.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1683336423531,
+      "modifiedDate": 1683336423531
+    },
+    "Spaces/Studys/HMR 原理.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 1090,
+      "pageCount": 3.6333333333333333,
+      "characterCount": 2631,
+      "nonWhitespaceCharacterCount": 2361,
+      "createdDate": 1682583111544,
+      "modifiedDate": 1682589239061
+    },
+    "Spaces/Apps/SizeUp.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 226,
+      "pageCount": 0.7533333333333333,
+      "characterCount": 362,
+      "nonWhitespaceCharacterCount": 324,
+      "createdDate": 1681897893695,
+      "modifiedDate": 1681897948316
+    },
+    "Spaces/Apps/Downie.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 110,
+      "pageCount": 0.36666666666666664,
+      "characterCount": 694,
+      "nonWhitespaceCharacterCount": 623,
+      "createdDate": 1681897521969,
+      "modifiedDate": 1681897562990
+    },
+    "Spaces/Apps/Alfred.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 415,
+      "pageCount": 1.3833333333333333,
+      "characterCount": 773,
+      "nonWhitespaceCharacterCount": 734,
+      "createdDate": 1681897963793,
+      "modifiedDate": 1681900141439
+    },
+    "Spaces/About Spaces.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 124,
+      "pageCount": 0.41333333333333333,
+      "characterCount": 1501,
+      "nonWhitespaceCharacterCount": 1266,
+      "createdDate": 1681783155158,
+      "modifiedDate": 1681783155158
+    },
+    "Sources/Books/微信读书同步/计算机/领域驱动设计（Thoughtworks洞见）.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 644,
+      "pageCount": 2.1466666666666665,
+      "characterCount": 1482,
+      "nonWhitespaceCharacterCount": 1333,
+      "createdDate": 1681955544338,
+      "modifiedDate": 1681955544371
+    },
+    "Sources/Books/微信读书同步/计算机/软技能2：软件开发者职业生涯指南.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 467,
+      "pageCount": 1.5566666666666666,
+      "characterCount": 988,
+      "nonWhitespaceCharacterCount": 903,
+      "createdDate": 1681955544458,
+      "modifiedDate": 1681955544480
+    },
+    "Sources/Books/微信读书同步/计算机/程序员修炼之道：从小工到专家.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 2250,
+      "pageCount": 7.5,
+      "characterCount": 4313,
+      "nonWhitespaceCharacterCount": 3723,
+      "createdDate": 1681955544435,
+      "modifiedDate": 1681955544435
+    },
+    "Sources/Books/微信读书同步/计算机/性能之巅：洞悉系统、企业与云计算.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 432,
+      "pageCount": 1.44,
+      "characterCount": 1045,
+      "nonWhitespaceCharacterCount": 941,
+      "createdDate": 1681955543120,
+      "modifiedDate": 1681955543121
+    },
+    "Sources/Books/微信读书同步/艺术/欧美流行音乐简史.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 1238,
+      "pageCount": 4.126666666666667,
+      "characterCount": 2493,
+      "nonWhitespaceCharacterCount": 2178,
+      "createdDate": 1681955543948,
+      "modifiedDate": 1681955543949
+    },
+    "Sources/Books/微信读书同步/经济理财/重来：更为简单有效的商业思维.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 1436,
+      "pageCount": 4.786666666666667,
+      "characterCount": 2704,
+      "nonWhitespaceCharacterCount": 2362,
+      "createdDate": 1681955543829,
+      "modifiedDate": 1681955543849
+    },
+    "Sources/Books/微信读书同步/经济理财/置身事内：中国政府与经济发展.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 793,
+      "pageCount": 2.6433333333333335,
+      "characterCount": 1452,
+      "nonWhitespaceCharacterCount": 1337,
+      "createdDate": 1681955543471,
+      "modifiedDate": 1681955543492
+    },
+    "Sources/Books/微信读书同步/经济理财/组织的逻辑.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 1052,
+      "pageCount": 3.506666666666667,
+      "characterCount": 1902,
+      "nonWhitespaceCharacterCount": 1725,
+      "createdDate": 1681955543176,
+      "modifiedDate": 1681955543194
+    },
+    "Sources/Books/微信读书同步/经济理财/纳瓦尔宝典.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 7997,
+      "pageCount": 26.656666666666666,
+      "characterCount": 14578,
+      "nonWhitespaceCharacterCount": 12621,
+      "createdDate": 1681955542763,
+      "modifiedDate": 1682573863491
+    },
+    "Sources/Books/微信读书同步/经济理财/巴菲特之道（原书第3版）.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 873,
+      "pageCount": 2.91,
+      "characterCount": 1734,
+      "nonWhitespaceCharacterCount": 1535,
+      "createdDate": 1681955544210,
+      "modifiedDate": 1681955544238
+    },
+    "Sources/Books/微信读书同步/经济理财/债务危机.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 711,
+      "pageCount": 2.37,
+      "characterCount": 1317,
+      "nonWhitespaceCharacterCount": 1221,
+      "createdDate": 1681955543345,
+      "modifiedDate": 1681955543346
+    },
+    "Sources/Books/微信读书同步/科学技术/天真的人类学家.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 443,
+      "pageCount": 1.4766666666666666,
+      "characterCount": 1007,
+      "nonWhitespaceCharacterCount": 910,
+      "createdDate": 1681955544579,
+      "modifiedDate": 1681955544600
+    },
+    "Sources/Books/微信读书同步/社会文化/乡土中国.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 613,
+      "pageCount": 2.0433333333333334,
+      "characterCount": 1255,
+      "nonWhitespaceCharacterCount": 1135,
+      "createdDate": 1681955544140,
+      "modifiedDate": 1681955544141
+    },
+    "Sources/Books/微信读书同步/教育学习/如何阅读一本书.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 308,
+      "pageCount": 1.0266666666666666,
+      "characterCount": 844,
+      "nonWhitespaceCharacterCount": 741,
+      "createdDate": 1681955543660,
+      "modifiedDate": 1681955543680
+    },
+    "Sources/Books/微信读书同步/政治军事/毛泽东选集（全四卷）.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 3996,
+      "pageCount": 13.32,
+      "characterCount": 7079,
+      "nonWhitespaceCharacterCount": 6155,
+      "createdDate": 1681955543555,
+      "modifiedDate": 1681955543571
+    },
+    "Sources/Books/微信读书同步/心理/认知觉醒：开启自我改变的原动力.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 4257,
+      "pageCount": 14.19,
+      "characterCount": 8082,
+      "nonWhitespaceCharacterCount": 6946,
+      "createdDate": 1682573863475,
+      "modifiedDate": 1683612000893
+    },
+    "Sources/Books/微信读书同步/哲学宗教/资本论（超值白金版）.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 747,
+      "pageCount": 2.49,
+      "characterCount": 1611,
+      "nonWhitespaceCharacterCount": 1395,
+      "createdDate": 1681955543417,
+      "modifiedDate": 1681955543445
+    },
+    "Sources/Books/微信读书同步/哲学宗教/查拉图斯特拉如是说.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 2728,
+      "pageCount": 9.093333333333334,
+      "characterCount": 5058,
+      "nonWhitespaceCharacterCount": 4373,
+      "createdDate": 1681955543260,
+      "modifiedDate": 1681955543275
+    },
+    "Sources/Books/微信读书同步/哲学宗教/哲学家们都干了些什么？ （修订版）.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 404,
+      "pageCount": 1.3466666666666667,
+      "characterCount": 1020,
+      "nonWhitespaceCharacterCount": 863,
+      "createdDate": 1681955543371,
+      "modifiedDate": 1681955543391
+    },
+    "Sources/Books/微信读书同步/个人成长/逆转：弱者如何找到优势，反败为胜.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 2438,
+      "pageCount": 8.126666666666667,
+      "characterCount": 4265,
+      "nonWhitespaceCharacterCount": 3769,
+      "createdDate": 1681955543016,
+      "modifiedDate": 1681955543017
+    },
+    "Sources/Books/微信读书同步/个人成长/跃迁：成为高手的技术（附赠高手秘籍和时间管理秘籍）.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 485,
+      "pageCount": 1.6166666666666667,
+      "characterCount": 1122,
+      "nonWhitespaceCharacterCount": 1008,
+      "createdDate": 1681955544311,
+      "modifiedDate": 1681955544312
+    },
+    "Sources/Books/微信读书同步/个人成长/异类.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 453,
+      "pageCount": 1.51,
+      "characterCount": 1066,
+      "nonWhitespaceCharacterCount": 959,
+      "createdDate": 1681955544626,
+      "modifiedDate": 1681955544648
+    },
+    "Sources/About Sources.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 120,
+      "pageCount": 0.4,
+      "characterCount": 513,
+      "nonWhitespaceCharacterCount": 445,
+      "createdDate": 1681783154838,
+      "modifiedDate": 1681783154838
+    },
+    "README.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 704,
+      "pageCount": 2.3466666666666667,
+      "characterCount": 2125,
+      "nonWhitespaceCharacterCount": 2009,
+      "createdDate": 1681783154838,
+      "modifiedDate": 1681783154838
+    },
+    "HOMEPAGE.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 146,
+      "pageCount": 0.4866666666666667,
+      "characterCount": 586,
+      "nonWhitespaceCharacterCount": 509,
+      "createdDate": 1681783154837,
+      "modifiedDate": 1681783154838
+    },
+    "Extras/Templates/其他/领域入门模板.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 15,
+      "pageCount": 0.05,
+      "characterCount": 20,
+      "nonWhitespaceCharacterCount": 15,
+      "createdDate": 1681783154836,
+      "modifiedDate": 1681783154836
+    },
+    "Extras/Templates/其他/模板来源.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 18,
+      "pageCount": 0.06,
+      "characterCount": 20,
+      "nonWhitespaceCharacterCount": 20,
+      "createdDate": 1681783154836,
+      "modifiedDate": 1681783154836
+    },
+    "Extras/Templates/其他/更新日志模板.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 1,
+      "pageCount": 0.0033333333333333335,
+      "characterCount": 84,
+      "nonWhitespaceCharacterCount": 66,
+      "createdDate": 1681783154836,
+      "modifiedDate": 1681783154836
+    },
+    "Extras/Templates/其他/思维思考模板/康奈尔笔记法模板.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 318,
+      "pageCount": 1.06,
+      "characterCount": 521,
+      "nonWhitespaceCharacterCount": 452,
+      "createdDate": 1681783154836,
+      "modifiedDate": 1681783154836
+    },
+    "Extras/Templates/其他/思维思考模板/六顶思考帽模板.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 228,
+      "pageCount": 0.76,
+      "characterCount": 424,
+      "nonWhitespaceCharacterCount": 344,
+      "createdDate": 1681783154835,
+      "modifiedDate": 1681783154835
+    },
+    "Extras/Templates/其他/微信读书同步模板.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 63,
+      "pageCount": 0.21,
+      "characterCount": 1840,
+      "nonWhitespaceCharacterCount": 1627,
+      "createdDate": 1681783154835,
+      "modifiedDate": 1681783154835
+    },
+    "Extras/Templates/其他/工作流模板.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 18,
+      "pageCount": 0.06,
+      "characterCount": 36,
+      "nonWhitespaceCharacterCount": 26,
+      "createdDate": 1681783154835,
+      "modifiedDate": 1681783154835
+    },
+    "Extras/Templates/其他/tp_学习测试.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 12,
+      "pageCount": 0.04,
+      "characterCount": 1027,
+      "nonWhitespaceCharacterCount": 877,
+      "createdDate": 1681783154835,
+      "modifiedDate": 1681783154835
+    },
+    "Extras/Templates/其他/mermaid模板/mermaid模板.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 157,
+      "pageCount": 0.5233333333333333,
+      "characterCount": 2152,
+      "nonWhitespaceCharacterCount": 1537,
+      "createdDate": 1681783154834,
+      "modifiedDate": 1681783154835
+    },
+    "Extras/Templates/其他/mermaid模板/mermaid stateDiagram 模板.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 1,
+      "pageCount": 0.0033333333333333335,
+      "characterCount": 156,
+      "nonWhitespaceCharacterCount": 109,
+      "createdDate": 1681783154834,
+      "modifiedDate": 1681783154834
+    },
+    "Extras/Templates/其他/mermaid模板/mermaid sequenceDiagram 模板.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 304,
+      "nonWhitespaceCharacterCount": 216,
+      "createdDate": 1681783154834,
+      "modifiedDate": 1681783154834
+    },
+    "Extras/Templates/其他/mermaid模板/mermaid pie 模板.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 7,
+      "pageCount": 0.023333333333333334,
+      "characterCount": 148,
+      "nonWhitespaceCharacterCount": 105,
+      "createdDate": 1681783154834,
+      "modifiedDate": 1681783154834
+    },
+    "Extras/Templates/其他/mermaid模板/mermaid journal 模板.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 5,
+      "pageCount": 0.016666666666666666,
+      "characterCount": 220,
+      "nonWhitespaceCharacterCount": 142,
+      "createdDate": 1681783154834,
+      "modifiedDate": 1681783154834
+    },
+    "Extras/Templates/其他/mermaid模板/mermaid graph 模板.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 77,
+      "nonWhitespaceCharacterCount": 45,
+      "createdDate": 1681783154834,
+      "modifiedDate": 1681783154834
+    },
+    "Extras/Templates/其他/mermaid模板/mermaid gantt 模板.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 22,
+      "pageCount": 0.07333333333333333,
+      "characterCount": 391,
+      "nonWhitespaceCharacterCount": 255,
+      "createdDate": 1681783154833,
+      "modifiedDate": 1681783154834
+    },
+    "Extras/Templates/其他/mermaid模板/mermaid flow chart 模板.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 9,
+      "pageCount": 0.03,
+      "characterCount": 172,
+      "nonWhitespaceCharacterCount": 130,
+      "createdDate": 1681783154833,
+      "modifiedDate": 1681783154833
+    },
+    "Extras/Templates/其他/mermaid模板/mermaid class diagram 模板.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 20,
+      "pageCount": 0.06666666666666667,
+      "characterCount": 358,
+      "nonWhitespaceCharacterCount": 277,
+      "createdDate": 1681783154833,
+      "modifiedDate": 1681783154833
+    },
+    "Extras/Templates/其他/dict/dict.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 128,
+      "pageCount": 0.4266666666666667,
+      "characterCount": 906,
+      "nonWhitespaceCharacterCount": 772,
+      "createdDate": 1681783154833,
+      "modifiedDate": 1681783154833
+    },
+    "Extras/Templates/其他/dict/chatgpt_prompts_dict.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 76,
+      "pageCount": 0.25333333333333335,
+      "characterCount": 132,
+      "nonWhitespaceCharacterCount": 120,
+      "createdDate": 1681783154833,
+      "modifiedDate": 1681783154833
+    },
+    "Extras/Templates/其他/anki卡片模板.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 36,
+      "pageCount": 0.12,
+      "characterCount": 163,
+      "nonWhitespaceCharacterCount": 134,
+      "createdDate": 1681783154833,
+      "modifiedDate": 1681783154833
+    },
+    "Extras/Templates/∑ 模板文件创建入口.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 154,
+      "pageCount": 0.5133333333333333,
+      "characterCount": 442,
+      "nonWhitespaceCharacterCount": 367,
+      "createdDate": 1681783154832,
+      "modifiedDate": 1681783154832
+    },
+    "Extras/Templates/textgenerator模板/prompts/自建/AI - 翻译英文段落.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 25,
+      "pageCount": 0.08333333333333333,
+      "characterCount": 179,
+      "nonWhitespaceCharacterCount": 149,
+      "createdDate": 1681783154832,
+      "modifiedDate": 1681783154832
+    },
+    "Extras/Templates/textgenerator模板/prompts/自建/AI - 头脑风暴.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 35,
+      "pageCount": 0.11666666666666667,
+      "characterCount": 185,
+      "nonWhitespaceCharacterCount": 158,
+      "createdDate": 1681783154832,
+      "modifiedDate": 1681783154832
+    },
+    "Extras/Templates/textgenerator模板/prompts/huggingface/summarizeBART.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 8,
+      "pageCount": 0.02666666666666667,
+      "characterCount": 751,
+      "nonWhitespaceCharacterCount": 645,
+      "createdDate": 1681783154831,
+      "modifiedDate": 1681783154832
+    },
+    "Extras/Templates/textgenerator模板/prompts/huggingface/completeTextBloom.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 4,
+      "pageCount": 0.013333333333333334,
+      "characterCount": 521,
+      "nonWhitespaceCharacterCount": 454,
+      "createdDate": 1681783154831,
+      "modifiedDate": 1681783154831
+    },
+    "Extras/Templates/textgenerator模板/prompts/huggingface/classify-bart-large-mnli.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 4,
+      "pageCount": 0.013333333333333334,
+      "characterCount": 594,
+      "nonWhitespaceCharacterCount": 526,
+      "createdDate": 1681783154831,
+      "modifiedDate": 1681783154831
+    },
+    "Extras/Templates/textgenerator模板/prompts/default/summarize.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 3,
+      "pageCount": 0.01,
+      "characterCount": 246,
+      "nonWhitespaceCharacterCount": 205,
+      "createdDate": 1681783154831,
+      "modifiedDate": 1681783154831
+    },
+    "Extras/Templates/textgenerator模板/prompts/default/simplify.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 3,
+      "pageCount": 0.01,
+      "characterCount": 259,
+      "nonWhitespaceCharacterCount": 216,
+      "createdDate": 1681783154830,
+      "modifiedDate": 1681783154831
+    },
+    "Extras/Templates/textgenerator模板/prompts/default/rewrite.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 3,
+      "pageCount": 0.01,
+      "characterCount": 254,
+      "nonWhitespaceCharacterCount": 211,
+      "createdDate": 1681783154830,
+      "modifiedDate": 1681783154830
+    },
+    "Extras/Templates/textgenerator模板/prompts/default/getTitles.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 4,
+      "pageCount": 0.013333333333333334,
+      "characterCount": 277,
+      "nonWhitespaceCharacterCount": 230,
+      "createdDate": 1681783154830,
+      "modifiedDate": 1681783154830
+    },
+    "Extras/Templates/textgenerator模板/prompts/default/getTags.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 4,
+      "pageCount": 0.013333333333333334,
+      "characterCount": 307,
+      "nonWhitespaceCharacterCount": 256,
+      "createdDate": 1681783154830,
+      "modifiedDate": 1681783154830
+    },
+    "Extras/Templates/textgenerator模板/prompts/default/getParagraph.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 3,
+      "pageCount": 0.01,
+      "characterCount": 269,
+      "nonWhitespaceCharacterCount": 228,
+      "createdDate": 1681783154830,
+      "modifiedDate": 1681783154830
+    },
+    "Extras/Templates/textgenerator模板/prompts/default/getOutline.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 3,
+      "pageCount": 0.01,
+      "characterCount": 292,
+      "nonWhitespaceCharacterCount": 244,
+      "createdDate": 1681783154830,
+      "modifiedDate": 1681783154830
+    },
+    "Extras/Templates/textgenerator模板/prompts/default/getIdeas.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 3,
+      "pageCount": 0.01,
+      "characterCount": 239,
+      "nonWhitespaceCharacterCount": 203,
+      "createdDate": 1681783154830,
+      "modifiedDate": 1681783154830
+    },
+    "Extras/Templates/textgenerator模板/prompts/default/getEmailPos.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 3,
+      "pageCount": 0.01,
+      "characterCount": 305,
+      "nonWhitespaceCharacterCount": 254,
+      "createdDate": 1681783154830,
+      "modifiedDate": 1681783154830
+    },
+    "Extras/Templates/textgenerator模板/prompts/default/getEmailNeg.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 3,
+      "pageCount": 0.01,
+      "characterCount": 311,
+      "nonWhitespaceCharacterCount": 260,
+      "createdDate": 1681783154829,
+      "modifiedDate": 1681783154830
+    },
+    "Extras/Templates/textgenerator模板/prompts/dalle-2/sitNature.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 9,
+      "pageCount": 0.03,
+      "characterCount": 678,
+      "nonWhitespaceCharacterCount": 585,
+      "createdDate": 1681783154829,
+      "modifiedDate": 1681783154829
+    },
+    "Extras/Templates/textgenerator模板/prompts/dalle-2/quaTiltShift.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 10,
+      "pageCount": 0.03333333333333333,
+      "characterCount": 516,
+      "nonWhitespaceCharacterCount": 445,
+      "createdDate": 1681783154829,
+      "modifiedDate": 1681783154829
+    },
+    "Extras/Templates/textgenerator模板/prompts/dalle-2/quaMacro.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 10,
+      "pageCount": 0.03333333333333333,
+      "characterCount": 485,
+      "nonWhitespaceCharacterCount": 415,
+      "createdDate": 1681783154829,
+      "modifiedDate": 1681783154829
+    },
+    "Extras/Templates/textgenerator模板/prompts/dalle-2/quaCinematic.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 9,
+      "pageCount": 0.03,
+      "characterCount": 610,
+      "nonWhitespaceCharacterCount": 524,
+      "createdDate": 1681783154829,
+      "modifiedDate": 1681783154829
+    },
+    "Extras/Templates/textgenerator模板/prompts/dalle-2/quaBokeh.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 9,
+      "pageCount": 0.03,
+      "characterCount": 599,
+      "nonWhitespaceCharacterCount": 507,
+      "createdDate": 1681783154828,
+      "modifiedDate": 1681783154828
+    },
+    "Extras/Templates/textgenerator模板/prompts/dalle-2/qua85mm.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 12,
+      "pageCount": 0.04,
+      "characterCount": 496,
+      "nonWhitespaceCharacterCount": 424,
+      "createdDate": 1681783154828,
+      "modifiedDate": 1681783154828
+    },
+    "Extras/Templates/textgenerator模板/prompts/dalle-2/qua4K.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 16,
+      "pageCount": 0.05333333333333334,
+      "characterCount": 566,
+      "nonWhitespaceCharacterCount": 485,
+      "createdDate": 1681783154828,
+      "modifiedDate": 1681783154828
+    },
+    "Extras/Templates/textgenerator模板/prompts/dalle-2/qua35mm.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 12,
+      "pageCount": 0.04,
+      "characterCount": 487,
+      "nonWhitespaceCharacterCount": 420,
+      "createdDate": 1681783154828,
+      "modifiedDate": 1681783154828
+    },
+    "Extras/Templates/textgenerator模板/prompts/dalle-2/qua200mm.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 12,
+      "pageCount": 0.04,
+      "characterCount": 612,
+      "nonWhitespaceCharacterCount": 521,
+      "createdDate": 1681783154828,
+      "modifiedDate": 1681783154828
+    },
+    "Extras/Templates/textgenerator模板/prompts/dalle-2/qua15mm.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 12,
+      "pageCount": 0.04,
+      "characterCount": 501,
+      "nonWhitespaceCharacterCount": 432,
+      "createdDate": 1681783154828,
+      "modifiedDate": 1681783154828
+    },
+    "Extras/Templates/textgenerator模板/prompts/dalle-2/modPhotorealistic.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 9,
+      "pageCount": 0.03,
+      "characterCount": 720,
+      "nonWhitespaceCharacterCount": 606,
+      "createdDate": 1681783154827,
+      "modifiedDate": 1681783154827
+    },
+    "Extras/Templates/textgenerator模板/prompts/dalle-2/modFanart.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 9,
+      "pageCount": 0.03,
+      "characterCount": 525,
+      "nonWhitespaceCharacterCount": 448,
+      "createdDate": 1681783154827,
+      "modifiedDate": 1681783154827
+    },
+    "Extras/Templates/textgenerator模板/prompts/dalle-2/modDetailed.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 9,
+      "pageCount": 0.03,
+      "characterCount": 578,
+      "nonWhitespaceCharacterCount": 493,
+      "createdDate": 1681783154827,
+      "modifiedDate": 1681783154827
+    },
+    "Extras/Templates/textgenerator模板/prompts/dalle-2/modAwardWinning.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 9,
+      "pageCount": 0.03,
+      "characterCount": 647,
+      "nonWhitespaceCharacterCount": 558,
+      "createdDate": 1681783154827,
+      "modifiedDate": 1681783154827
+    },
+    "Extras/Templates/textgenerator模板/prompts/dalle-2/modArtStation.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 9,
+      "pageCount": 0.03,
+      "characterCount": 798,
+      "nonWhitespaceCharacterCount": 684,
+      "createdDate": 1681783154827,
+      "modifiedDate": 1681783154827
+    },
+    "Extras/Templates/textgenerator模板/prompts/dalle-2/ligStudio.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 9,
+      "pageCount": 0.03,
+      "characterCount": 549,
+      "nonWhitespaceCharacterCount": 476,
+      "createdDate": 1681783154827,
+      "modifiedDate": 1681783154827
+    },
+    "Extras/Templates/textgenerator模板/prompts/dalle-2/ligGoldenHour.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 9,
+      "pageCount": 0.03,
+      "characterCount": 582,
+      "nonWhitespaceCharacterCount": 500,
+      "createdDate": 1681783154826,
+      "modifiedDate": 1681783154826
+    },
+    "Extras/Templates/textgenerator模板/prompts/dalle-2/ligFlare.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 9,
+      "pageCount": 0.03,
+      "characterCount": 555,
+      "nonWhitespaceCharacterCount": 474,
+      "createdDate": 1681783154826,
+      "modifiedDate": 1681783154826
+    },
+    "Extras/Templates/textgenerator模板/prompts/dalle-2/ligCinematic.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 9,
+      "pageCount": 0.03,
+      "characterCount": 562,
+      "nonWhitespaceCharacterCount": 483,
+      "createdDate": 1681783154826,
+      "modifiedDate": 1681783154826
+    },
+    "Extras/Templates/textgenerator模板/prompts/dalle-2/ligAmbient.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 10,
+      "pageCount": 0.03333333333333333,
+      "characterCount": 520,
+      "nonWhitespaceCharacterCount": 448,
+      "createdDate": 1681783154826,
+      "modifiedDate": 1681783154826
+    },
+    "Extras/Templates/textgenerator模板/prompts/dalle-2/getPhoto.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 10,
+      "pageCount": 0.03333333333333333,
+      "characterCount": 445,
+      "nonWhitespaceCharacterCount": 379,
+      "createdDate": 1681783154825,
+      "modifiedDate": 1681783154826
+    },
+    "Extras/Templates/textgenerator模板/prompts/dalle-2/artWatercolor.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 10,
+      "pageCount": 0.03333333333333333,
+      "characterCount": 518,
+      "nonWhitespaceCharacterCount": 444,
+      "createdDate": 1681783154825,
+      "modifiedDate": 1681783154825
+    },
+    "Extras/Templates/textgenerator模板/prompts/dalle-2/artWarhol.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 10,
+      "pageCount": 0.03333333333333333,
+      "characterCount": 500,
+      "nonWhitespaceCharacterCount": 426,
+      "createdDate": 1681783154825,
+      "modifiedDate": 1681783154825
+    },
+    "Extras/Templates/textgenerator模板/prompts/dalle-2/artVaporwave.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 10,
+      "pageCount": 0.03333333333333333,
+      "characterCount": 518,
+      "nonWhitespaceCharacterCount": 443,
+      "createdDate": 1681783154825,
+      "modifiedDate": 1681783154825
+    },
+    "Extras/Templates/textgenerator模板/prompts/dalle-2/artVanGogh.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 10,
+      "pageCount": 0.03333333333333333,
+      "characterCount": 506,
+      "nonWhitespaceCharacterCount": 430,
+      "createdDate": 1681783154825,
+      "modifiedDate": 1681783154825
+    },
+    "Extras/Templates/textgenerator模板/prompts/dalle-2/artUkiyoe.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 10,
+      "pageCount": 0.03333333333333333,
+      "characterCount": 509,
+      "nonWhitespaceCharacterCount": 434,
+      "createdDate": 1681783154825,
+      "modifiedDate": 1681783154825
+    },
+    "Extras/Templates/textgenerator模板/prompts/dalle-2/artTimBurton.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 10,
+      "pageCount": 0.03333333333333333,
+      "characterCount": 513,
+      "nonWhitespaceCharacterCount": 438,
+      "createdDate": 1681783154824,
+      "modifiedDate": 1681783154824
+    },
+    "Extras/Templates/textgenerator模板/prompts/dalle-2/artTakashiMurakami.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 10,
+      "pageCount": 0.03333333333333333,
+      "characterCount": 541,
+      "nonWhitespaceCharacterCount": 462,
+      "createdDate": 1681783154824,
+      "modifiedDate": 1681783154824
+    },
+    "Extras/Templates/textgenerator模板/prompts/dalle-2/artSynthwave.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 10,
+      "pageCount": 0.03333333333333333,
+      "characterCount": 518,
+      "nonWhitespaceCharacterCount": 443,
+      "createdDate": 1681783154824,
+      "modifiedDate": 1681783154824
+    },
+    "Extras/Templates/textgenerator模板/prompts/dalle-2/artStock.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 10,
+      "pageCount": 0.03333333333333333,
+      "characterCount": 502,
+      "nonWhitespaceCharacterCount": 427,
+      "createdDate": 1681783154824,
+      "modifiedDate": 1681783154824
+    },
+    "Extras/Templates/textgenerator模板/prompts/dalle-2/artSteampunk.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 10,
+      "pageCount": 0.03333333333333333,
+      "characterCount": 519,
+      "nonWhitespaceCharacterCount": 443,
+      "createdDate": 1681783154823,
+      "modifiedDate": 1681783154823
+    },
+    "Extras/Templates/textgenerator模板/prompts/dalle-2/artSprayPainted.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 10,
+      "pageCount": 0.03333333333333333,
+      "characterCount": 533,
+      "nonWhitespaceCharacterCount": 458,
+      "createdDate": 1681783154823,
+      "modifiedDate": 1681783154823
+    },
+    "Extras/Templates/textgenerator模板/prompts/dalle-2/artSalvadorDali.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 10,
+      "pageCount": 0.03333333333333333,
+      "characterCount": 516,
+      "nonWhitespaceCharacterCount": 441,
+      "createdDate": 1681783154823,
+      "modifiedDate": 1681783154823
+    },
+    "Extras/Templates/textgenerator模板/prompts/dalle-2/artPsychedelic.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 10,
+      "pageCount": 0.03333333333333333,
+      "characterCount": 526,
+      "nonWhitespaceCharacterCount": 451,
+      "createdDate": 1681783154822,
+      "modifiedDate": 1681783154823
+    },
+    "Extras/Templates/textgenerator模板/prompts/dalle-2/artPixel.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 10,
+      "pageCount": 0.03333333333333333,
+      "characterCount": 501,
+      "nonWhitespaceCharacterCount": 427,
+      "createdDate": 1681783154822,
+      "modifiedDate": 1681783154822
+    },
+    "Extras/Templates/textgenerator模板/prompts/dalle-2/artPencilSketch.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 10,
+      "pageCount": 0.03333333333333333,
+      "characterCount": 535,
+      "nonWhitespaceCharacterCount": 460,
+      "createdDate": 1681783154822,
+      "modifiedDate": 1681783154822
+    },
+    "Extras/Templates/textgenerator模板/prompts/dalle-2/artNormanRockwell.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 10,
+      "pageCount": 0.03333333333333333,
+      "characterCount": 523,
+      "nonWhitespaceCharacterCount": 449,
+      "createdDate": 1681783154821,
+      "modifiedDate": 1681783154822
+    },
+    "Extras/Templates/textgenerator模板/prompts/dalle-2/artModern.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 10,
+      "pageCount": 0.03333333333333333,
+      "characterCount": 506,
+      "nonWhitespaceCharacterCount": 431,
+      "createdDate": 1681783154821,
+      "modifiedDate": 1681783154821
+    },
+    "Extras/Templates/textgenerator模板/prompts/dalle-2/artLowPoly.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 10,
+      "pageCount": 0.03333333333333333,
+      "characterCount": 513,
+      "nonWhitespaceCharacterCount": 435,
+      "createdDate": 1681783154821,
+      "modifiedDate": 1681783154821
+    },
+    "Extras/Templates/textgenerator模板/prompts/dalle-2/artLine.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 10,
+      "pageCount": 0.03333333333333333,
+      "characterCount": 499,
+      "nonWhitespaceCharacterCount": 423,
+      "createdDate": 1681783154821,
+      "modifiedDate": 1681783154821
+    },
+    "Extras/Templates/textgenerator模板/prompts/dalle-2/artGraffiti.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 10,
+      "pageCount": 0.03333333333333333,
+      "characterCount": 505,
+      "nonWhitespaceCharacterCount": 433,
+      "createdDate": 1681783154821,
+      "modifiedDate": 1681783154821
+    },
+    "Extras/Templates/textgenerator模板/prompts/dalle-2/artDeco.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 10,
+      "pageCount": 0.03333333333333333,
+      "characterCount": 498,
+      "nonWhitespaceCharacterCount": 423,
+      "createdDate": 1681783154820,
+      "modifiedDate": 1681783154820
+    },
+    "Extras/Templates/textgenerator模板/prompts/dalle-2/artGlitchcore.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 10,
+      "pageCount": 0.03333333333333333,
+      "characterCount": 522,
+      "nonWhitespaceCharacterCount": 447,
+      "createdDate": 1681783154820,
+      "modifiedDate": 1681783154820
+    },
+    "Extras/Templates/textgenerator模板/prompts/dalle-2/artDigital.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 10,
+      "pageCount": 0.03333333333333333,
+      "characterCount": 511,
+      "nonWhitespaceCharacterCount": 435,
+      "createdDate": 1681783154820,
+      "modifiedDate": 1681783154820
+    },
+    "Extras/Templates/textgenerator模板/prompts/dalle-2/artCyberpunk.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 10,
+      "pageCount": 0.03333333333333333,
+      "characterCount": 518,
+      "nonWhitespaceCharacterCount": 443,
+      "createdDate": 1681783154819,
+      "modifiedDate": 1681783154820
+    },
+    "Extras/Templates/textgenerator模板/prompts/dalle-2/artColoringBook.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 10,
+      "pageCount": 0.03333333333333333,
+      "characterCount": 521,
+      "nonWhitespaceCharacterCount": 446,
+      "createdDate": 1681783154819,
+      "modifiedDate": 1681783154819
+    },
+    "Extras/Templates/textgenerator模板/prompts/dalle-2/artClaymation.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 10,
+      "pageCount": 0.03333333333333333,
+      "characterCount": 530,
+      "nonWhitespaceCharacterCount": 455,
+      "createdDate": 1681783154819,
+      "modifiedDate": 1681783154819
+    },
+    "Extras/Templates/textgenerator模板/prompts/dalle-2/artChildrenDrawing.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 10,
+      "pageCount": 0.03333333333333333,
+      "characterCount": 537,
+      "nonWhitespaceCharacterCount": 461,
+      "createdDate": 1681783154819,
+      "modifiedDate": 1681783154819
+    },
+    "Extras/Templates/textgenerator模板/prompts/dalle-2/artCartoon.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 10,
+      "pageCount": 0.03333333333333333,
+      "characterCount": 509,
+      "nonWhitespaceCharacterCount": 435,
+      "createdDate": 1681783154818,
+      "modifiedDate": 1681783154819
+    },
+    "Extras/Templates/textgenerator模板/prompts/dalle-2/artBauhaus.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 10,
+      "pageCount": 0.03333333333333333,
+      "characterCount": 510,
+      "nonWhitespaceCharacterCount": 435,
+      "createdDate": 1681783154818,
+      "modifiedDate": 1681783154818
+    },
+    "Extras/Templates/textgenerator模板/prompts/dalle-2/artBanksy.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 10,
+      "pageCount": 0.03333333333333333,
+      "characterCount": 515,
+      "nonWhitespaceCharacterCount": 439,
+      "createdDate": 1681783154818,
+      "modifiedDate": 1681783154818
+    },
+    "Extras/Templates/textgenerator模板/prompts/dalle-2/artBallPointPen.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 10,
+      "pageCount": 0.03333333333333333,
+      "characterCount": 527,
+      "nonWhitespaceCharacterCount": 452,
+      "createdDate": 1681783154818,
+      "modifiedDate": 1681783154818
+    },
+    "Extras/Templates/textgenerator模板/prompts/dalle-2/artAnime.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 10,
+      "pageCount": 0.03333333333333333,
+      "characterCount": 490,
+      "nonWhitespaceCharacterCount": 418,
+      "createdDate": 1681783154818,
+      "modifiedDate": 1681783154818
+    },
+    "Extras/Templates/textgenerator模板/prompts/dalle-2/art3D.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 14,
+      "pageCount": 0.04666666666666667,
+      "characterCount": 491,
+      "nonWhitespaceCharacterCount": 415,
+      "createdDate": 1681783154817,
+      "modifiedDate": 1681783154818
+    },
+    "Extras/Templates/Spaces模板/Resource创建模板.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1681783154817,
+      "modifiedDate": 1681783154817
+    },
+    "Extras/Templates/Spaces模板/Project创建模板.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1681783154817,
+      "modifiedDate": 1681783154817
+    },
+    "Extras/Templates/Spaces模板/Area创建模板.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1681783154817,
+      "modifiedDate": 1681783154817
+    },
+    "Extras/Templates/Spaces模板/Archive创建模板.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1681783154817,
+      "modifiedDate": 1681783154817
+    },
+    "Extras/Templates/Sources模板/课程笔记模板.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1681783154817,
+      "modifiedDate": 1681783154817
+    },
+    "Extras/Templates/Sources模板/读书笔记模板.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 43,
+      "pageCount": 0.14333333333333334,
+      "characterCount": 68,
+      "nonWhitespaceCharacterCount": 51,
+      "createdDate": 1681783154816,
+      "modifiedDate": 1681783154817
+    },
+    "Extras/Templates/Sources模板/论文笔记模板.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1681783154816,
+      "modifiedDate": 1681783154816
+    },
+    "Extras/Templates/Sources模板/视频笔记模板.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 50,
+      "pageCount": 0.16666666666666666,
+      "characterCount": 84,
+      "nonWhitespaceCharacterCount": 68,
+      "createdDate": 1681783154816,
+      "modifiedDate": 1681783154816
+    },
+    "Extras/Templates/Sources模板/电视剧笔记模板.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 42,
+      "pageCount": 0.14,
+      "characterCount": 77,
+      "nonWhitespaceCharacterCount": 62,
+      "createdDate": 1681783154815,
+      "modifiedDate": 1681783154816
+    },
+    "Extras/Templates/Sources模板/电影笔记模板.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 17,
+      "pageCount": 0.056666666666666664,
+      "characterCount": 46,
+      "nonWhitespaceCharacterCount": 31,
+      "createdDate": 1681783154815,
+      "modifiedDate": 1681783154815
+    },
+    "Extras/Templates/Sources模板/文章笔记模板.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1681783154815,
+      "modifiedDate": 1681783154815
+    },
+    "Extras/Templates/Sources模板/播客笔记模板.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1681783154815,
+      "modifiedDate": 1681783154815
+    },
+    "Extras/Templates/Cards模板/Sources&Spaces卡片_标准模板.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 49,
+      "pageCount": 0.16333333333333333,
+      "characterCount": 148,
+      "nonWhitespaceCharacterCount": 129,
+      "createdDate": 1681783154813,
+      "modifiedDate": 1681783154813
+    },
+    "Extras/Templates/Cards模板/Card卡片_标准模板.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 9,
+      "pageCount": 0.03,
+      "characterCount": 112,
+      "nonWhitespaceCharacterCount": 87,
+      "createdDate": 1681783154813,
+      "modifiedDate": 1683613764118
+    },
+    "Extras/Templates/Calendar模板/文章发布模板/文章草稿-模板.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1681783154812,
+      "modifiedDate": 1681783154812
+    },
+    "Extras/Templates/Calendar模板/文章发布模板/发文章-前言模板.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 19,
+      "pageCount": 0.06333333333333334,
+      "characterCount": 22,
+      "nonWhitespaceCharacterCount": 22,
+      "createdDate": 1681783154812,
+      "modifiedDate": 1681783154812
+    },
+    "Extras/Templates/Calendar模板/文章发布模板/发文章-写在最后模板.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 55,
+      "pageCount": 0.18333333333333332,
+      "characterCount": 196,
+      "nonWhitespaceCharacterCount": 186,
+      "createdDate": 1681783154811,
+      "modifiedDate": 1681783154811
+    },
+    "Extras/Templates/Calendar模板/回顾总结模板/月度模板.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 34,
+      "pageCount": 0.11333333333333333,
+      "characterCount": 48,
+      "nonWhitespaceCharacterCount": 40,
+      "createdDate": 1681783154811,
+      "modifiedDate": 1681783154811
+    },
+    "Extras/Templates/Calendar模板/回顾总结模板/周记模板.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 34,
+      "pageCount": 0.11333333333333333,
+      "characterCount": 48,
+      "nonWhitespaceCharacterCount": 40,
+      "createdDate": 1681783154811,
+      "modifiedDate": 1681783154811
+    },
+    "Extras/Templates/Calendar模板/会议相关模板/会议纪要模板.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 54,
+      "pageCount": 0.18,
+      "characterCount": 101,
+      "nonWhitespaceCharacterCount": 77,
+      "createdDate": 1681783154811,
+      "modifiedDate": 1681783154811
+    },
+    "Extras/Templates/Calendar模板/Weekly Notes.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 9,
+      "pageCount": 0.03,
+      "characterCount": 682,
+      "nonWhitespaceCharacterCount": 570,
+      "createdDate": 1683615041015,
+      "modifiedDate": 1683616220814
+    },
+    "Extras/Templates/Calendar模板/Daily notes模板.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 8,
+      "pageCount": 0.02666666666666667,
+      "characterCount": 69,
+      "nonWhitespaceCharacterCount": 54,
+      "createdDate": 1681783154810,
+      "modifiedDate": 1682040998375
+    },
+    "Extras/Templates/Atlas模板/TOC模板.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1681783154810,
+      "modifiedDate": 1681783154810
+    },
+    "Extras/Templates/Atlas模板/MOC模板.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1681783154810,
+      "modifiedDate": 1681783154810
+    },
+    "Extras/About Extras.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 27,
+      "pageCount": 0.09,
+      "characterCount": 409,
+      "nonWhitespaceCharacterCount": 338,
+      "createdDate": 1681783151882,
+      "modifiedDate": 1681783151882
+    },
+    "Cards/费曼学习法.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 176,
+      "pageCount": 0.5866666666666667,
+      "characterCount": 367,
+      "nonWhitespaceCharacterCount": 328,
+      "createdDate": 1683194288419,
+      "modifiedDate": 1683251165814
+    },
+    "Cards/计算机网络.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1682589342229,
+      "modifiedDate": 1682589342229
+    },
+    "Cards/解决问题最佳实践.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 72,
+      "pageCount": 0.24,
+      "characterCount": 241,
+      "nonWhitespaceCharacterCount": 205,
+      "createdDate": 1682660346098,
+      "modifiedDate": 1682675111683
+    },
+    "Cards/最佳实践.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1682675114666,
+      "modifiedDate": 1682675114666
+    },
+    "Cards/巴菲特公式：睡觉比起床时更聪明.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 353,
+      "pageCount": 1.1766666666666667,
+      "characterCount": 696,
+      "nonWhitespaceCharacterCount": 623,
+      "createdDate": 1683186313033,
+      "modifiedDate": 1683192579201
+    },
+    "Cards/如何在移动端禁用、反禁用复制功能.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 218,
+      "pageCount": 0.7266666666666667,
+      "characterCount": 481,
+      "nonWhitespaceCharacterCount": 435,
+      "createdDate": 1682589259695,
+      "modifiedDate": 1682589709382
+    },
+    "Cards/卡片笔记实践.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 115,
+      "pageCount": 0.38333333333333336,
+      "characterCount": 422,
+      "nonWhitespaceCharacterCount": 388,
+      "createdDate": 1683612326515,
+      "modifiedDate": 1683612425259
+    },
+    "Cards/前端技术.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1682589334763,
+      "modifiedDate": 1682589334763
+    },
+    "Cards/关于公司内网的组织结构.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 112,
+      "pageCount": 0.37333333333333335,
+      "characterCount": 242,
+      "nonWhitespaceCharacterCount": 217,
+      "createdDate": 1681896881877,
+      "modifiedDate": 1681897167169
+    },
+    "Cards/使用 WeakMap 来做更灵活的内存清理.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 75,
+      "pageCount": 0.25,
+      "characterCount": 387,
+      "nonWhitespaceCharacterCount": 332,
+      "createdDate": 1683539190257,
+      "modifiedDate": 1683539323208
+    },
+    "Cards/SOP.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 177,
+      "pageCount": 0.59,
+      "characterCount": 445,
+      "nonWhitespaceCharacterCount": 415,
+      "createdDate": 1681979868095,
+      "modifiedDate": 1681980364505
+    },
+    "Cards/Farnam Street Bolg.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1683186535355,
+      "modifiedDate": 1683186535355
+    },
+    "Cards/About Cards.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 261,
+      "pageCount": 0.87,
+      "characterCount": 1479,
+      "nonWhitespaceCharacterCount": 1269,
+      "createdDate": 1681783151766,
+      "modifiedDate": 1681783151766
+    },
+    "Calendar/Weekly Notes/未命名.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 18,
+      "pageCount": 0.06,
+      "characterCount": 772,
+      "nonWhitespaceCharacterCount": 648,
+      "createdDate": 1683616229185,
+      "modifiedDate": 1683616507331
+    },
+    "Calendar/Plan & Review/本月计划.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 72,
+      "pageCount": 0.24,
+      "characterCount": 199,
+      "nonWhitespaceCharacterCount": 147,
+      "createdDate": 1683613290392,
+      "modifiedDate": 1683614033199
+    },
+    "Calendar/Daily notes/2023-05-09.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 237,
+      "pageCount": 0.79,
+      "characterCount": 696,
+      "nonWhitespaceCharacterCount": 618,
+      "createdDate": 1683598583165,
+      "modifiedDate": 1683616370319
+    },
+    "Calendar/Daily notes/2023-05-08.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 114,
+      "pageCount": 0.38,
+      "characterCount": 395,
+      "nonWhitespaceCharacterCount": 340,
+      "createdDate": 1683512434176,
+      "modifiedDate": 1683612585605
+    },
+    "Calendar/Daily notes/2023-05-05.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 24,
+      "pageCount": 0.08,
+      "characterCount": 104,
+      "nonWhitespaceCharacterCount": 80,
+      "createdDate": 1683274984625,
+      "modifiedDate": 1683275041040
+    },
+    "Calendar/Daily notes/2023-05-04.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 26,
+      "pageCount": 0.08666666666666667,
+      "characterCount": 121,
+      "nonWhitespaceCharacterCount": 93,
+      "createdDate": 1683185318570,
+      "modifiedDate": 1683185359176
+    },
+    "Calendar/Daily notes/2023-04-28.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 8,
+      "pageCount": 0.02666666666666667,
+      "characterCount": 69,
+      "nonWhitespaceCharacterCount": 54,
+      "createdDate": 1682675843055,
+      "modifiedDate": 1682675843057
+    },
+    "Calendar/Daily notes/2023-04-27.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 345,
+      "pageCount": 1.15,
+      "characterCount": 852,
+      "nonWhitespaceCharacterCount": 811,
+      "createdDate": 1682573858995,
+      "modifiedDate": 1682577981815
+    },
+    "Calendar/Daily notes/2023-04-26.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 37,
+      "pageCount": 0.12333333333333334,
+      "characterCount": 150,
+      "nonWhitespaceCharacterCount": 124,
+      "createdDate": 1682473374884,
+      "modifiedDate": 1682573858238
+    },
+    "Calendar/Daily notes/2023-04-25.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 194,
+      "pageCount": 0.6466666666666666,
+      "characterCount": 629,
+      "nonWhitespaceCharacterCount": 573,
+      "createdDate": 1682386844657,
+      "modifiedDate": 1682417871783
+    },
+    "Calendar/Daily notes/2023-04-24.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 49,
+      "pageCount": 0.16333333333333333,
+      "characterCount": 224,
+      "nonWhitespaceCharacterCount": 202,
+      "createdDate": 1682301659924,
+      "modifiedDate": 1682301662775
+    },
+    "Calendar/Daily notes/2023-04-23.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 40,
+      "pageCount": 0.13333333333333333,
+      "characterCount": 177,
+      "nonWhitespaceCharacterCount": 137,
+      "createdDate": 1682216681803,
+      "modifiedDate": 1683275061931
+    },
+    "Calendar/Daily notes/2023-04-22.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 8,
+      "pageCount": 0.02666666666666667,
+      "characterCount": 69,
+      "nonWhitespaceCharacterCount": 54,
+      "createdDate": 1682216891523,
+      "modifiedDate": 1682216891523
+    },
+    "Calendar/Daily notes/2023-04-21.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 81,
+      "pageCount": 0.27,
+      "characterCount": 247,
+      "nonWhitespaceCharacterCount": 206,
+      "createdDate": 1682041006709,
+      "modifiedDate": 1682044353096
+    },
+    "Calendar/Daily notes/2023-04-20.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 52,
+      "pageCount": 0.17333333333333334,
+      "characterCount": 161,
+      "nonWhitespaceCharacterCount": 138,
+      "createdDate": 1681955574684,
+      "modifiedDate": 1681980448957
+    },
+    "Calendar/Daily notes/2023-04-19.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 25,
+      "pageCount": 0.08333333333333333,
+      "characterCount": 47,
+      "nonWhitespaceCharacterCount": 38,
+      "createdDate": 1681893334739,
+      "modifiedDate": 1681893401382
+    },
+    "Calendar/Daily notes/2023-04-18.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 31,
+      "pageCount": 0.10333333333333333,
+      "characterCount": 51,
+      "nonWhitespaceCharacterCount": 43,
+      "createdDate": 1681787098033,
+      "modifiedDate": 1681893331720
+    },
+    "Calendar/About Calendar.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 62,
+      "pageCount": 0.20666666666666667,
+      "characterCount": 536,
+      "nonWhitespaceCharacterCount": 441,
+      "createdDate": 1681783151726,
+      "modifiedDate": 1681783151726
+    },
+    "AboutTheGarden.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 411,
+      "pageCount": 1.37,
+      "characterCount": 1021,
+      "nonWhitespaceCharacterCount": 933,
+      "createdDate": 1681783151704,
+      "modifiedDate": 1681783151704
+    }
+  }
 }

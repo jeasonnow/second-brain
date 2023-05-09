@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calendar/Daily notes/2023-05-09.md",
+                "file": "Calendar/Weekly Notes/未命名.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -38,9 +38,12 @@
             "id": "a4d1994dfc9f1870",
             "type": "leaf",
             "state": {
-              "type": "diagram-edit",
+              "type": "markdown",
               "state": {
-                "file": "Untitled Diagram.svg"
+                "file": "Calendar/Daily notes/2023-05-09.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
               }
             }
           },
@@ -88,7 +91,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "92910ae8836a7b22",
@@ -101,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calendar/Daily notes/2023-05-09.md"
+                "file": "Calendar/Weekly Notes/未命名.md"
               }
             }
           },
@@ -111,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calendar/Daily notes/2023-05-09.md",
+                "file": "Calendar/Weekly Notes/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +127,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Calendar/Daily notes/2023-05-09.md",
+                "file": "Calendar/Weekly Notes/未命名.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -158,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calendar/Daily notes/2023-05-09.md",
+                "file": "Calendar/Weekly Notes/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +174,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -242,10 +246,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "853ef9e400d6f719",
+  "active": "73201497322beb67",
   "lastOpenFiles": [
-    "Untitled Diagram.svg",
     "Calendar/Daily notes/2023-05-09.md",
+    "Untitled Diagram.svg",
     "Calendar/Weekly Notes/未命名.md",
     "Extras/Templates/Calendar模板/Weekly Notes.md",
     "Extras/Templates/Calendar模板/回顾总结模板/月度模板.md",

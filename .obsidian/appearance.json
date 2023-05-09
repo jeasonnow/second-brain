@@ -9,7 +9,7 @@
   "theme": "system",
   "baseFontSize": 18,
   "baseFontSizeAction": true,
-  "translucency": false,
+  "translucency": true,
   "showViewHeader": true,
-  "nativeMenus": false
+  "nativeMenus": true
 }
