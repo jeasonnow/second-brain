@@ -14,3 +14,4 @@
 ### 引擎的工作流程
 ![image.png](https://raw.githubusercontent.com/jeasonnow/pics/main/202305091547035.png)
 源码 - parser -> 语法数 - interpreter -> ByteCode 且生成优化机器码。
+所有引擎都遵循这个大体结构，通过解释器解释 js 的抽象语法
