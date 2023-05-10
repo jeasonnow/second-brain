@@ -63,3 +63,5 @@ export const App_component_p_onClick_01pEgC10cpw = ()=>console.log('hello');
 通过颗粒度细致到极点的拆分，让绝大多数无需在首屏加载的 `js` 、组件被分离为了异步加载的 `chunk`，在需要他们时才进行加载，以此完全实现了极致的延迟加载、执行。
 
 ## 初始页面状态的序列化恢复和反序列化
+![image.png](https://raw.githubusercontent.com/jeasonnow/pics/main/202305101652691.png)
+相比传统 ssr 永远只会返回初始节点，但是所有的状态值仍需加载 js 后等待执行，Qwik 会通过序列化服务端执行完之后的状态
