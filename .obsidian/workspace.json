@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "哲学社科/心智模型.md",
-                "mode": "source",
+                "file": "Calendar/Plan & Review/本月计划.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -91,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "哲学社科/心智模型.md"
+                "file": "Calendar/Plan & Review/本月计划.md"
               }
             }
           },
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "哲学社科/心智模型.md",
+                "file": "Calendar/Plan & Review/本月计划.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "哲学社科/心智模型.md",
+                "file": "Calendar/Plan & Review/本月计划.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "哲学社科/心智模型.md",
+                "file": "Calendar/Plan & Review/本月计划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
