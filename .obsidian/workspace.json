@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calendar/Daily notes/2023-05-10.md",
+                "file": "Frontend/Think Qwik.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -91,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calendar/Daily notes/2023-05-10.md"
+                "file": "Frontend/Think Qwik.md"
               }
             }
           },
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calendar/Daily notes/2023-05-10.md",
+                "file": "Frontend/Think Qwik.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Calendar/Daily notes/2023-05-10.md",
+                "file": "Frontend/Think Qwik.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calendar/Daily notes/2023-05-10.md",
+                "file": "Frontend/Think Qwik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,6 +196,14 @@
               "type": "smart-connections-view",
               "state": {}
             }
+          },
+          {
+            "id": "e8381e00b9a17222",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
           }
         ],
         "currentTab": 2
@@ -209,20 +217,21 @@
     "hiddenItems": {
       "obsidian-weread-plugin:Weread": false,
       "templates:插入模板": false,
-      "periodic-notes:Open today": false,
       "daily-notes:打开/创建今天的日记": false,
       "switcher:打开快速切换": false,
       "canvas:新建白板": false,
       "graph:查看关系图谱": false,
       "command-palette:打开命令面板": false,
       "obsidian-spaced-repetition:复习卡片": false,
-      "workspaces:管理工作区布局": false
+      "workspaces:管理工作区布局": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "b745e7c25a44463a",
   "lastOpenFiles": [
-    "Calendar/Weekly Notes/2023-W19.md",
     "Calendar/Daily notes/2023-05-10.md",
+    "Frontend/Think Qwik.md",
+    "Calendar/Weekly Notes/2023-W19.md",
     "Calendar/Plan & Review/本月计划.md",
     "Sources/Books/微信读书同步/心理/认知觉醒：开启自我改变的原动力.md",
     "哲学社科/心智模型.md",
@@ -253,7 +262,6 @@
     "Extras/Templates/Cards模板/Sources&Spaces卡片_标准模板.md",
     "闪念笔记",
     "Cards/计算机网络.md",
-    "Cards/费曼学习法.md",
     "心智模型",
     "Untitled Diagram.svg",
     "Frontend",

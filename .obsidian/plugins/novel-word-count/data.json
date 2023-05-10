@@ -16,16 +16,6 @@
     "pageCountType": "ByWords"
   },
   "cachedCounts": {
-    "哲学社科/心智模型.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 387,
-      "pageCount": 1.29,
-      "characterCount": 481,
-      "nonWhitespaceCharacterCount": 456,
-      "createdDate": 1683642291112,
-      "modifiedDate": 1683643243860
-    },
     "闪念笔记/无结构的知识毫无用处.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -56,45 +46,15 @@
       "createdDate": 1683625323877,
       "modifiedDate": 1683626215356
     },
-    "Frontend/React技术原理.md": {
+    "哲学社科/心智模型.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 1050,
-      "pageCount": 3.5,
-      "characterCount": 3647,
-      "nonWhitespaceCharacterCount": 3162,
-      "createdDate": 1683336381827,
-      "modifiedDate": 1683358686453
-    },
-    "Frontend/React.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "createdDate": 1683336423531,
-      "modifiedDate": 1683336423531
-    },
-    "Frontend/HMR 原理.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 1090,
-      "pageCount": 3.6333333333333333,
-      "characterCount": 2631,
-      "nonWhitespaceCharacterCount": 2361,
-      "createdDate": 1682583111544,
-      "modifiedDate": 1682589239061
-    },
-    "Frontend/深入理解 Javascript 引擎.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 1094,
-      "pageCount": 3.6466666666666665,
-      "characterCount": 3672,
-      "nonWhitespaceCharacterCount": 2918,
-      "createdDate": 1683617764577,
-      "modifiedDate": 1683624870771
+      "wordCount": 387,
+      "pageCount": 1.29,
+      "characterCount": 481,
+      "nonWhitespaceCharacterCount": 456,
+      "createdDate": 1683642291112,
+      "modifiedDate": 1683643243860
     },
     "∑ 本库 ACCESS 的文件夹入口汇总.md": {
       "isDirectory": false,
@@ -319,12 +279,12 @@
     "Sources/Books/微信读书同步/心理/认知觉醒：开启自我改变的原动力.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 4257,
-      "pageCount": 14.19,
-      "characterCount": 8082,
-      "nonWhitespaceCharacterCount": 6946,
+      "wordCount": 5063,
+      "pageCount": 16.876666666666665,
+      "characterCount": 9417,
+      "nonWhitespaceCharacterCount": 8122,
       "createdDate": 1682573863475,
-      "modifiedDate": 1683612000893
+      "modifiedDate": 1683684162258
     },
     "Sources/Books/微信读书同步/哲学宗教/资本论（超值白金版）.md": {
       "isDirectory": false,
@@ -366,16 +326,6 @@
       "createdDate": 1681955543016,
       "modifiedDate": 1681955543017
     },
-    "Sources/Books/微信读书同步/个人成长/异类.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 453,
-      "pageCount": 1.51,
-      "characterCount": 1066,
-      "nonWhitespaceCharacterCount": 959,
-      "createdDate": 1681955544626,
-      "modifiedDate": 1681955544648
-    },
     "Sources/Books/微信读书同步/个人成长/跃迁：成为高手的技术（附赠高手秘籍和时间管理秘籍）.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -385,6 +335,16 @@
       "nonWhitespaceCharacterCount": 1008,
       "createdDate": 1681955544311,
       "modifiedDate": 1681955544312
+    },
+    "Sources/Books/微信读书同步/个人成长/异类.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 453,
+      "pageCount": 1.51,
+      "characterCount": 1066,
+      "nonWhitespaceCharacterCount": 959,
+      "createdDate": 1681955544626,
+      "modifiedDate": 1681955544648
     },
     "Sources/About Sources.md": {
       "isDirectory": false,
@@ -415,6 +375,66 @@
       "nonWhitespaceCharacterCount": 509,
       "createdDate": 1681783154837,
       "modifiedDate": 1681783154838
+    },
+    "Frontend/Think Qwik.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1683703179769,
+      "modifiedDate": 1683703179769
+    },
+    "Frontend/深入理解 Javascript 引擎.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 1094,
+      "pageCount": 3.6466666666666665,
+      "characterCount": 3672,
+      "nonWhitespaceCharacterCount": 2918,
+      "createdDate": 1683617764577,
+      "modifiedDate": 1683624870771
+    },
+    "Frontend/React技术原理.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 1050,
+      "pageCount": 3.5,
+      "characterCount": 3647,
+      "nonWhitespaceCharacterCount": 3162,
+      "createdDate": 1683336381827,
+      "modifiedDate": 1683358686453
+    },
+    "Frontend/React.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1683336423531,
+      "modifiedDate": 1683336423531
+    },
+    "Frontend/HMR 原理.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 1090,
+      "pageCount": 3.6333333333333333,
+      "characterCount": 2631,
+      "nonWhitespaceCharacterCount": 2361,
+      "createdDate": 1682583111544,
+      "modifiedDate": 1682589239061
+    },
+    "Extras/Templates/∑ 模板文件创建入口.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 154,
+      "pageCount": 0.5133333333333333,
+      "characterCount": 442,
+      "nonWhitespaceCharacterCount": 367,
+      "createdDate": 1681783154832,
+      "modifiedDate": 1681783154832
     },
     "Extras/Templates/其他/领域入门模板.md": {
       "isDirectory": false,
@@ -566,16 +586,6 @@
       "createdDate": 1681783154833,
       "modifiedDate": 1681783154834
     },
-    "Extras/Templates/其他/mermaid模板/mermaid class diagram 模板.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 20,
-      "pageCount": 0.06666666666666667,
-      "characterCount": 358,
-      "nonWhitespaceCharacterCount": 277,
-      "createdDate": 1681783154833,
-      "modifiedDate": 1681783154833
-    },
     "Extras/Templates/其他/mermaid模板/mermaid flow chart 模板.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -583,6 +593,16 @@
       "pageCount": 0.03,
       "characterCount": 172,
       "nonWhitespaceCharacterCount": 130,
+      "createdDate": 1681783154833,
+      "modifiedDate": 1681783154833
+    },
+    "Extras/Templates/其他/mermaid模板/mermaid class diagram 模板.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 20,
+      "pageCount": 0.06666666666666667,
+      "characterCount": 358,
+      "nonWhitespaceCharacterCount": 277,
       "createdDate": 1681783154833,
       "modifiedDate": 1681783154833
     },
@@ -615,16 +635,6 @@
       "nonWhitespaceCharacterCount": 134,
       "createdDate": 1681783154833,
       "modifiedDate": 1681783154833
-    },
-    "Extras/Templates/∑ 模板文件创建入口.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 154,
-      "pageCount": 0.5133333333333333,
-      "characterCount": 442,
-      "nonWhitespaceCharacterCount": 367,
-      "createdDate": 1681783154832,
-      "modifiedDate": 1681783154832
     },
     "Extras/Templates/Sources模板/课程笔记模板.md": {
       "isDirectory": false,
@@ -706,16 +716,6 @@
       "createdDate": 1681783154815,
       "modifiedDate": 1681783154815
     },
-    "Extras/Templates/Cards模板/Small Card 模板.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 4,
-      "pageCount": 0.013333333333333334,
-      "characterCount": 94,
-      "nonWhitespaceCharacterCount": 76,
-      "createdDate": 1683625181762,
-      "modifiedDate": 1683625810316
-    },
     "Extras/Templates/Cards模板/Sources&Spaces卡片_标准模板.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -725,6 +725,16 @@
       "nonWhitespaceCharacterCount": 129,
       "createdDate": 1681783154813,
       "modifiedDate": 1681783154813
+    },
+    "Extras/Templates/Cards模板/Small Card 模板.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 4,
+      "pageCount": 0.013333333333333334,
+      "characterCount": 94,
+      "nonWhitespaceCharacterCount": 76,
+      "createdDate": 1683625181762,
+      "modifiedDate": 1683625810316
     },
     "Extras/Templates/Cards模板/Card卡片_标准模板.md": {
       "isDirectory": false,
@@ -876,16 +886,6 @@
       "createdDate": 1681979868095,
       "modifiedDate": 1681980364505
     },
-    "Cards/Farnam Street Bolg.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "createdDate": 1683186535355,
-      "modifiedDate": 1683186535355
-    },
     "Cards/About Cards.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -895,6 +895,16 @@
       "nonWhitespaceCharacterCount": 1269,
       "createdDate": 1681783151766,
       "modifiedDate": 1681783151766
+    },
+    "Cards/Farnam Street Bolg.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1683186535355,
+      "modifiedDate": 1683186535355
     },
     "Calendar/Weekly Notes/2023-W19.md": {
       "isDirectory": false,
@@ -919,22 +929,22 @@
     "Calendar/Daily notes/2023-05-10.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 8,
-      "pageCount": 0.02666666666666667,
-      "characterCount": 69,
-      "nonWhitespaceCharacterCount": 54,
+      "wordCount": 183,
+      "pageCount": 0.61,
+      "characterCount": 507,
+      "nonWhitespaceCharacterCount": 426,
       "createdDate": 1683683814520,
-      "modifiedDate": 1683683814520
+      "modifiedDate": 1683701446562
     },
     "Calendar/Daily notes/2023-05-09.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 250,
-      "pageCount": 0.8333333333333334,
-      "characterCount": 923,
-      "nonWhitespaceCharacterCount": 826,
+      "wordCount": 253,
+      "pageCount": 0.8433333333333334,
+      "characterCount": 936,
+      "nonWhitespaceCharacterCount": 838,
       "createdDate": 1683598583165,
-      "modifiedDate": 1683641797139
+      "modifiedDate": 1683698282914
     },
     "Calendar/Daily notes/2023-05-08.md": {
       "isDirectory": false,
