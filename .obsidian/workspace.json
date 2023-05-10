@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calendar/Daily notes/2023-05-10.md",
+                "file": "闪念笔记/心智模型是啥.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -91,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calendar/Daily notes/2023-05-10.md"
+                "file": "闪念笔记/心智模型是啥.md"
               }
             }
           },
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calendar/Daily notes/2023-05-10.md",
+                "file": "闪念笔记/心智模型是啥.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Calendar/Daily notes/2023-05-10.md",
+                "file": "闪念笔记/心智模型是啥.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calendar/Daily notes/2023-05-10.md",
+                "file": "闪念笔记/心智模型是啥.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,12 +229,15 @@
   },
   "active": "b745e7c25a44463a",
   "lastOpenFiles": [
-    "Calendar/Weekly Notes/2023-W19.md",
-    "Calendar/Daily notes/2023-05-10.md",
+    "闪念笔记/无结构的知识毫无用处.md",
+    "闪念笔记/提升心智模型.md",
+    "闪念笔记/心智模型是啥.md",
+    "哲学社科/心智模型.md",
     "Frontend/Think Qwik.md",
+    "Calendar/Daily notes/2023-05-10.md",
+    "Calendar/Weekly Notes/2023-W19.md",
     "Calendar/Plan & Review/本月计划.md",
     "Sources/Books/微信读书同步/心理/认知觉醒：开启自我改变的原动力.md",
-    "哲学社科/心智模型.md",
     "哲学社科/未命名.canvas",
     "哲学社科/Untitled Diagram.svg",
     "Calendar/Daily notes/2023-05-09.md",
@@ -254,9 +257,6 @@
     "Extras/Templates/其他/思维思考模板/六顶思考帽模板.md",
     "闪念笔记/未命名.md",
     "哲学社科",
-    "闪念笔记/提升心智模型.md",
-    "闪念笔记/心智模型是啥.md",
-    "闪念笔记/无结构的知识毫无用处.md",
     "Extras/Templates/Cards模板/Small Card 模板.md",
     "Extras/Templates/Cards模板/Card卡片_标准模板.md",
     "Extras/Templates/Cards模板/Sources&Spaces卡片_标准模板.md",
