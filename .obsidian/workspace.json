@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calendar/Daily notes/2023-05-10.md",
-                "mode": "source",
+                "file": "Calendar/Weekly Notes/2023-W19.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -91,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calendar/Daily notes/2023-05-10.md"
+                "file": "Calendar/Weekly Notes/2023-W19.md"
               }
             }
           },
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calendar/Daily notes/2023-05-10.md",
+                "file": "Calendar/Weekly Notes/2023-W19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Calendar/Daily notes/2023-05-10.md",
+                "file": "Calendar/Weekly Notes/2023-W19.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calendar/Daily notes/2023-05-10.md",
+                "file": "Calendar/Weekly Notes/2023-W19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,10 +221,10 @@
   },
   "active": "b745e7c25a44463a",
   "lastOpenFiles": [
-    "Calendar/Weekly Notes/2023-W19.md",
-    "Sources/Books/微信读书同步/心理/认知觉醒：开启自我改变的原动力.md",
-    "Calendar/Daily notes/2023-05-10.md",
     "Calendar/Plan & Review/本月计划.md",
+    "Calendar/Weekly Notes/2023-W19.md",
+    "Calendar/Daily notes/2023-05-10.md",
+    "Sources/Books/微信读书同步/心理/认知觉醒：开启自我改变的原动力.md",
     "哲学社科/心智模型.md",
     "哲学社科/未命名.canvas",
     "哲学社科/Untitled Diagram.svg",
