@@ -19,12 +19,12 @@
     "哲学社科/心智模型.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
+      "wordCount": 387,
+      "pageCount": 1.29,
+      "characterCount": 481,
+      "nonWhitespaceCharacterCount": 456,
       "createdDate": 1683642291112,
-      "modifiedDate": 1683642291112
+      "modifiedDate": 1683643243860
     },
     "闪念笔记/无结构的知识毫无用处.md": {
       "isDirectory": false,
@@ -914,7 +914,17 @@
       "characterCount": 199,
       "nonWhitespaceCharacterCount": 147,
       "createdDate": 1683613290392,
-      "modifiedDate": 1683614033199
+      "modifiedDate": 1683683811150
+    },
+    "Calendar/Daily notes/2023-05-10.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 8,
+      "pageCount": 0.02666666666666667,
+      "characterCount": 69,
+      "nonWhitespaceCharacterCount": 54,
+      "createdDate": 1683683814520,
+      "modifiedDate": 1683683814520
     },
     "Calendar/Daily notes/2023-05-09.md": {
       "isDirectory": false,
