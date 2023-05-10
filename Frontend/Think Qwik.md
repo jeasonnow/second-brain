@@ -66,8 +66,60 @@ export const App_component_p_onClick_01pEgC10cpw = ()=>console.log('hello');
 ![image.png](https://raw.githubusercontent.com/jeasonnow/pics/main/202305101652691.png)
 ### 昂贵的 Hydration
 1. 客户端必须要等待加载所有的组件和业务逻辑。
-2. 客户端必须执行所有的初始化 js 执行完成，方便绑定监听和初始化 state，而这部分内容很多都可以被服务端执行。
+2. 客户端必须执行所有的初始化 `js` 执行完成，方便绑定监听和初始化 `state`，而这部分内容很多都可以被服务端执行。
 
 ### Qwik 如何避免步 Hydration 后尘
 #### 绑定监听
-为了让页面可交互，在过去的时代里都需要 js 来进行绑定的操作，而 Qwik 却有一个很明显的优势，其在初次加载时为了保证页面加载的资源尽可能的少，会把所有的 event 都抽离成单独的 chunk 等待使用的时候再加载，且其会在页面中提供对应的加载器去绑定和执行，所以其绑定操作实际上完全可以由加载器接管。
+为了让页面可交互，在过去的时代里都需要 `js` 来进行绑定的操作，而 `Qwik` 却有一个很明显的优势，其在初次加载时为了保证页面加载的资源尽可能的少，会把所有的 `event` 都抽离成单独的 `chunk` 等待使用的时候再加载，且其会在页面中提供对应的加载器去绑定和执行，所以其绑定操作实际上完全可以由加载器接管。
+
+```javascript
+// dom
+<button class="button-dark button-small" on:click="/src/counter_component_div_button_onclick_1_lkcvrojx09y.js#counter_component_div_button_onClick_1_LkCVrojX09Y[0 1]" q:id="g" data-qwik-inspector="components/starter/counter/counter.tsx:24:7">+</button>
+
+// qwikLoader
+const dispatch = async (element, onPrefix, ev, eventName = ev.type) => {
+            const attrName = "on" + onPrefix + ":" + eventName;
+            element.hasAttribute("preventdefault:" + eventName) && ev.preventDefault();
+            const ctx = element._qc_;
+            // check 是否加载过，加载过走缓存
+            const qrls = null == ctx ? void 0 : ctx.li.filter((li => li[0] === attrName));
+            if (qrls && qrls.length > 0) {
+                for (const q of qrls) {
+                    await q[1].getFn([ element, ev ], (() => element.isConnected))(ev, element);
+                }
+                return;
+            }
+            // 未加载过则加载资源
+            const attrValue = getAttribute(element, attrName);
+            if (attrValue) {
+                const container = element.closest("[q\\:container]");
+                const base = new URL(getAttribute(container, "q:base"), doc.baseURI);
+                for (const qrl of attrValue.split("\n")) {
+                    const url = new URL(qrl, base);
+                    const symbolName = url.hash.replace(/^#?([^?[|]*).*$/, "$1") || "default";
+                    const reqTime = performance.now();
+                    const module = import(url.href.split("#")[0]);
+                    resolveContainer(container);
+                    const handler = (await module)[symbolName];
+                    const previousCtx = doc.__q_context__;
+                    if (element.isConnected) {
+                        try {
+                            doc.__q_context__ = [ element, ev, url ];
+                            emitEvent("qsymbol", {
+                                symbol: symbolName,
+                                element: element,
+                                reqTime: reqTime
+                            });
+                            await handler(ev, element);
+                        } finally {
+                            doc.__q_context__ = previousCtx;
+                        }
+                    }
+                }
+            }
+        };
+```
+
+基于这种分离策略，`Qwik` 可以只在返回的页面中注入触发的事件资源路径、事件 `id`，和加载器源代码即可实现绑定监听事件和原始 `js` 文件的完全分离。
+
+### 恢复页面渲染
