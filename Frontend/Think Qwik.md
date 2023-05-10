@@ -60,5 +60,5 @@ export const App_component_AkbU84a8zes = ()=>{
 export const App_component_p_onClick_01pEgC10cpw = ()=>console.log('hello');
 ```
 
-通过颗粒度细致到极点的拆分，让绝大多数无需在首屏加载的 `js` 、组件被分离为了一步加载的 `chunk`，在需要他们时才进行加载，以此完全实现了极致的延迟加载、执行。
+通过颗粒度细致到极点的拆分，让绝大多数无需在首屏加载的 `js` 、组件被分离为了异步加载的 `chunk`，在需要他们时才进行加载，以此完全实现了极致的延迟加载、执行。
 
