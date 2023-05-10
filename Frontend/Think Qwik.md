@@ -15,7 +15,7 @@ date modified: 2023-05-10
 
 ## Qwik 如何做到延迟执行
 
-我们可以从一个 Qwik 编译的示例来看这个过程
+我们可以从一个 `Qwik` 编译的示例来看这个过程
 
 ```javascript
 // app.js
@@ -27,7 +27,7 @@ export const App = component$(() => {
 });
 ```
 
-这里的 $ 就是一个特殊标识，它意味着这就是一个拆离 chunk 的关键点，而这个例子中能拆出去的就是 App 组件和其中的点击事件。
+这里的 `$` 就是一个特殊标识，它意味着这就是一个拆离 `chunk` 的关键点，而这个例子中能拆出去的就是 `App` 组件和其中的点击事件。
 
 ```javascript
 // app.js
@@ -38,7 +38,7 @@ const App = /*#__PURE__*/ componentQrl(qrl(()=>import('./app_component_akbu84a8z
 export { App };
 ```
 
-这里的 App 引用组件的部分被分离出了一个单独的 js Chunk，且调用这个组件的时候才会动态加载，完全实现了组件级别的按需加载。
+这里的 `App` 引用组件的部分被分离出了一个单独的 `js Chunk`，且调用这个组件的时候才会动态加载，完全实现了组件级别的按需加载。
 
 ```javascript
 // app_component_akbu84a8zes.js
@@ -53,4 +53,12 @@ export const App_component_AkbU84a8zes = ()=>{
 };
 ```
 
-而在被拆出去的动态组件中，其保持了原有的 dom 渲染，而 js 事件逻辑因为 $ 标志的原因也被拆离为了单独的 chunk，唯有点击时才会动态加载执行
+而在被拆出去的动态组件中，其保持了原有的 `dom` 渲染，而 `js` 事件逻辑因为 `$` 标志的原因也被拆离为了单独的 `chunk`，唯有点击时才会动态加载执行。
+
+```javascript
+// app_component_p_onclick_01pegc10cpw
+export const App_component_p_onClick_01pEgC10cpw = ()=>console.log('hello');
+```
+
+通过颗粒度细致到极点的拆分，让绝大多数无需在首屏加载的 `js` 、组件被分离为了一步加载的 `chunk`，在需要他们时才进行加载，以此完全实现了极致的延迟加载、执行。
+
