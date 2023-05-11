@@ -19,3 +19,5 @@
 
 2. 提供优先级策略，让部分请求可以做到优先获取优先渲染，其他优先级低的可以等主要内容完成渲染后进行更新渲染。
    ![image.png](https://raw.githubusercontent.com/jeasonnow/pics/main/202305111609476.png)
+## Relay 的处理细节
+当完成初次渲染之后，当用户和
