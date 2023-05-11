@@ -13,9 +13,9 @@
     "dateTimeFormat": "YYYY-MM-DD HH:mm",
     "strictDateFormat": false,
     "linkDatesToDailyNotes": false,
-    "enableTasksPluginReminderFormat": false,
-    "useCustomEmojiForTasksPlugin": false,
-    "removeTagsForTasksPlugin": false,
+    "enableTasksPluginReminderFormat": true,
+    "useCustomEmojiForTasksPlugin": true,
+    "removeTagsForTasksPlugin": true,
     "enableKanbanPluginReminderFormat": false,
     "editDetectionSec": 10,
     "reminderCheckIntervalSec": 5
