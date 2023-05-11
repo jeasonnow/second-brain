@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calendar/Weekly Notes/2023-W19.md",
+                "file": "Calendar/Daily notes/2023-05-11.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -91,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calendar/Weekly Notes/2023-W19.md"
+                "file": "Calendar/Daily notes/2023-05-11.md"
               }
             }
           },
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calendar/Weekly Notes/2023-W19.md",
+                "file": "Calendar/Daily notes/2023-05-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Calendar/Weekly Notes/2023-W19.md",
+                "file": "Calendar/Daily notes/2023-05-11.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calendar/Weekly Notes/2023-W19.md",
+                "file": "Calendar/Daily notes/2023-05-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,8 +229,8 @@
   },
   "active": "5923780f59bb2f3f",
   "lastOpenFiles": [
-    "Calendar/Daily notes/2023-05-09.md",
     "Calendar/Weekly Notes/2023-W19.md",
+    "Calendar/Daily notes/2023-05-09.md",
     "Calendar/Daily notes/2023-05-08.md",
     "Calendar/About Calendar.md",
     "Calendar/Daily notes/2023-05-11.md",
