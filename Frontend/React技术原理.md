@@ -9,12 +9,13 @@ title: React技术原理
 
 up:: [[React]]  
 
+
 > [!INFO] 提示  
 >  提示内容
 
 ## Fiber 的意义
 
-在 React 15 前，使用递归树的方式进行同步的更新整颗 Vitural Dom，这在树结构变得复杂时将指数级提升等待渲染时间，所以在 React 16+ 中引入了 Fiber 的概念，通过 Fiber 类似链表的结构可以随时中断、开始渲染进程。
+在 React 15 前，使用递归树的方式进行同步的更新整颗 Vitural Dom，这在树结构变得复杂时将指数级提升等待渲染时间，所以在 React 16+ 中引入了 Fiber 的概念，通过 Fiber 类似链表的结构可以随时中断、开始渲染进程。 ^a74a01
 
 ## React 16 的 Render 流程概览
 
