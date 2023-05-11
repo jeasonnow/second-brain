@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "闪念笔记/心智模型是啥.md",
+                "file": "Calendar/Weekly Notes/2023-W19.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -91,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "闪念笔记/心智模型是啥.md"
+                "file": "Calendar/Weekly Notes/2023-W19.md"
               }
             }
           },
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "闪念笔记/心智模型是啥.md",
+                "file": "Calendar/Weekly Notes/2023-W19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "闪念笔记/心智模型是啥.md",
+                "file": "Calendar/Weekly Notes/2023-W19.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "闪念笔记/心智模型是啥.md",
+                "file": "Calendar/Weekly Notes/2023-W19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,17 +227,18 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a4d1994dfc9f1870",
+  "active": "b745e7c25a44463a",
   "lastOpenFiles": [
+    "Calendar/Daily notes/2023-05-11.md",
+    "Calendar/Daily notes/2023-05-10.md",
     "Computer Science/操作系统/为什么学习操作系统.md",
+    "闪念笔记/心智模型是啥.md",
     "Computer Science/操作系统",
     "Computer Science",
     "闪念笔记/无结构的知识毫无用处.md",
     "闪念笔记/提升心智模型.md",
-    "闪念笔记/心智模型是啥.md",
     "哲学社科/心智模型.md",
     "Frontend/Think Qwik.md",
-    "Calendar/Daily notes/2023-05-10.md",
     "Calendar/Weekly Notes/2023-W19.md",
     "Calendar/Plan & Review/本月计划.md",
     "Sources/Books/微信读书同步/心理/认知觉醒：开启自我改变的原动力.md",
@@ -262,7 +263,6 @@
     "哲学社科",
     "Extras/Templates/Cards模板/Small Card 模板.md",
     "Extras/Templates/Cards模板/Card卡片_标准模板.md",
-    "Extras/Templates/Cards模板/Sources&Spaces卡片_标准模板.md",
     "闪念笔记",
     "心智模型",
     "Untitled Diagram.svg",
