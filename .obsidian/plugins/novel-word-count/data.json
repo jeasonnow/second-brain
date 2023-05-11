@@ -16,6 +16,17 @@
     "pageCountType": "ByWords"
   },
   "cachedCounts": {
+    "闪念笔记/React Server Component.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1683800067217,
+      "modifiedDate": 1683800067217,
+      "sizeInBytes": 0
+    },
     "闪念笔记/无结构的知识毫无用处.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -52,13 +63,13 @@
     "哲学社科/心智模型.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 387,
-      "pageCount": 1.29,
-      "characterCount": 481,
-      "nonWhitespaceCharacterCount": 456,
+      "wordCount": 388,
+      "pageCount": 1.2933333333333332,
+      "characterCount": 489,
+      "nonWhitespaceCharacterCount": 463,
       "createdDate": 1683642291112,
-      "modifiedDate": 1683643243860,
-      "sizeInBytes": 1303
+      "modifiedDate": 1683794947758,
+      "sizeInBytes": 1311
     },
     "∑ 本库 ACCESS 的文件夹入口汇总.md": {
       "isDirectory": false,
@@ -404,24 +415,24 @@
     "Frontend/Relay.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
+      "wordCount": 798,
+      "pageCount": 2.66,
+      "characterCount": 2399,
+      "nonWhitespaceCharacterCount": 2206,
       "createdDate": 1683788469091,
-      "modifiedDate": 1683788469091,
-      "sizeInBytes": 0
+      "modifiedDate": 1683795458551,
+      "sizeInBytes": 4063
     },
     "Frontend/React.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 21,
-      "pageCount": 0.07,
-      "characterCount": 94,
-      "nonWhitespaceCharacterCount": 81,
+      "wordCount": 6,
+      "pageCount": 0.02,
+      "characterCount": 72,
+      "nonWhitespaceCharacterCount": 62,
       "createdDate": 1683336423531,
-      "modifiedDate": 1683788270348,
-      "sizeInBytes": 124
+      "modifiedDate": 1683789515390,
+      "sizeInBytes": 72
     },
     "Frontend/深入理解 Javascript 引擎.md": {
       "isDirectory": false,
@@ -1034,9 +1045,9 @@
       "wordCount": 68,
       "pageCount": 0.22666666666666666,
       "characterCount": 314,
-      "nonWhitespaceCharacterCount": 244,
+      "nonWhitespaceCharacterCount": 245,
       "createdDate": 1683771793230,
-      "modifiedDate": 1683785467537,
+      "modifiedDate": 1683795545281,
       "sizeInBytes": 442
     },
     "Calendar/Daily notes/2023-05-10.md": {

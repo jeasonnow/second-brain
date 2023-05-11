@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calendar/Daily notes/2023-05-11.md",
-                "mode": "source",
+                "file": "Calendar/Weekly Notes/2023-W19.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -91,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calendar/Daily notes/2023-05-11.md"
+                "file": "Calendar/Weekly Notes/2023-W19.md"
               }
             }
           },
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calendar/Daily notes/2023-05-11.md",
+                "file": "Calendar/Weekly Notes/2023-W19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Calendar/Daily notes/2023-05-11.md",
+                "file": "Calendar/Weekly Notes/2023-W19.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calendar/Daily notes/2023-05-11.md",
+                "file": "Calendar/Weekly Notes/2023-W19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,21 +230,25 @@
   },
   "active": "96f3bcb4ff748bab",
   "lastOpenFiles": [
+    "Calendar/Daily notes/2023-05-11.md",
+    "Calendar/Weekly Notes/2023-W19.md",
+    "Calendar/Daily notes/2023-05-10.md",
+    "Extras/Templates/Canvas模板/精益画布 - 模板.canvas",
+    "Extras/Templates/Canvas模板/思维导图 - 模板.canvas",
+    "Extras/Templates/Calendar模板/Weekly Notes.md",
+    "Computer Science/操作系统/为什么学习操作系统.md",
     "Frontend/Relay.md",
     "哲学社科/心智模型.md",
+    "闪念笔记/React Server Component.md",
     "Frontend/HMR 原理.md",
     "Frontend/深入理解 Javascript 引擎.md",
     "Frontend/Think Qwik.md",
     "Frontend/React.md",
     "Frontend/React技术原理.md",
-    "Computer Science/操作系统/为什么学习操作系统.md",
     "Frontend/Qwix.md",
     "Sources/Books/微信读书同步/心理/认知觉醒：开启自我改变的原动力.md",
     "Calendar/Daily notes/2023-05-09.md",
     "Sources/About Sources.md",
-    "Calendar/Weekly Notes/2023-W19.md",
-    "Calendar/Daily notes/2023-05-11.md",
-    "Extras/Templates/Calendar模板/Weekly Notes.md",
     "Cards/About Cards.md",
     "Cards/最佳实践.md",
     "README.md",
@@ -254,15 +258,11 @@
     "Cards/关于公司内网的组织结构.md",
     "Cards/费曼学习法.md",
     "Cards/巴菲特公式：睡觉比起床时更聪明.md",
-    "Calendar/Daily notes/2023-05-08.md",
-    "Calendar/About Calendar.md",
     "未命名.canvas",
     "Computer Science/操作系统",
     "Computer Science",
     "哲学社科/未命名.canvas",
     "哲学社科/Untitled Diagram.svg",
-    "Extras/Templates/Canvas模板/精益画布 - 模板.canvas",
-    "Extras/Templates/Canvas模板/思维导图 - 模板.canvas",
     "哲学社科",
     "闪念笔记",
     "心智模型",
