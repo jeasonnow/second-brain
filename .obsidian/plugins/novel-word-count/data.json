@@ -76,16 +76,6 @@
       "createdDate": 1681969628442,
       "modifiedDate": 1681969628442
     },
-    "» Daily notes工作流.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "createdDate": 1681958113679,
-      "modifiedDate": 1681958113679
-    },
     "Spaces/算法/贪心算法.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -939,12 +929,12 @@
     "Calendar/Daily notes/2023-05-11.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 8,
-      "pageCount": 0.02666666666666667,
-      "characterCount": 69,
-      "nonWhitespaceCharacterCount": 54,
+      "wordCount": 45,
+      "pageCount": 0.15,
+      "characterCount": 245,
+      "nonWhitespaceCharacterCount": 193,
       "createdDate": 1683771793230,
-      "modifiedDate": 1683771793231
+      "modifiedDate": 1683772331128
     },
     "Calendar/Daily notes/2023-05-10.md": {
       "isDirectory": false,

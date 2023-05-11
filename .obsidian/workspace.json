@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a6a2b02a759b49dc",
+        "id": "ab1ecbfc388d808d",
         "type": "tabs",
         "children": [
           {
-            "id": "b745e7c25a44463a",
+            "id": "5923780f59bb2f3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calendar/Daily notes/2023-05-11.md",
+                "file": "Calendar/Weekly Notes/2023-W19.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -91,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calendar/Daily notes/2023-05-11.md"
+                "file": "Calendar/Weekly Notes/2023-W19.md"
               }
             }
           },
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calendar/Daily notes/2023-05-11.md",
+                "file": "Calendar/Weekly Notes/2023-W19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Calendar/Daily notes/2023-05-11.md",
+                "file": "Calendar/Weekly Notes/2023-W19.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calendar/Daily notes/2023-05-11.md",
+                "file": "Calendar/Weekly Notes/2023-W19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,11 +227,20 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b745e7c25a44463a",
+  "active": "5923780f59bb2f3f",
   "lastOpenFiles": [
-    "Calendar/Weekly Notes/2023-W19.md",
+    "Calendar/About Calendar.md",
     "Calendar/Daily notes/2023-05-11.md",
+    "AboutTheGarden.md",
+    "» Daily notes工作流.md",
+    "未命名.canvas",
+    "∑ 本库 ACCESS 的文件夹入口汇总.md",
+    "Frontend/Think Qwik.md",
+    "Frontend/HMR 原理.md",
+    "Extras/Templates/Calendar模板/Weekly Notes.md",
+    "Calendar/Weekly Notes/2023-W19.md",
     "Calendar/Daily notes/2023-05-10.md",
+    "Calendar/Plan & Review/本月计划.md",
     "Computer Science/操作系统/为什么学习操作系统.md",
     "闪念笔记/心智模型是啥.md",
     "Computer Science/操作系统",
@@ -239,13 +248,10 @@
     "闪念笔记/无结构的知识毫无用处.md",
     "闪念笔记/提升心智模型.md",
     "哲学社科/心智模型.md",
-    "Frontend/Think Qwik.md",
-    "Calendar/Plan & Review/本月计划.md",
     "Sources/Books/微信读书同步/心理/认知觉醒：开启自我改变的原动力.md",
     "哲学社科/未命名.canvas",
     "哲学社科/Untitled Diagram.svg",
     "Calendar/Daily notes/2023-05-09.md",
-    "未命名.canvas",
     "Cards/Farnam Street Bolg.md",
     "Extras/About Extras.md",
     "Extras/Templates/∑ 模板文件创建入口.md",
@@ -256,13 +262,7 @@
     "Extras/Templates/Canvas模板/思维导图 - 模板.canvas",
     "Extras/Templates/Atlas模板/TOC模板.md",
     "Extras/Templates/Atlas模板/MOC模板.md",
-    "Extras/Templates/其他/微信读书同步模板.md",
-    "Extras/Templates/其他/思维思考模板/康奈尔笔记法模板.md",
-    "Extras/Templates/其他/思维思考模板/六顶思考帽模板.md",
-    "闪念笔记/未命名.md",
     "哲学社科",
-    "Extras/Templates/Cards模板/Small Card 模板.md",
-    "Extras/Templates/Cards模板/Card卡片_标准模板.md",
     "闪念笔记",
     "心智模型",
     "Untitled Diagram.svg",
