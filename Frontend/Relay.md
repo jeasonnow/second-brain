@@ -20,4 +20,7 @@
 2. 提供优先级策略，让部分请求可以做到优先获取优先渲染，其他优先级低的可以等主要内容完成渲染后进行更新渲染。
    ![image.png](https://raw.githubusercontent.com/jeasonnow/pics/main/202305111609476.png)
 ## Relay 的处理细节
-当完成初次渲染之后，当用户和
+当完成初次渲染之后，当用户在 Client 端产生交互，Relay 会完成一套复杂的流程，用来保证请求的范围尽量小：
+- 发送请求时创建 `Mutation` 交予 `Mutation System` 处理，获得最小、完全的 State 变化，交予 `State` 管理里进行 `State` 初始化。
+- `State` 完成初始化之后，通知变动处的 `UI` 先进行初始化， `Mutation System` 会将变动范围涉及的请求进行合并交予 `GraphQL` 进行请求。
+- `GraphQL` 请求完成之后将 `Payload` 返回给 `Relay State` 进行更新，并广播给 UI 进行更新。
