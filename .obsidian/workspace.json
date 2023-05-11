@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calendar/Daily notes/2023-05-11.md",
+                "file": "Calendar/Weekly Notes/2023-W19.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -91,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calendar/Daily notes/2023-05-11.md"
+                "file": "Calendar/Weekly Notes/2023-W19.md"
               }
             }
           },
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calendar/Daily notes/2023-05-11.md",
+                "file": "Calendar/Weekly Notes/2023-W19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Calendar/Daily notes/2023-05-11.md",
+                "file": "Calendar/Weekly Notes/2023-W19.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calendar/Daily notes/2023-05-11.md",
+                "file": "Calendar/Weekly Notes/2023-W19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,18 +229,27 @@
   },
   "active": "5923780f59bb2f3f",
   "lastOpenFiles": [
+    "Calendar/Daily notes/2023-05-11.md",
     "Calendar/Weekly Notes/2023-W19.md",
+    "Extras/Templates/Calendar模板/Weekly Notes.md",
+    "Cards/About Cards.md",
+    "Cards/最佳实践.md",
+    "README.md",
+    "Cards/如何在移动端禁用、反禁用复制功能.md",
+    "Cards/卡片笔记实践.md",
+    "Cards/解决问题最佳实践.md",
+    "Cards/关于公司内网的组织结构.md",
+    "Cards/费曼学习法.md",
+    "Cards/巴菲特公式：睡觉比起床时更聪明.md",
     "Calendar/Daily notes/2023-05-09.md",
     "Calendar/Daily notes/2023-05-08.md",
     "Calendar/About Calendar.md",
-    "Calendar/Daily notes/2023-05-11.md",
     "AboutTheGarden.md",
     "» Daily notes工作流.md",
     "未命名.canvas",
     "∑ 本库 ACCESS 的文件夹入口汇总.md",
     "Frontend/Think Qwik.md",
     "Frontend/HMR 原理.md",
-    "Extras/Templates/Calendar模板/Weekly Notes.md",
     "Calendar/Daily notes/2023-05-10.md",
     "Calendar/Plan & Review/本月计划.md",
     "Computer Science/操作系统/为什么学习操作系统.md",
@@ -249,19 +258,10 @@
     "Computer Science",
     "闪念笔记/无结构的知识毫无用处.md",
     "闪念笔记/提升心智模型.md",
-    "哲学社科/心智模型.md",
-    "Sources/Books/微信读书同步/心理/认知觉醒：开启自我改变的原动力.md",
     "哲学社科/未命名.canvas",
     "哲学社科/Untitled Diagram.svg",
-    "Cards/Farnam Street Bolg.md",
-    "Extras/About Extras.md",
-    "Extras/Templates/∑ 模板文件创建入口.md",
-    "Extras/Templates/Spaces模板/Archive创建模板.md",
-    "Extras/Templates/Spaces模板/Project创建模板.md",
-    "Extras/Templates/Sources模板/读书笔记模板.md",
     "Extras/Templates/Canvas模板/精益画布 - 模板.canvas",
     "Extras/Templates/Canvas模板/思维导图 - 模板.canvas",
-    "Extras/Templates/Atlas模板/TOC模板.md",
     "哲学社科",
     "闪念笔记",
     "心智模型",
