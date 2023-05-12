@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calendar/Plan & Review/长期计划.md",
+                "file": "Calendar/Weekly Notes/2023-W19.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -91,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calendar/Plan & Review/长期计划.md"
+                "file": "Calendar/Weekly Notes/2023-W19.md"
               }
             }
           },
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calendar/Plan & Review/长期计划.md",
+                "file": "Calendar/Weekly Notes/2023-W19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Calendar/Plan & Review/长期计划.md",
+                "file": "Calendar/Weekly Notes/2023-W19.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calendar/Plan & Review/长期计划.md",
+                "file": "Calendar/Weekly Notes/2023-W19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,6 +230,7 @@
   },
   "active": "96f3bcb4ff748bab",
   "lastOpenFiles": [
+    "Calendar/Plan & Review/长期计划.md",
     "Extras/Templates/其他/思维思考模板/六顶思考帽模板.md",
     "Extras/Templates/其他/思维思考模板/康奈尔笔记法模板.md",
     "Extras/Templates/其他/dict/chatgpt_prompts_dict.md",
@@ -245,7 +246,6 @@
     "Extras/Templates/其他/工作流模板.md",
     "Extras/Templates/其他/领域入门模板.md",
     "Extras/Templates/Sources模板/文章笔记模板.md",
-    "Calendar/Plan & Review/长期计划.md",
     "Calendar/Daily notes/2023-05-12.md",
     "闪念笔记/React Server Component.md",
     "闪念笔记/心智模型是啥.md",
