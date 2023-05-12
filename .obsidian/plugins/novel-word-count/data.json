@@ -19,13 +19,13 @@
     "闪念笔记/React Server Component.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
+      "wordCount": 131,
+      "pageCount": 0.43666666666666665,
+      "characterCount": 381,
+      "nonWhitespaceCharacterCount": 337,
       "createdDate": 1683800067217,
-      "modifiedDate": 1683800067217,
-      "sizeInBytes": 0
+      "modifiedDate": 1683800245029,
+      "sizeInBytes": 637
     },
     "闪念笔记/无结构的知识毫无用处.md": {
       "isDirectory": false,
@@ -63,13 +63,13 @@
     "哲学社科/心智模型.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 388,
-      "pageCount": 1.2933333333333332,
-      "characterCount": 489,
-      "nonWhitespaceCharacterCount": 463,
+      "wordCount": 394,
+      "pageCount": 1.3133333333333332,
+      "characterCount": 495,
+      "nonWhitespaceCharacterCount": 469,
       "createdDate": 1683642291112,
-      "modifiedDate": 1683794947758,
-      "sizeInBytes": 1311
+      "modifiedDate": 1683856011254,
+      "sizeInBytes": 1329
     },
     "∑ 本库 ACCESS 的文件夹入口汇总.md": {
       "isDirectory": false,
@@ -1020,13 +1020,13 @@
     "Calendar/Weekly Notes/2023-W19.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 18,
-      "pageCount": 0.06,
-      "characterCount": 818,
-      "nonWhitespaceCharacterCount": 687,
+      "wordCount": 17,
+      "pageCount": 0.056666666666666664,
+      "characterCount": 778,
+      "nonWhitespaceCharacterCount": 650,
       "createdDate": 1683617333641,
-      "modifiedDate": 1683787561773,
-      "sizeInBytes": 818
+      "modifiedDate": 1683800494241,
+      "sizeInBytes": 778
     },
     "Calendar/Plan & Review/本月计划.md": {
       "isDirectory": false,
@@ -1039,27 +1039,38 @@
       "modifiedDate": 1683683811150,
       "sizeInBytes": 357
     },
+    "Calendar/Daily notes/2023-05-12.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 8,
+      "pageCount": 0.02666666666666667,
+      "characterCount": 69,
+      "nonWhitespaceCharacterCount": 54,
+      "createdDate": 1683856167084,
+      "modifiedDate": 1683856167084,
+      "sizeInBytes": 85
+    },
     "Calendar/Daily notes/2023-05-11.md": {
       "isDirectory": false,
       "noteCount": 1,
       "wordCount": 68,
       "pageCount": 0.22666666666666666,
       "characterCount": 314,
-      "nonWhitespaceCharacterCount": 245,
+      "nonWhitespaceCharacterCount": 248,
       "createdDate": 1683771793230,
-      "modifiedDate": 1683795545281,
+      "modifiedDate": 1683800330976,
       "sizeInBytes": 442
     },
     "Calendar/Daily notes/2023-05-10.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 191,
-      "pageCount": 0.6366666666666667,
-      "characterCount": 542,
-      "nonWhitespaceCharacterCount": 449,
+      "wordCount": 197,
+      "pageCount": 0.6566666666666666,
+      "characterCount": 568,
+      "nonWhitespaceCharacterCount": 473,
       "createdDate": 1683683814520,
-      "modifiedDate": 1683713100982,
-      "sizeInBytes": 900
+      "modifiedDate": 1683800543067,
+      "sizeInBytes": 930
     },
     "Calendar/Daily notes/2023-05-09.md": {
       "isDirectory": false,
@@ -1067,9 +1078,9 @@
       "wordCount": 253,
       "pageCount": 0.8433333333333334,
       "characterCount": 936,
-      "nonWhitespaceCharacterCount": 838,
+      "nonWhitespaceCharacterCount": 839,
       "createdDate": 1683598583165,
-      "modifiedDate": 1683698282914,
+      "modifiedDate": 1683800689065,
       "sizeInBytes": 1393
     },
     "Calendar/Daily notes/2023-05-08.md": {
