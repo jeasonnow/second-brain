@@ -63,13 +63,13 @@
     "哲学社科/心智模型.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 394,
-      "pageCount": 1.3133333333333332,
-      "characterCount": 495,
-      "nonWhitespaceCharacterCount": 469,
+      "wordCount": 847,
+      "pageCount": 2.8233333333333333,
+      "characterCount": 1109,
+      "nonWhitespaceCharacterCount": 1057,
       "createdDate": 1683642291112,
-      "modifiedDate": 1683856011254,
-      "sizeInBytes": 1329
+      "modifiedDate": 1683859289858,
+      "sizeInBytes": 2915
     },
     "∑ 本库 ACCESS 的文件夹入口汇总.md": {
       "isDirectory": false,
@@ -676,28 +676,6 @@
       "modifiedDate": 1681783154833,
       "sizeInBytes": 358
     },
-    "Extras/Templates/其他/dict/dict.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 128,
-      "pageCount": 0.4266666666666667,
-      "characterCount": 906,
-      "nonWhitespaceCharacterCount": 772,
-      "createdDate": 1681783154833,
-      "modifiedDate": 1681783154833,
-      "sizeInBytes": 1190
-    },
-    "Extras/Templates/其他/dict/chatgpt_prompts_dict.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 76,
-      "pageCount": 0.25333333333333335,
-      "characterCount": 132,
-      "nonWhitespaceCharacterCount": 120,
-      "createdDate": 1681783154833,
-      "modifiedDate": 1681783154833,
-      "sizeInBytes": 302
-    },
     "Extras/Templates/其他/anki卡片模板.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -719,94 +697,6 @@
       "createdDate": 1681783154832,
       "modifiedDate": 1681783154832,
       "sizeInBytes": 738
-    },
-    "Extras/Templates/Sources模板/课程笔记模板.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "createdDate": 1681783154817,
-      "modifiedDate": 1681783154817,
-      "sizeInBytes": 0
-    },
-    "Extras/Templates/Sources模板/读书笔记模板.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 43,
-      "pageCount": 0.14333333333333334,
-      "characterCount": 68,
-      "nonWhitespaceCharacterCount": 51,
-      "createdDate": 1681783154816,
-      "modifiedDate": 1681783154817,
-      "sizeInBytes": 152
-    },
-    "Extras/Templates/Sources模板/论文笔记模板.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "createdDate": 1681783154816,
-      "modifiedDate": 1681783154816,
-      "sizeInBytes": 0
-    },
-    "Extras/Templates/Sources模板/视频笔记模板.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 50,
-      "pageCount": 0.16666666666666666,
-      "characterCount": 84,
-      "nonWhitespaceCharacterCount": 68,
-      "createdDate": 1681783154816,
-      "modifiedDate": 1681783154816,
-      "sizeInBytes": 192
-    },
-    "Extras/Templates/Sources模板/电视剧笔记模板.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 42,
-      "pageCount": 0.14,
-      "characterCount": 77,
-      "nonWhitespaceCharacterCount": 62,
-      "createdDate": 1681783154815,
-      "modifiedDate": 1681783154816,
-      "sizeInBytes": 177
-    },
-    "Extras/Templates/Sources模板/电影笔记模板.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 17,
-      "pageCount": 0.056666666666666664,
-      "characterCount": 46,
-      "nonWhitespaceCharacterCount": 31,
-      "createdDate": 1681783154815,
-      "modifiedDate": 1681783154815,
-      "sizeInBytes": 80
-    },
-    "Extras/Templates/Sources模板/文章笔记模板.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "createdDate": 1681783154815,
-      "modifiedDate": 1681783154815,
-      "sizeInBytes": 0
-    },
-    "Extras/Templates/Sources模板/播客笔记模板.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "createdDate": 1681783154815,
-      "modifiedDate": 1681783154815,
-      "sizeInBytes": 0
     },
     "Extras/Templates/Cards模板/Sources&Spaces卡片_标准模板.md": {
       "isDirectory": false,
@@ -1028,6 +918,17 @@
       "modifiedDate": 1683800494241,
       "sizeInBytes": 778
     },
+    "Calendar/Plan & Review/长期计划.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1683878163948,
+      "modifiedDate": 1683878163948,
+      "sizeInBytes": 0
+    },
     "Calendar/Plan & Review/本月计划.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -1042,13 +943,13 @@
     "Calendar/Daily notes/2023-05-12.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 8,
-      "pageCount": 0.02666666666666667,
-      "characterCount": 69,
-      "nonWhitespaceCharacterCount": 54,
+      "wordCount": 54,
+      "pageCount": 0.18,
+      "characterCount": 239,
+      "nonWhitespaceCharacterCount": 192,
       "createdDate": 1683856167084,
-      "modifiedDate": 1683856167084,
-      "sizeInBytes": 85
+      "modifiedDate": 1683856636082,
+      "sizeInBytes": 341
     },
     "Calendar/Daily notes/2023-05-11.md": {
       "isDirectory": false,

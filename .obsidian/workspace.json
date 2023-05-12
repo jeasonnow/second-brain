@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calendar/Daily notes/2023-05-12.md",
+                "file": "Calendar/Plan & Review/长期计划.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -91,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calendar/Daily notes/2023-05-12.md"
+                "file": "Calendar/Plan & Review/长期计划.md"
               }
             }
           },
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calendar/Daily notes/2023-05-12.md",
+                "file": "Calendar/Plan & Review/长期计划.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Calendar/Daily notes/2023-05-12.md",
+                "file": "Calendar/Plan & Review/长期计划.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calendar/Daily notes/2023-05-12.md",
+                "file": "Calendar/Plan & Review/长期计划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,34 +230,34 @@
   },
   "active": "96f3bcb4ff748bab",
   "lastOpenFiles": [
+    "Extras/Templates/其他/思维思考模板/六顶思考帽模板.md",
+    "Extras/Templates/其他/思维思考模板/康奈尔笔记法模板.md",
+    "Extras/Templates/其他/dict/chatgpt_prompts_dict.md",
+    "Extras/Templates/其他/mermaid模板/mermaid模板.md",
+    "Extras/Templates/其他/mermaid模板/mermaid stateDiagram 模板.md",
+    "Extras/Templates/其他/mermaid模板/mermaid sequenceDiagram 模板.md",
+    "Extras/Templates/其他/mermaid模板/mermaid pie 模板.md",
+    "Extras/Templates/其他/mermaid模板/mermaid journal 模板.md",
+    "Extras/Templates/其他/mermaid模板/mermaid gantt 模板.md",
+    "Extras/Templates/其他/mermaid模板/mermaid flow chart 模板.md",
+    "Extras/Templates/其他/mermaid模板/mermaid class diagram 模板.md",
+    "Extras/Templates/其他/更新日志模板.md",
+    "Extras/Templates/其他/工作流模板.md",
+    "Extras/Templates/其他/领域入门模板.md",
+    "Extras/Templates/Sources模板/文章笔记模板.md",
+    "Calendar/Plan & Review/长期计划.md",
+    "Calendar/Daily notes/2023-05-12.md",
     "闪念笔记/React Server Component.md",
     "闪念笔记/心智模型是啥.md",
     "闪念笔记/无结构的知识毫无用处.md",
     "闪念笔记/提升心智模型.md",
     "哲学社科/心智模型.md",
     "Calendar/Weekly Notes/2023-W19.md",
-    "Calendar/Daily notes/2023-05-12.md",
     "Calendar/Daily notes/2023-05-11.md",
     "Cards/巴菲特公式：睡觉比起床时更聪明.md",
     "Cards/Farnam Street Bolg.md",
-    "Calendar/Daily notes/2023-05-09.md",
-    "Calendar/Daily notes/2023-05-10.md",
     "Extras/Templates/Canvas模板/精益画布 - 模板.canvas",
     "Extras/Templates/Canvas模板/思维导图 - 模板.canvas",
-    "Extras/Templates/Calendar模板/Weekly Notes.md",
-    "Computer Science/操作系统/为什么学习操作系统.md",
-    "Frontend/Relay.md",
-    "Frontend/HMR 原理.md",
-    "Frontend/深入理解 Javascript 引擎.md",
-    "Frontend/Think Qwik.md",
-    "Frontend/React.md",
-    "Frontend/React技术原理.md",
-    "Frontend/Qwix.md",
-    "Sources/Books/微信读书同步/心理/认知觉醒：开启自我改变的原动力.md",
-    "Sources/About Sources.md",
-    "Cards/About Cards.md",
-    "Cards/最佳实践.md",
-    "README.md",
     "未命名.canvas",
     "Computer Science/操作系统",
     "Computer Science",
