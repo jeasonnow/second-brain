@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "哲学社科/心智模型.md",
+                "file": "闪念笔记/React Server Component.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -91,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "哲学社科/心智模型.md"
+                "file": "闪念笔记/React Server Component.md"
               }
             }
           },
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "哲学社科/心智模型.md",
+                "file": "闪念笔记/React Server Component.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "哲学社科/心智模型.md",
+                "file": "闪念笔记/React Server Component.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "哲学社科/心智模型.md",
+                "file": "闪念笔记/React Server Component.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,9 +230,13 @@
   },
   "active": "96f3bcb4ff748bab",
   "lastOpenFiles": [
+    "闪念笔记/心智模型是啥.md",
+    "闪念笔记/无结构的知识毫无用处.md",
+    "闪念笔记/提升心智模型.md",
+    "闪念笔记/React Server Component.md",
+    "哲学社科/心智模型.md",
     "Calendar/Weekly Notes/2023-W19.md",
     "Calendar/Daily notes/2023-05-12.md",
-    "哲学社科/心智模型.md",
     "Calendar/Daily notes/2023-05-11.md",
     "Cards/巴菲特公式：睡觉比起床时更聪明.md",
     "Cards/Farnam Street Bolg.md",
@@ -243,7 +247,6 @@
     "Extras/Templates/Calendar模板/Weekly Notes.md",
     "Computer Science/操作系统/为什么学习操作系统.md",
     "Frontend/Relay.md",
-    "闪念笔记/React Server Component.md",
     "Frontend/HMR 原理.md",
     "Frontend/深入理解 Javascript 引擎.md",
     "Frontend/Think Qwik.md",
@@ -255,9 +258,6 @@
     "Cards/About Cards.md",
     "Cards/最佳实践.md",
     "README.md",
-    "Cards/如何在移动端禁用、反禁用复制功能.md",
-    "Cards/卡片笔记实践.md",
-    "Cards/解决问题最佳实践.md",
     "未命名.canvas",
     "Computer Science/操作系统",
     "Computer Science",
