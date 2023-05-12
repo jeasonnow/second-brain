@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calendar/Weekly Notes/2023-W19.md",
+                "file": "哲学社科/心智模型.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -91,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calendar/Weekly Notes/2023-W19.md"
+                "file": "哲学社科/心智模型.md"
               }
             }
           },
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calendar/Weekly Notes/2023-W19.md",
+                "file": "哲学社科/心智模型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Calendar/Weekly Notes/2023-W19.md",
+                "file": "哲学社科/心智模型.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calendar/Weekly Notes/2023-W19.md",
+                "file": "哲学社科/心智模型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,6 +230,11 @@
   },
   "active": "96f3bcb4ff748bab",
   "lastOpenFiles": [
+    "闪念笔记/React Server Component.md",
+    "闪念笔记/心智模型是啥.md",
+    "闪念笔记/无结构的知识毫无用处.md",
+    "闪念笔记/提升心智模型.md",
+    "哲学社科/心智模型.md",
     "Calendar/Daily notes/2023-05-12.md",
     "Calendar/Weekly Notes/2023-W19.md",
     "Calendar/Plan & Review/长期计划.md",
@@ -248,11 +253,6 @@
     "Extras/Templates/其他/工作流模板.md",
     "Extras/Templates/其他/领域入门模板.md",
     "Extras/Templates/Sources模板/文章笔记模板.md",
-    "闪念笔记/React Server Component.md",
-    "闪念笔记/心智模型是啥.md",
-    "闪念笔记/无结构的知识毫无用处.md",
-    "闪念笔记/提升心智模型.md",
-    "哲学社科/心智模型.md",
     "Calendar/Daily notes/2023-05-11.md",
     "Cards/巴菲特公式：睡觉比起床时更聪明.md",
     "Cards/Farnam Street Bolg.md",
