@@ -16,16 +16,16 @@
     "pageCountType": "ByWords"
   },
   "cachedCounts": {
-    "闪念笔记/未命名.md": {
+    "闪念笔记/不给钱的金钱社会.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
+      "wordCount": 59,
+      "pageCount": 0.19666666666666666,
+      "characterCount": 149,
+      "nonWhitespaceCharacterCount": 130,
       "createdDate": 1684114542099,
-      "modifiedDate": 1684114542099,
-      "sizeInBytes": 0
+      "modifiedDate": 1684114676536,
+      "sizeInBytes": 257
     },
     "闪念笔记/React Server Component.md": {
       "isDirectory": false,
