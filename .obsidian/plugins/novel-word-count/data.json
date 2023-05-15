@@ -16,6 +16,17 @@
     "pageCountType": "ByWords"
   },
   "cachedCounts": {
+    "闪念笔记/未命名.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1684114542099,
+      "modifiedDate": 1684114542099,
+      "sizeInBytes": 0
+    },
     "闪念笔记/React Server Component.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -63,13 +74,13 @@
     "哲学社科/心智模型.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 847,
-      "pageCount": 2.8233333333333333,
-      "characterCount": 1109,
-      "nonWhitespaceCharacterCount": 1057,
+      "wordCount": 1271,
+      "pageCount": 4.236666666666666,
+      "characterCount": 1626,
+      "nonWhitespaceCharacterCount": 1560,
       "createdDate": 1683642291112,
-      "modifiedDate": 1683859289858,
-      "sizeInBytes": 2915
+      "modifiedDate": 1683887148523,
+      "sizeInBytes": 4352
     },
     "∑ 本库 ACCESS 的文件夹入口汇总.md": {
       "isDirectory": false,
@@ -756,13 +767,13 @@
     "Computer Science/操作系统/为什么学习操作系统.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 15,
-      "pageCount": 0.05,
-      "characterCount": 76,
-      "nonWhitespaceCharacterCount": 66,
+      "wordCount": 621,
+      "pageCount": 2.07,
+      "characterCount": 925,
+      "nonWhitespaceCharacterCount": 818,
       "createdDate": 1683770424535,
-      "modifiedDate": 1683770424535,
-      "sizeInBytes": 94
+      "modifiedDate": 1684070675557,
+      "sizeInBytes": 2251
     },
     "Cards/费曼学习法.md": {
       "isDirectory": false,
@@ -921,13 +932,13 @@
     "Calendar/Plan & Review/长期计划.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
+      "wordCount": 301,
+      "pageCount": 1.0033333333333334,
+      "characterCount": 721,
+      "nonWhitespaceCharacterCount": 550,
       "createdDate": 1683878163948,
-      "modifiedDate": 1683878163948,
-      "sizeInBytes": 0
+      "modifiedDate": 1683880688384,
+      "sizeInBytes": 1395
     },
     "Calendar/Plan & Review/本月计划.md": {
       "isDirectory": false,
@@ -940,16 +951,27 @@
       "modifiedDate": 1683683811150,
       "sizeInBytes": 357
     },
+    "Calendar/Daily notes/2023-05-15.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 23,
+      "pageCount": 0.07666666666666666,
+      "characterCount": 104,
+      "nonWhitespaceCharacterCount": 79,
+      "createdDate": 1684114408683,
+      "modifiedDate": 1684114441535,
+      "sizeInBytes": 152
+    },
     "Calendar/Daily notes/2023-05-12.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 54,
-      "pageCount": 0.18,
-      "characterCount": 239,
-      "nonWhitespaceCharacterCount": 192,
+      "wordCount": 65,
+      "pageCount": 0.21666666666666667,
+      "characterCount": 262,
+      "nonWhitespaceCharacterCount": 213,
       "createdDate": 1683856167084,
-      "modifiedDate": 1683856636082,
-      "sizeInBytes": 341
+      "modifiedDate": 1683887092383,
+      "sizeInBytes": 386
     },
     "Calendar/Daily notes/2023-05-11.md": {
       "isDirectory": false,
