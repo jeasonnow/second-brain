@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/3-Resource/操作系统/教材.md",
+                "file": "Spaces/2-Area/哲学社科/心智模型.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -91,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/3-Resource/操作系统/教材.md"
+                "file": "Spaces/2-Area/哲学社科/心智模型.md"
               }
             }
           },
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/3-Resource/操作系统/教材.md",
+                "file": "Spaces/2-Area/哲学社科/心智模型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Spaces/3-Resource/操作系统/教材.md",
+                "file": "Spaces/2-Area/哲学社科/心智模型.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/3-Resource/操作系统/教材.md",
+                "file": "Spaces/2-Area/哲学社科/心智模型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,10 +228,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "96f3bcb4ff748bab",
+  "active": "a4d1994dfc9f1870",
   "lastOpenFiles": [
-    "Spaces/3-Resource/操作系统/未命名.md",
     "Spaces/3-Resource/操作系统/教材.md",
+    "Spaces/3-Resource/操作系统/未命名.md",
     "闪念笔记/React Server Component.md",
     "Spaces/3-Resource/操作系统",
     "Spaces/4-Archive",
