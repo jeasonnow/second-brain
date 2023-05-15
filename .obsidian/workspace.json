@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "闪念笔记/不给钱的金钱社会.md",
+                "file": "Calendar/Weekly Notes/2023-W19.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -91,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "闪念笔记/不给钱的金钱社会.md"
+                "file": "Calendar/Weekly Notes/2023-W19.md"
               }
             }
           },
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "闪念笔记/不给钱的金钱社会.md",
+                "file": "Calendar/Weekly Notes/2023-W19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "闪念笔记/不给钱的金钱社会.md",
+                "file": "Calendar/Weekly Notes/2023-W19.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "闪念笔记/不给钱的金钱社会.md",
+                "file": "Calendar/Weekly Notes/2023-W19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,6 +230,8 @@
   },
   "active": "96f3bcb4ff748bab",
   "lastOpenFiles": [
+    "Calendar/Plan & Review/长期计划.md",
+    "Calendar/Plan & Review/本月计划.md",
     "Calendar/Daily notes/2023-05-15.md",
     "闪念笔记/不给钱的金钱社会.md",
     "Computer Science/操作系统/为什么学习操作系统.md",
@@ -241,7 +243,6 @@
     "闪念笔记/心智模型是啥.md",
     "闪念笔记/无结构的知识毫无用处.md",
     "闪念笔记/提升心智模型.md",
-    "Calendar/Plan & Review/长期计划.md",
     "闪念笔记/React Server Component.md",
     "Extras/Templates/其他/思维思考模板/六顶思考帽模板.md",
     "Extras/Templates/其他/思维思考模板/康奈尔笔记法模板.md",
@@ -255,7 +256,6 @@
     "Extras/Templates/其他/mermaid模板/mermaid flow chart 模板.md",
     "Extras/Templates/其他/mermaid模板/mermaid class diagram 模板.md",
     "Extras/Templates/其他/更新日志模板.md",
-    "Extras/Templates/其他/工作流模板.md",
     "Extras/Templates/Canvas模板/精益画布 - 模板.canvas",
     "Extras/Templates/Canvas模板/思维导图 - 模板.canvas",
     "未命名.canvas",
