@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "闪念笔记/React Server Component.md",
+                "file": "Spaces/3-Resource/操作系统/教材.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -91,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "闪念笔记/React Server Component.md"
+                "file": "Spaces/3-Resource/操作系统/教材.md"
               }
             }
           },
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "闪念笔记/React Server Component.md",
+                "file": "Spaces/3-Resource/操作系统/教材.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "闪念笔记/React Server Component.md",
+                "file": "Spaces/3-Resource/操作系统/教材.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "闪念笔记/React Server Component.md",
+                "file": "Spaces/3-Resource/操作系统/教材.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,14 +228,18 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a4d1994dfc9f1870",
+  "active": "96f3bcb4ff748bab",
   "lastOpenFiles": [
+    "Spaces/3-Resource/操作系统/未命名.md",
+    "Spaces/3-Resource/操作系统/教材.md",
+    "闪念笔记/React Server Component.md",
+    "Spaces/3-Resource/操作系统",
     "Spaces/4-Archive",
     "Spaces/3-Resource",
     "Spaces/2-Area",
     "Spaces/1-Project",
-    "Spaces/4-Archive/哲学社科/心智模型.md",
-    "Spaces/4-Archive/Frontend/Relay.md",
+    "Spaces/2-Area/哲学社科/心智模型.md",
+    "Spaces/2-Area/Frontend/Relay.md",
     "闪念笔记/无结构的知识毫无用处.md",
     "闪念笔记/心智模型是啥.md",
     "闪念笔记/提升心智模型.md",
@@ -250,7 +254,6 @@
     "README.md",
     "AboutTheGarden.md",
     "Calendar/Daily notes/2023-05-12.md",
-    "闪念笔记/React Server Component.md",
     "Extras/Templates/其他/思维思考模板/六顶思考帽模板.md",
     "Extras/Templates/其他/思维思考模板/康奈尔笔记法模板.md",
     "Extras/Templates/其他/dict/chatgpt_prompts_dict.md",
@@ -258,7 +261,6 @@
     "Extras/Templates/其他/mermaid模板/mermaid stateDiagram 模板.md",
     "Extras/Templates/其他/mermaid模板/mermaid sequenceDiagram 模板.md",
     "Extras/Templates/其他/mermaid模板/mermaid pie 模板.md",
-    "Extras/Templates/其他/mermaid模板/mermaid journal 模板.md",
     "Extras/Templates/Canvas模板/精益画布 - 模板.canvas",
     "Extras/Templates/Canvas模板/思维导图 - 模板.canvas",
     "未命名.canvas",
@@ -266,12 +268,10 @@
     "Spaces/1-Project/Computer Science",
     "哲学社科/未命名.canvas",
     "哲学社科/Untitled Diagram.svg",
-    "Spaces/4-Archive/哲学社科",
+    "Spaces/2-Area/哲学社科",
     "闪念笔记",
     "心智模型",
     "Untitled Diagram.svg",
-    "Spaces/4-Archive/Frontend",
-    "Cards/未命名",
     "Extras/Media/豆瓣影音封面/p689612649.jpg",
     "Extras/Media/豆瓣影音封面/p462470694.jpg",
     "Extras/Media/豆瓣影音封面/p456666151.jpg",
