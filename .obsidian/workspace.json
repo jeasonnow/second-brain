@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "闪念笔记/计算机科学/操作系统/教育的意义.md",
+                "file": "闪念笔记/others/行动起来.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -91,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "闪念笔记/计算机科学/操作系统/教育的意义.md"
+                "file": "闪念笔记/others/行动起来.md"
               }
             }
           },
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "闪念笔记/计算机科学/操作系统/教育的意义.md",
+                "file": "闪念笔记/others/行动起来.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "闪念笔记/计算机科学/操作系统/教育的意义.md",
+                "file": "闪念笔记/others/行动起来.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "闪念笔记/计算机科学/操作系统/教育的意义.md",
+                "file": "闪念笔记/others/行动起来.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,8 +228,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a4d1994dfc9f1870",
+  "active": "96f3bcb4ff748bab",
   "lastOpenFiles": [
+    "闪念笔记/计算机科学/操作系统/教育的意义.md",
+    "闪念笔记/others/行动起来.md",
     "闪念笔记/哲学/心智模型",
     "闪念笔记/哲学",
     "闪念笔记/前端",
@@ -237,7 +239,6 @@
     "闪念笔记/计算机科学/操作系统",
     "闪念笔记/计算机科学",
     "Extras/Templates/Cards模板/Sources&Spaces卡片_标准模板.md",
-    "闪念笔记/计算机科学/操作系统/教育的意义.md",
     "Extras/Templates/Cards模板/Small Card 模板.md",
     "Spaces/2-Area/哲学社科/心智模型.md",
     "Spaces/3-Resource/操作系统/教材.md",
@@ -247,7 +248,6 @@
     "Spaces/4-Archive",
     "Spaces/3-Resource",
     "Spaces/2-Area",
-    "Spaces/1-Project",
     "Spaces/2-Area/Frontend/Relay.md",
     "闪念笔记/哲学/心智模型/无结构的知识毫无用处.md",
     "闪念笔记/哲学/心智模型/心智模型是啥.md",
