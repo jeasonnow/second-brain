@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/2-Area/哲学社科/心智模型.md",
+                "file": "闪念笔记/操作系统.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -91,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/2-Area/哲学社科/心智模型.md"
+                "file": "闪念笔记/操作系统.md"
               }
             }
           },
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/2-Area/哲学社科/心智模型.md",
+                "file": "闪念笔记/操作系统.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Spaces/2-Area/哲学社科/心智模型.md",
+                "file": "闪念笔记/操作系统.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/2-Area/哲学社科/心智模型.md",
+                "file": "闪念笔记/操作系统.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,6 +230,12 @@
   },
   "active": "a4d1994dfc9f1870",
   "lastOpenFiles": [
+    "闪念笔记/计算机科学/操作系统",
+    "闪念笔记/计算机科学",
+    "Extras/Templates/Cards模板/Sources&Spaces卡片_标准模板.md",
+    "闪念笔记/操作系统.md",
+    "Extras/Templates/Cards模板/Small Card 模板.md",
+    "Spaces/2-Area/哲学社科/心智模型.md",
     "Spaces/3-Resource/操作系统/教材.md",
     "Spaces/3-Resource/操作系统/未命名.md",
     "闪念笔记/React Server Component.md",
@@ -238,7 +244,6 @@
     "Spaces/3-Resource",
     "Spaces/2-Area",
     "Spaces/1-Project",
-    "Spaces/2-Area/哲学社科/心智模型.md",
     "Spaces/2-Area/Frontend/Relay.md",
     "闪念笔记/无结构的知识毫无用处.md",
     "闪念笔记/心智模型是啥.md",
@@ -257,10 +262,6 @@
     "Extras/Templates/其他/思维思考模板/六顶思考帽模板.md",
     "Extras/Templates/其他/思维思考模板/康奈尔笔记法模板.md",
     "Extras/Templates/其他/dict/chatgpt_prompts_dict.md",
-    "Extras/Templates/其他/mermaid模板/mermaid模板.md",
-    "Extras/Templates/其他/mermaid模板/mermaid stateDiagram 模板.md",
-    "Extras/Templates/其他/mermaid模板/mermaid sequenceDiagram 模板.md",
-    "Extras/Templates/其他/mermaid模板/mermaid pie 模板.md",
     "Extras/Templates/Canvas模板/精益画布 - 模板.canvas",
     "Extras/Templates/Canvas模板/思维导图 - 模板.canvas",
     "未命名.canvas",
@@ -270,7 +271,6 @@
     "哲学社科/Untitled Diagram.svg",
     "Spaces/2-Area/哲学社科",
     "闪念笔记",
-    "心智模型",
     "Untitled Diagram.svg",
     "Extras/Media/豆瓣影音封面/p689612649.jpg",
     "Extras/Media/豆瓣影音封面/p462470694.jpg",

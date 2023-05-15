@@ -16,6 +16,17 @@
     "pageCountType": "ByWords"
   },
   "cachedCounts": {
+    "闪念笔记/操作系统.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1684127671509,
+      "modifiedDate": 1684127671509,
+      "sizeInBytes": 0
+    },
     "闪念笔记/不给钱的金钱社会.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -85,13 +96,13 @@
     "Spaces/3-Resource/操作系统/教材.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
+      "wordCount": 76,
+      "pageCount": 0.25333333333333335,
+      "characterCount": 478,
+      "nonWhitespaceCharacterCount": 436,
       "createdDate": 1684121079828,
-      "modifiedDate": 1684121079828,
-      "sizeInBytes": 0
+      "modifiedDate": 1684121218205,
+      "sizeInBytes": 602
     },
     "Spaces/3-Resource/操作系统/未命名.md": {
       "isDirectory": false,
