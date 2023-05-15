@@ -16,60 +16,27 @@
     "pageCountType": "ByWords"
   },
   "cachedCounts": {
-    "闪念笔记/哲学/心智模型/无结构的知识毫无用处.md": {
+    "闪念笔记/计算机科学/操作系统/教育的意义.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 135,
-      "pageCount": 0.45,
-      "characterCount": 301,
-      "nonWhitespaceCharacterCount": 272,
-      "createdDate": 1683626189914,
-      "modifiedDate": 1684118184596,
-      "sizeInBytes": 575
-    },
-    "闪念笔记/哲学/心智模型/心智模型是啥.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 72,
-      "pageCount": 0.24,
-      "characterCount": 236,
-      "nonWhitespaceCharacterCount": 205,
-      "createdDate": 1683625323877,
-      "modifiedDate": 1684118173814,
-      "sizeInBytes": 376
-    },
-    "闪念笔记/哲学/心智模型/提升心智模型.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 108,
-      "pageCount": 0.36,
-      "characterCount": 362,
-      "nonWhitespaceCharacterCount": 320,
-      "createdDate": 1683625622723,
-      "modifiedDate": 1684118162346,
-      "sizeInBytes": 582
-    },
-    "闪念笔记/前端/React Server Component.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 131,
-      "pageCount": 0.43666666666666665,
-      "characterCount": 381,
-      "nonWhitespaceCharacterCount": 337,
-      "createdDate": 1683800067217,
-      "modifiedDate": 1683800245029,
-      "sizeInBytes": 637
+      "wordCount": 88,
+      "pageCount": 0.29333333333333333,
+      "characterCount": 289,
+      "nonWhitespaceCharacterCount": 269,
+      "createdDate": 1684127671509,
+      "modifiedDate": 1684127828851,
+      "sizeInBytes": 465
     },
     "闪念笔记/others/行动起来.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
+      "wordCount": 89,
+      "pageCount": 0.2966666666666667,
+      "characterCount": 241,
+      "nonWhitespaceCharacterCount": 214,
       "createdDate": 1684129312888,
-      "modifiedDate": 1684129312888,
-      "sizeInBytes": 0
+      "modifiedDate": 1684129435081,
+      "sizeInBytes": 413
     },
     "闪念笔记/others/不给钱的金钱社会.md": {
       "isDirectory": false,
@@ -82,16 +49,49 @@
       "modifiedDate": 1684114676536,
       "sizeInBytes": 257
     },
-    "闪念笔记/计算机科学/操作系统/教育的意义.md": {
+    "闪念笔记/哲学/心智模型/无结构的知识毫无用处.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 88,
-      "pageCount": 0.29333333333333333,
-      "characterCount": 289,
-      "nonWhitespaceCharacterCount": 269,
-      "createdDate": 1684127671509,
-      "modifiedDate": 1684127828851,
-      "sizeInBytes": 465
+      "wordCount": 135,
+      "pageCount": 0.45,
+      "characterCount": 301,
+      "nonWhitespaceCharacterCount": 272,
+      "createdDate": 1683626189914,
+      "modifiedDate": 1684118184596,
+      "sizeInBytes": 575
+    },
+    "闪念笔记/哲学/心智模型/提升心智模型.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 108,
+      "pageCount": 0.36,
+      "characterCount": 362,
+      "nonWhitespaceCharacterCount": 320,
+      "createdDate": 1683625622723,
+      "modifiedDate": 1684118162346,
+      "sizeInBytes": 582
+    },
+    "闪念笔记/哲学/心智模型/心智模型是啥.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 72,
+      "pageCount": 0.24,
+      "characterCount": 236,
+      "nonWhitespaceCharacterCount": 205,
+      "createdDate": 1683625323877,
+      "modifiedDate": 1684118173814,
+      "sizeInBytes": 376
+    },
+    "闪念笔记/前端/React Server Component.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 131,
+      "pageCount": 0.43666666666666665,
+      "characterCount": 381,
+      "nonWhitespaceCharacterCount": 337,
+      "createdDate": 1683800067217,
+      "modifiedDate": 1683800245029,
+      "sizeInBytes": 637
     },
     "∑ 本库 ACCESS 的文件夹入口汇总.md": {
       "isDirectory": false,
@@ -104,16 +104,16 @@
       "modifiedDate": 1681969628442,
       "sizeInBytes": 0
     },
-    "Spaces/3-Resource/操作系统/教材.md": {
+    "Spaces/About Spaces.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 76,
-      "pageCount": 0.25333333333333335,
-      "characterCount": 478,
-      "nonWhitespaceCharacterCount": 436,
-      "createdDate": 1684121079828,
-      "modifiedDate": 1684121218205,
-      "sizeInBytes": 602
+      "wordCount": 124,
+      "pageCount": 0.41333333333333333,
+      "characterCount": 1501,
+      "nonWhitespaceCharacterCount": 1266,
+      "createdDate": 1681783155158,
+      "modifiedDate": 1681783155158,
+      "sizeInBytes": 1781
     },
     "Spaces/3-Resource/操作系统/未命名.md": {
       "isDirectory": false,
@@ -126,71 +126,16 @@
       "modifiedDate": 1684121073910,
       "sizeInBytes": 0
     },
-    "Spaces/2-Area/Frontend/Relay.md": {
+    "Spaces/3-Resource/操作系统/教材.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 798,
-      "pageCount": 2.66,
-      "characterCount": 2399,
-      "nonWhitespaceCharacterCount": 2206,
-      "createdDate": 1683788469091,
-      "modifiedDate": 1683795458551,
-      "sizeInBytes": 4063
-    },
-    "Spaces/2-Area/Frontend/React.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 6,
-      "pageCount": 0.02,
-      "characterCount": 72,
-      "nonWhitespaceCharacterCount": 62,
-      "createdDate": 1683336423531,
-      "modifiedDate": 1683789515390,
-      "sizeInBytes": 72
-    },
-    "Spaces/2-Area/Frontend/深入理解 Javascript 引擎.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 1108,
-      "pageCount": 3.6933333333333334,
-      "characterCount": 3793,
-      "nonWhitespaceCharacterCount": 2998,
-      "createdDate": 1683617764577,
-      "modifiedDate": 1683788464905,
-      "sizeInBytes": 6054
-    },
-    "Spaces/2-Area/Frontend/Think Qwik.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 1109,
-      "pageCount": 3.6966666666666668,
-      "characterCount": 5100,
-      "nonWhitespaceCharacterCount": 3874,
-      "createdDate": 1683703179769,
-      "modifiedDate": 1683713072728,
-      "sizeInBytes": 7378
-    },
-    "Spaces/2-Area/Frontend/React技术原理.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 1052,
-      "pageCount": 3.506666666666667,
-      "characterCount": 3656,
-      "nonWhitespaceCharacterCount": 3169,
-      "createdDate": 1683336381827,
-      "modifiedDate": 1683788350768,
-      "sizeInBytes": 5889
-    },
-    "Spaces/2-Area/Frontend/HMR 原理.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 1090,
-      "pageCount": 3.6333333333333333,
-      "characterCount": 2631,
-      "nonWhitespaceCharacterCount": 2361,
-      "createdDate": 1682583111544,
-      "modifiedDate": 1682589239061,
-      "sizeInBytes": 4943
+      "wordCount": 76,
+      "pageCount": 0.25333333333333335,
+      "characterCount": 478,
+      "nonWhitespaceCharacterCount": 436,
+      "createdDate": 1684121079828,
+      "modifiedDate": 1684121218205,
+      "sizeInBytes": 602
     },
     "Spaces/2-Area/算法/贪心算法.md": {
       "isDirectory": false,
@@ -214,6 +159,72 @@
       "modifiedDate": 1683887148523,
       "sizeInBytes": 4352
     },
+    "Spaces/2-Area/Frontend/深入理解 Javascript 引擎.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 1108,
+      "pageCount": 3.6933333333333334,
+      "characterCount": 3793,
+      "nonWhitespaceCharacterCount": 2998,
+      "createdDate": 1683617764577,
+      "modifiedDate": 1683788464905,
+      "sizeInBytes": 6054
+    },
+    "Spaces/2-Area/Frontend/Think Qwik.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 1109,
+      "pageCount": 3.6966666666666668,
+      "characterCount": 5100,
+      "nonWhitespaceCharacterCount": 3874,
+      "createdDate": 1683703179769,
+      "modifiedDate": 1683713072728,
+      "sizeInBytes": 7378
+    },
+    "Spaces/2-Area/Frontend/Relay.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 798,
+      "pageCount": 2.66,
+      "characterCount": 2399,
+      "nonWhitespaceCharacterCount": 2206,
+      "createdDate": 1683788469091,
+      "modifiedDate": 1683795458551,
+      "sizeInBytes": 4063
+    },
+    "Spaces/2-Area/Frontend/React技术原理.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 1052,
+      "pageCount": 3.506666666666667,
+      "characterCount": 3656,
+      "nonWhitespaceCharacterCount": 3169,
+      "createdDate": 1683336381827,
+      "modifiedDate": 1683788350768,
+      "sizeInBytes": 5889
+    },
+    "Spaces/2-Area/Frontend/React.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 6,
+      "pageCount": 0.02,
+      "characterCount": 72,
+      "nonWhitespaceCharacterCount": 62,
+      "createdDate": 1683336423531,
+      "modifiedDate": 1683789515390,
+      "sizeInBytes": 72
+    },
+    "Spaces/2-Area/Frontend/HMR 原理.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 1090,
+      "pageCount": 3.6333333333333333,
+      "characterCount": 2631,
+      "nonWhitespaceCharacterCount": 2361,
+      "createdDate": 1682583111544,
+      "modifiedDate": 1682589239061,
+      "sizeInBytes": 4943
+    },
     "Spaces/1-Project/Computer Science/操作系统/为什么学习操作系统.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -224,50 +235,6 @@
       "createdDate": 1683770424535,
       "modifiedDate": 1684070675557,
       "sizeInBytes": 2251
-    },
-    "Spaces/About Spaces.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 124,
-      "pageCount": 0.41333333333333333,
-      "characterCount": 1501,
-      "nonWhitespaceCharacterCount": 1266,
-      "createdDate": 1681783155158,
-      "modifiedDate": 1681783155158,
-      "sizeInBytes": 1781
-    },
-    "Sources/Apps/SizeUp.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 226,
-      "pageCount": 0.7533333333333333,
-      "characterCount": 362,
-      "nonWhitespaceCharacterCount": 324,
-      "createdDate": 1681897893695,
-      "modifiedDate": 1681897948316,
-      "sizeInBytes": 816
-    },
-    "Sources/Apps/Downie.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 110,
-      "pageCount": 0.36666666666666664,
-      "characterCount": 694,
-      "nonWhitespaceCharacterCount": 623,
-      "createdDate": 1681897521969,
-      "modifiedDate": 1681897562990,
-      "sizeInBytes": 928
-    },
-    "Sources/Apps/Alfred.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 415,
-      "pageCount": 1.3833333333333333,
-      "characterCount": 773,
-      "nonWhitespaceCharacterCount": 734,
-      "createdDate": 1681897963793,
-      "modifiedDate": 1681900141439,
-      "sizeInBytes": 1669
     },
     "Sources/Books/微信读书同步/计算机/领域驱动设计（Thoughtworks洞见）.md": {
       "isDirectory": false,
@@ -511,6 +478,39 @@
       "modifiedDate": 1681955544648,
       "sizeInBytes": 1947
     },
+    "Sources/Apps/SizeUp.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 226,
+      "pageCount": 0.7533333333333333,
+      "characterCount": 362,
+      "nonWhitespaceCharacterCount": 324,
+      "createdDate": 1681897893695,
+      "modifiedDate": 1681897948316,
+      "sizeInBytes": 816
+    },
+    "Sources/Apps/Downie.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 110,
+      "pageCount": 0.36666666666666664,
+      "characterCount": 694,
+      "nonWhitespaceCharacterCount": 623,
+      "createdDate": 1681897521969,
+      "modifiedDate": 1681897562990,
+      "sizeInBytes": 928
+    },
+    "Sources/Apps/Alfred.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 415,
+      "pageCount": 1.3833333333333333,
+      "characterCount": 773,
+      "nonWhitespaceCharacterCount": 734,
+      "createdDate": 1681897963793,
+      "modifiedDate": 1681900141439,
+      "sizeInBytes": 1669
+    },
     "Sources/About Sources.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -543,17 +543,6 @@
       "createdDate": 1681783154837,
       "modifiedDate": 1681783154838,
       "sizeInBytes": 862
-    },
-    "Extras/About Extras.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 27,
-      "pageCount": 0.09,
-      "characterCount": 409,
-      "nonWhitespaceCharacterCount": 338,
-      "createdDate": 1681783151882,
-      "modifiedDate": 1681783151882,
-      "sizeInBytes": 453
     },
     "Extras/Templates/其他/领域入门模板.md": {
       "isDirectory": false,
@@ -819,6 +808,17 @@
       "modifiedDate": 1682040998375,
       "sizeInBytes": 85
     },
+    "Extras/About Extras.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 27,
+      "pageCount": 0.09,
+      "characterCount": 409,
+      "nonWhitespaceCharacterCount": 338,
+      "createdDate": 1681783151882,
+      "modifiedDate": 1681783151882,
+      "sizeInBytes": 453
+    },
     "Cards/费曼学习法.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -1009,13 +1009,13 @@
     "Calendar/Daily notes/2023-05-15.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 91,
-      "pageCount": 0.30333333333333334,
-      "characterCount": 271,
-      "nonWhitespaceCharacterCount": 202,
+      "wordCount": 106,
+      "pageCount": 0.35333333333333333,
+      "characterCount": 302,
+      "nonWhitespaceCharacterCount": 223,
       "createdDate": 1684114408683,
-      "modifiedDate": 1684117370567,
-      "sizeInBytes": 459
+      "modifiedDate": 1684134815977,
+      "sizeInBytes": 520
     },
     "Calendar/Daily notes/2023-05-12.md": {
       "isDirectory": false,

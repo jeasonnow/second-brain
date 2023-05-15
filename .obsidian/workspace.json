@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "闪念笔记/others/行动起来.md",
+                "file": "Calendar/Daily notes/2023-05-15.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -91,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "闪念笔记/others/行动起来.md"
+                "file": "Calendar/Daily notes/2023-05-15.md"
               }
             }
           },
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "闪念笔记/others/行动起来.md",
+                "file": "Calendar/Daily notes/2023-05-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "闪念笔记/others/行动起来.md",
+                "file": "Calendar/Daily notes/2023-05-15.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "闪念笔记/others/行动起来.md",
+                "file": "Calendar/Daily notes/2023-05-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,8 +230,10 @@
   },
   "active": "96f3bcb4ff748bab",
   "lastOpenFiles": [
-    "闪念笔记/计算机科学/操作系统/教育的意义.md",
+    "Calendar/Daily notes/2023-05-12.md",
+    "Calendar/Daily notes/2023-05-15.md",
     "闪念笔记/others/行动起来.md",
+    "闪念笔记/计算机科学/操作系统/教育的意义.md",
     "闪念笔记/哲学/心智模型",
     "闪念笔记/哲学",
     "闪念笔记/前端",
@@ -252,7 +254,6 @@
     "闪念笔记/哲学/心智模型/无结构的知识毫无用处.md",
     "闪念笔记/哲学/心智模型/心智模型是啥.md",
     "闪念笔记/哲学/心智模型/提升心智模型.md",
-    "Calendar/Daily notes/2023-05-15.md",
     "Calendar/Weekly Notes/2023-W20.md",
     "Calendar/Weekly Notes/2023-W19.md",
     "Extras/Templates/Calendar模板/Weekly Notes.md",
@@ -262,7 +263,6 @@
     "Spaces/1-Project/Computer Science/操作系统/为什么学习操作系统.md",
     "README.md",
     "AboutTheGarden.md",
-    "Calendar/Daily notes/2023-05-12.md",
     "Extras/Templates/其他/思维思考模板/六顶思考帽模板.md",
     "Extras/Templates/其他/思维思考模板/康奈尔笔记法模板.md",
     "Extras/Templates/其他/dict/chatgpt_prompts_dict.md",
