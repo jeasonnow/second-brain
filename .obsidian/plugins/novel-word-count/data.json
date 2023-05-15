@@ -16,40 +16,7 @@
     "pageCountType": "ByWords"
   },
   "cachedCounts": {
-    "闪念笔记/操作系统.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "createdDate": 1684127671509,
-      "modifiedDate": 1684127671509,
-      "sizeInBytes": 0
-    },
-    "闪念笔记/不给钱的金钱社会.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 59,
-      "pageCount": 0.19666666666666666,
-      "characterCount": 149,
-      "nonWhitespaceCharacterCount": 130,
-      "createdDate": 1684114542099,
-      "modifiedDate": 1684114676536,
-      "sizeInBytes": 257
-    },
-    "闪念笔记/React Server Component.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 131,
-      "pageCount": 0.43666666666666665,
-      "characterCount": 381,
-      "nonWhitespaceCharacterCount": 337,
-      "createdDate": 1683800067217,
-      "modifiedDate": 1683800245029,
-      "sizeInBytes": 637
-    },
-    "闪念笔记/无结构的知识毫无用处.md": {
+    "闪念笔记/哲学/心智模型/无结构的知识毫无用处.md": {
       "isDirectory": false,
       "noteCount": 1,
       "wordCount": 135,
@@ -60,7 +27,18 @@
       "modifiedDate": 1684118184596,
       "sizeInBytes": 575
     },
-    "闪念笔记/提升心智模型.md": {
+    "闪念笔记/哲学/心智模型/心智模型是啥.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 72,
+      "pageCount": 0.24,
+      "characterCount": 236,
+      "nonWhitespaceCharacterCount": 205,
+      "createdDate": 1683625323877,
+      "modifiedDate": 1684118173814,
+      "sizeInBytes": 376
+    },
+    "闪念笔记/哲学/心智模型/提升心智模型.md": {
       "isDirectory": false,
       "noteCount": 1,
       "wordCount": 108,
@@ -71,16 +49,38 @@
       "modifiedDate": 1684118162346,
       "sizeInBytes": 582
     },
-    "闪念笔记/心智模型是啥.md": {
+    "闪念笔记/前端/React Server Component.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 72,
-      "pageCount": 0.24,
-      "characterCount": 236,
-      "nonWhitespaceCharacterCount": 205,
-      "createdDate": 1683625323877,
-      "modifiedDate": 1684118173814,
-      "sizeInBytes": 376
+      "wordCount": 131,
+      "pageCount": 0.43666666666666665,
+      "characterCount": 381,
+      "nonWhitespaceCharacterCount": 337,
+      "createdDate": 1683800067217,
+      "modifiedDate": 1683800245029,
+      "sizeInBytes": 637
+    },
+    "闪念笔记/others/不给钱的金钱社会.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 59,
+      "pageCount": 0.19666666666666666,
+      "characterCount": 149,
+      "nonWhitespaceCharacterCount": 130,
+      "createdDate": 1684114542099,
+      "modifiedDate": 1684114676536,
+      "sizeInBytes": 257
+    },
+    "闪念笔记/计算机科学/操作系统/教育的意义.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 88,
+      "pageCount": 0.29333333333333333,
+      "characterCount": 289,
+      "nonWhitespaceCharacterCount": 269,
+      "createdDate": 1684127671509,
+      "modifiedDate": 1684127828851,
+      "sizeInBytes": 465
     },
     "∑ 本库 ACCESS 的文件夹入口汇总.md": {
       "isDirectory": false,

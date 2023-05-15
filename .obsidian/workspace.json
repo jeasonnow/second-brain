@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "闪念笔记/操作系统.md",
+                "file": "闪念笔记/计算机科学/操作系统/教育的意义.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -91,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "闪念笔记/操作系统.md"
+                "file": "闪念笔记/计算机科学/操作系统/教育的意义.md"
               }
             }
           },
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "闪念笔记/操作系统.md",
+                "file": "闪念笔记/计算机科学/操作系统/教育的意义.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "闪念笔记/操作系统.md",
+                "file": "闪念笔记/计算机科学/操作系统/教育的意义.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "闪念笔记/操作系统.md",
+                "file": "闪念笔记/计算机科学/操作系统/教育的意义.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,31 +230,35 @@
   },
   "active": "a4d1994dfc9f1870",
   "lastOpenFiles": [
+    "闪念笔记/哲学/心智模型",
+    "闪念笔记/哲学",
+    "闪念笔记/前端",
+    "闪念笔记/others",
     "闪念笔记/计算机科学/操作系统",
     "闪念笔记/计算机科学",
     "Extras/Templates/Cards模板/Sources&Spaces卡片_标准模板.md",
-    "闪念笔记/操作系统.md",
+    "闪念笔记/计算机科学/操作系统/教育的意义.md",
     "Extras/Templates/Cards模板/Small Card 模板.md",
     "Spaces/2-Area/哲学社科/心智模型.md",
     "Spaces/3-Resource/操作系统/教材.md",
     "Spaces/3-Resource/操作系统/未命名.md",
-    "闪念笔记/React Server Component.md",
+    "闪念笔记/前端/React Server Component.md",
     "Spaces/3-Resource/操作系统",
     "Spaces/4-Archive",
     "Spaces/3-Resource",
     "Spaces/2-Area",
     "Spaces/1-Project",
     "Spaces/2-Area/Frontend/Relay.md",
-    "闪念笔记/无结构的知识毫无用处.md",
-    "闪念笔记/心智模型是啥.md",
-    "闪念笔记/提升心智模型.md",
+    "闪念笔记/哲学/心智模型/无结构的知识毫无用处.md",
+    "闪念笔记/哲学/心智模型/心智模型是啥.md",
+    "闪念笔记/哲学/心智模型/提升心智模型.md",
     "Calendar/Daily notes/2023-05-15.md",
     "Calendar/Weekly Notes/2023-W20.md",
     "Calendar/Weekly Notes/2023-W19.md",
     "Extras/Templates/Calendar模板/Weekly Notes.md",
     "Calendar/Plan & Review/长期计划.md",
     "Calendar/Plan & Review/本月计划.md",
-    "闪念笔记/不给钱的金钱社会.md",
+    "闪念笔记/others/不给钱的金钱社会.md",
     "Spaces/1-Project/Computer Science/操作系统/为什么学习操作系统.md",
     "README.md",
     "AboutTheGarden.md",
@@ -265,12 +269,8 @@
     "Extras/Templates/Canvas模板/精益画布 - 模板.canvas",
     "Extras/Templates/Canvas模板/思维导图 - 模板.canvas",
     "未命名.canvas",
-    "Spaces/1-Project/Computer Science/操作系统",
-    "Spaces/1-Project/Computer Science",
     "哲学社科/未命名.canvas",
     "哲学社科/Untitled Diagram.svg",
-    "Spaces/2-Area/哲学社科",
-    "闪念笔记",
     "Untitled Diagram.svg",
     "Extras/Media/豆瓣影音封面/p689612649.jpg",
     "Extras/Media/豆瓣影音封面/p462470694.jpg",
