@@ -747,11 +747,11 @@
       "noteCount": 1,
       "wordCount": 9,
       "pageCount": 0.03,
-      "characterCount": 701,
-      "nonWhitespaceCharacterCount": 585,
+      "characterCount": 796,
+      "nonWhitespaceCharacterCount": 677,
       "createdDate": 1683615041015,
-      "modifiedDate": 1683787505309,
-      "sizeInBytes": 701
+      "modifiedDate": 1684116713832,
+      "sizeInBytes": 796
     },
     "Extras/Templates/Calendar模板/Daily notes模板.md": {
       "isDirectory": false,
@@ -918,16 +918,27 @@
       "modifiedDate": 1681783151766,
       "sizeInBytes": 2047
     },
+    "Calendar/Weekly Notes/2023-W20.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 9,
+      "pageCount": 0.03,
+      "characterCount": 796,
+      "nonWhitespaceCharacterCount": 677,
+      "createdDate": 1684116728048,
+      "modifiedDate": 1684116728048,
+      "sizeInBytes": 796
+    },
     "Calendar/Weekly Notes/2023-W19.md": {
       "isDirectory": false,
       "noteCount": 1,
       "wordCount": 17,
       "pageCount": 0.056666666666666664,
-      "characterCount": 778,
-      "nonWhitespaceCharacterCount": 650,
+      "characterCount": 873,
+      "nonWhitespaceCharacterCount": 742,
       "createdDate": 1683617333641,
-      "modifiedDate": 1683800494241,
-      "sizeInBytes": 778
+      "modifiedDate": 1684116689695,
+      "sizeInBytes": 873
     },
     "Calendar/Plan & Review/长期计划.md": {
       "isDirectory": false,
@@ -954,13 +965,13 @@
     "Calendar/Daily notes/2023-05-15.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 23,
-      "pageCount": 0.07666666666666666,
-      "characterCount": 104,
-      "nonWhitespaceCharacterCount": 79,
+      "wordCount": 44,
+      "pageCount": 0.14666666666666667,
+      "characterCount": 146,
+      "nonWhitespaceCharacterCount": 112,
       "createdDate": 1684114408683,
-      "modifiedDate": 1684114441535,
-      "sizeInBytes": 152
+      "modifiedDate": 1684116179073,
+      "sizeInBytes": 236
     },
     "Calendar/Daily notes/2023-05-12.md": {
       "isDirectory": false,
