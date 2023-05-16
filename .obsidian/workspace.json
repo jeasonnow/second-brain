@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calendar/Daily notes/2023-05-15.md",
+                "file": "Spaces/2-Area/Frontend/Think Qwik.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -91,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calendar/Daily notes/2023-05-15.md"
+                "file": "Spaces/2-Area/Frontend/Think Qwik.md"
               }
             }
           },
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calendar/Daily notes/2023-05-15.md",
+                "file": "Spaces/2-Area/Frontend/Think Qwik.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Calendar/Daily notes/2023-05-15.md",
+                "file": "Spaces/2-Area/Frontend/Think Qwik.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calendar/Daily notes/2023-05-15.md",
+                "file": "Spaces/2-Area/Frontend/Think Qwik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,9 +230,14 @@
   },
   "active": "96f3bcb4ff748bab",
   "lastOpenFiles": [
+    "Spaces/2-Area/Frontend/Relay.md",
+    "Spaces/2-Area/Frontend/React技术原理.md",
+    "Spaces/2-Area/Frontend/React.md",
+    "Spaces/2-Area/Frontend/HMR 原理.md",
+    "Spaces/2-Area/Frontend/深入理解 Javascript 引擎.md",
+    "Calendar/Daily notes/2023-05-15.md",
     "Calendar/Weekly Notes/2023-W20.md",
     "Calendar/Weekly Notes/2023-W19.md",
-    "Calendar/Daily notes/2023-05-15.md",
     "Spaces/3-Resource/日常思考/一个优秀的 Bug 应该是怎样的？.md",
     "Spaces/3-Resource/日常思考",
     "Calendar/Daily notes/2023-05-12.md",
@@ -253,7 +258,6 @@
     "Spaces/3-Resource/操作系统",
     "Spaces/4-Archive",
     "Spaces/3-Resource",
-    "Spaces/2-Area/Frontend/Relay.md",
     "闪念笔记/哲学/心智模型/无结构的知识毫无用处.md",
     "闪念笔记/哲学/心智模型/心智模型是啥.md",
     "闪念笔记/哲学/心智模型/提升心智模型.md",
@@ -262,10 +266,6 @@
     "Calendar/Plan & Review/本月计划.md",
     "闪念笔记/others/不给钱的金钱社会.md",
     "Spaces/1-Project/Computer Science/操作系统/为什么学习操作系统.md",
-    "README.md",
-    "AboutTheGarden.md",
-    "Extras/Templates/其他/思维思考模板/六顶思考帽模板.md",
-    "Extras/Templates/其他/思维思考模板/康奈尔笔记法模板.md",
     "Extras/Templates/Canvas模板/精益画布 - 模板.canvas",
     "Extras/Templates/Canvas模板/思维导图 - 模板.canvas",
     "未命名.canvas",
