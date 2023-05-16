@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/2-Area/Frontend/Think Qwik.md",
+                "file": "Spaces/2-Area/算法/贪心算法.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -91,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/2-Area/Frontend/Think Qwik.md"
+                "file": "Spaces/2-Area/算法/贪心算法.md"
               }
             }
           },
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/2-Area/Frontend/Think Qwik.md",
+                "file": "Spaces/2-Area/算法/贪心算法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Spaces/2-Area/Frontend/Think Qwik.md",
+                "file": "Spaces/2-Area/算法/贪心算法.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/2-Area/Frontend/Think Qwik.md",
+                "file": "Spaces/2-Area/算法/贪心算法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,6 +230,7 @@
   },
   "active": "96f3bcb4ff748bab",
   "lastOpenFiles": [
+    "Spaces/2-Area/Frontend/Think Qwik.md",
     "Spaces/2-Area/Frontend/Relay.md",
     "Spaces/2-Area/Frontend/React技术原理.md",
     "Spaces/2-Area/Frontend/React.md",
@@ -265,7 +266,6 @@
     "Calendar/Plan & Review/长期计划.md",
     "Calendar/Plan & Review/本月计划.md",
     "闪念笔记/others/不给钱的金钱社会.md",
-    "Spaces/1-Project/Computer Science/操作系统/为什么学习操作系统.md",
     "Extras/Templates/Canvas模板/精益画布 - 模板.canvas",
     "Extras/Templates/Canvas模板/思维导图 - 模板.canvas",
     "未命名.canvas",
