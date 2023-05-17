@@ -118,13 +118,13 @@
     "Spaces/3-Resource/日常思考/一个优秀的 Bug 应该是怎样的？.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
+      "wordCount": 1025,
+      "pageCount": 3.4166666666666665,
+      "characterCount": 1439,
+      "nonWhitespaceCharacterCount": 1340,
       "createdDate": 1684135531200,
-      "modifiedDate": 1684135531200,
-      "sizeInBytes": 0
+      "modifiedDate": 1684137661514,
+      "sizeInBytes": 3621
     },
     "Spaces/3-Resource/操作系统/未命名.md": {
       "isDirectory": false,
@@ -1017,16 +1017,27 @@
       "modifiedDate": 1683683811150,
       "sizeInBytes": 357
     },
+    "Calendar/Daily notes/2023-05-17.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 8,
+      "pageCount": 0.02666666666666667,
+      "characterCount": 69,
+      "nonWhitespaceCharacterCount": 54,
+      "createdDate": 1684285865656,
+      "modifiedDate": 1684285865656,
+      "sizeInBytes": 85
+    },
     "Calendar/Daily notes/2023-05-15.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 107,
-      "pageCount": 0.3566666666666667,
-      "characterCount": 308,
-      "nonWhitespaceCharacterCount": 229,
+      "wordCount": 99,
+      "pageCount": 0.33,
+      "characterCount": 289,
+      "nonWhitespaceCharacterCount": 221,
       "createdDate": 1684114408683,
-      "modifiedDate": 1684134942442,
-      "sizeInBytes": 526
+      "modifiedDate": 1684141230143,
+      "sizeInBytes": 491
     },
     "Calendar/Daily notes/2023-05-12.md": {
       "isDirectory": false,
@@ -1042,13 +1053,13 @@
     "Calendar/Daily notes/2023-05-11.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 68,
-      "pageCount": 0.22666666666666666,
-      "characterCount": 314,
-      "nonWhitespaceCharacterCount": 248,
+      "wordCount": 71,
+      "pageCount": 0.23666666666666666,
+      "characterCount": 327,
+      "nonWhitespaceCharacterCount": 260,
       "createdDate": 1683771793230,
-      "modifiedDate": 1683800330976,
-      "sizeInBytes": 442
+      "modifiedDate": 1684234468534,
+      "sizeInBytes": 457
     },
     "Calendar/Daily notes/2023-05-10.md": {
       "isDirectory": false,

@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calendar/Weekly Notes/2023-W19.md",
-                "mode": "preview",
+                "file": "Calendar/Daily notes/2023-05-17.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -91,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calendar/Weekly Notes/2023-W19.md"
+                "file": "Calendar/Daily notes/2023-05-17.md"
               }
             }
           },
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calendar/Weekly Notes/2023-W19.md",
+                "file": "Calendar/Daily notes/2023-05-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Calendar/Weekly Notes/2023-W19.md",
+                "file": "Calendar/Daily notes/2023-05-17.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calendar/Weekly Notes/2023-W19.md",
+                "file": "Calendar/Daily notes/2023-05-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,6 +230,8 @@
   },
   "active": "96f3bcb4ff748bab",
   "lastOpenFiles": [
+    "Calendar/Weekly Notes/2023-W19.md",
+    "Calendar/Daily notes/2023-05-17.md",
     "Calendar/Weekly Notes/2023-W20.md",
     "Calendar/Plan & Review/本月计划.md",
     "Calendar/Daily notes/2023-05-15.md",
@@ -240,7 +242,6 @@
     "Spaces/2-Area/Frontend/React.md",
     "Spaces/2-Area/Frontend/HMR 原理.md",
     "Spaces/2-Area/Frontend/深入理解 Javascript 引擎.md",
-    "Calendar/Weekly Notes/2023-W19.md",
     "Spaces/3-Resource/日常思考/一个优秀的 Bug 应该是怎样的？.md",
     "Spaces/3-Resource/日常思考",
     "Calendar/Daily notes/2023-05-12.md",
@@ -265,7 +266,6 @@
     "闪念笔记/哲学/心智模型/心智模型是啥.md",
     "闪念笔记/哲学/心智模型/提升心智模型.md",
     "Extras/Templates/Calendar模板/Weekly Notes.md",
-    "Calendar/Plan & Review/长期计划.md",
     "Extras/Templates/Canvas模板/精益画布 - 模板.canvas",
     "Extras/Templates/Canvas模板/思维导图 - 模板.canvas",
     "未命名.canvas",
