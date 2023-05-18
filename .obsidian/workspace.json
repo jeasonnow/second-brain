@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sources/Books/微信读书同步/政治军事/毛泽东选集（全四卷）.md",
+                "file": "Calendar/Daily notes/2023-05-18.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -91,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sources/Books/微信读书同步/政治军事/毛泽东选集（全四卷）.md"
+                "file": "Calendar/Daily notes/2023-05-18.md"
               }
             }
           },
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sources/Books/微信读书同步/政治军事/毛泽东选集（全四卷）.md",
+                "file": "Calendar/Daily notes/2023-05-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Sources/Books/微信读书同步/政治军事/毛泽东选集（全四卷）.md",
+                "file": "Calendar/Daily notes/2023-05-18.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sources/Books/微信读书同步/政治军事/毛泽东选集（全四卷）.md",
+                "file": "Calendar/Daily notes/2023-05-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,6 +230,7 @@
   },
   "active": "96f3bcb4ff748bab",
   "lastOpenFiles": [
+    "Sources/Books/微信读书同步/政治军事/毛泽东选集（全四卷）.md",
     "Sources/Books/微信读书同步/哲学宗教/资本论（超值白金版）.md",
     "Sources/Books/微信读书同步/哲学宗教/查拉图斯特拉如是说.md",
     "Sources/Books/微信读书同步/艺术/欧美流行音乐简史.md",
@@ -262,7 +263,6 @@
     "Extras/Templates/Cards模板/Small Card 模板.md",
     "Spaces/2-Area/哲学社科/心智模型.md",
     "Spaces/3-Resource/操作系统/教材.md",
-    "Spaces/3-Resource/操作系统/未命名.md",
     "Spaces/3-Resource/操作系统",
     "Spaces/4-Archive",
     "Spaces/3-Resource",
