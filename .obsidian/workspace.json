@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calendar/Daily notes/2023-05-18.md",
+                "file": "Sources/Books/微信读书同步/政治军事/毛泽东选集（全四卷）.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -91,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calendar/Daily notes/2023-05-18.md"
+                "file": "Sources/Books/微信读书同步/政治军事/毛泽东选集（全四卷）.md"
               }
             }
           },
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calendar/Daily notes/2023-05-18.md",
+                "file": "Sources/Books/微信读书同步/政治军事/毛泽东选集（全四卷）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Calendar/Daily notes/2023-05-18.md",
+                "file": "Sources/Books/微信读书同步/政治军事/毛泽东选集（全四卷）.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calendar/Daily notes/2023-05-18.md",
+                "file": "Sources/Books/微信读书同步/政治军事/毛泽东选集（全四卷）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,8 +230,12 @@
   },
   "active": "96f3bcb4ff748bab",
   "lastOpenFiles": [
-    "Calendar/Daily notes/2023-05-17.md",
+    "Sources/Books/微信读书同步/哲学宗教/资本论（超值白金版）.md",
+    "Sources/Books/微信读书同步/哲学宗教/查拉图斯特拉如是说.md",
+    "Sources/Books/微信读书同步/艺术/欧美流行音乐简史.md",
+    "Sources/Books/微信读书同步/心理/认知觉醒：开启自我改变的原动力.md",
     "Calendar/Daily notes/2023-05-18.md",
+    "Calendar/Daily notes/2023-05-17.md",
     "Calendar/Weekly Notes/2023-W19.md",
     "Calendar/Weekly Notes/2023-W20.md",
     "Calendar/Plan & Review/本月计划.md",
@@ -259,13 +263,9 @@
     "Spaces/2-Area/哲学社科/心智模型.md",
     "Spaces/3-Resource/操作系统/教材.md",
     "Spaces/3-Resource/操作系统/未命名.md",
-    "闪念笔记/前端/React Server Component.md",
     "Spaces/3-Resource/操作系统",
     "Spaces/4-Archive",
     "Spaces/3-Resource",
-    "闪念笔记/哲学/心智模型/无结构的知识毫无用处.md",
-    "闪念笔记/哲学/心智模型/心智模型是啥.md",
-    "闪念笔记/哲学/心智模型/提升心智模型.md",
     "Extras/Templates/Canvas模板/精益画布 - 模板.canvas",
     "Extras/Templates/Canvas模板/思维导图 - 模板.canvas",
     "未命名.canvas",
