@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "闪念笔记/计算机科学/操作系统/操作系统的基础组成-进程.md",
+                "file": "Calendar/Daily notes/2023-05-19.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "闪念笔记/计算机科学/操作系统/操作系统的基础组成-进程.md"
+                "file": "Calendar/Daily notes/2023-05-19.md"
               }
             }
           },
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "闪念笔记/计算机科学/操作系统/操作系统的基础组成-进程.md",
+                "file": "Calendar/Daily notes/2023-05-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "闪念笔记/计算机科学/操作系统/操作系统的基础组成-进程.md",
+                "file": "Calendar/Daily notes/2023-05-19.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -162,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "闪念笔记/计算机科学/操作系统/操作系统的基础组成-进程.md",
+                "file": "Calendar/Daily notes/2023-05-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,7 +241,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "401ecf6c95e31916",
+  "active": "96f3bcb4ff748bab",
   "lastOpenFiles": [
     "闪念笔记/计算机科学/操作系统/操作系统是什么.md",
     "闪念笔记/计算机科学/操作系统/抽象：进程.md",
