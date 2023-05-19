@@ -151,7 +151,7 @@
                   "linkStrength": 1,
                   "linkDistance": 250,
                   "scale": 0.2268817050419765,
-                  "close": true
+                  "close": false
                 }
               }
             }
@@ -242,16 +242,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "df8e7d5d081bec8b",
+  "active": "401ecf6c95e31916",
   "lastOpenFiles": [
-    "闪念笔记/计算机科学/操作系统/操作系统的核心是什么.md",
-    "闪念笔记/计算机科学/操作系统/抽象：进程.md",
     "闪念笔记/计算机科学/操作系统/操作系统是什么.md",
-    "闪念笔记/计算机科学/操作系统/操作系统的基础组成-进程.md",
+    "闪念笔记/计算机科学/操作系统/抽象：进程.md",
+    "闪念笔记/计算机科学/操作系统/操作系统.md",
     "闪念笔记/计算机科学/操作系统/教育的意义.md",
+    "闪念笔记/计算机科学/操作系统/操作系统的基础组成-进程.md",
+    "闪念笔记/计算机科学/操作系统/操作系统的核心是什么.md",
     "Calendar/Daily notes/2023-05-19.md",
     "Extras/Templates/Cards模板/Card卡片_标准模板.md",
-    "闪念笔记/计算机科学/操作系统/操作系统.md",
     "Extras/Templates/Cards模板/Small Card 模板.md",
     "Calendar/Daily notes/2023-05-18.md",
     "Sources/Books/微信读书同步/政治军事/毛泽东选集（全四卷）.md",
