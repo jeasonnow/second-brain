@@ -415,13 +415,13 @@
     "Sources/Books/微信读书同步/心理/认知觉醒：开启自我改变的原动力.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 5063,
-      "pageCount": 16.876666666666665,
-      "characterCount": 9417,
-      "nonWhitespaceCharacterCount": 8122,
+      "wordCount": 7136,
+      "pageCount": 23.786666666666665,
+      "characterCount": 13082,
+      "nonWhitespaceCharacterCount": 11376,
       "createdDate": 1682573863475,
-      "modifiedDate": 1683684162258,
-      "sizeInBytes": 19635
+      "modifiedDate": 1684378906944,
+      "sizeInBytes": 27459
     },
     "Sources/Books/微信读书同步/哲学宗教/资本论（超值白金版）.md": {
       "isDirectory": false,
@@ -1017,16 +1017,27 @@
       "modifiedDate": 1683683811150,
       "sizeInBytes": 357
     },
-    "Calendar/Daily notes/2023-05-18.md": {
+    "Calendar/Daily notes/2023-05-19.md": {
       "isDirectory": false,
       "noteCount": 1,
       "wordCount": 8,
       "pageCount": 0.02666666666666667,
       "characterCount": 69,
       "nonWhitespaceCharacterCount": 54,
-      "createdDate": 1684378898081,
-      "modifiedDate": 1684378898081,
+      "createdDate": 1684460353790,
+      "modifiedDate": 1684460353790,
       "sizeInBytes": 85
+    },
+    "Calendar/Daily notes/2023-05-18.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 78,
+      "pageCount": 0.26,
+      "characterCount": 240,
+      "nonWhitespaceCharacterCount": 180,
+      "createdDate": 1684378898081,
+      "modifiedDate": 1684460351030,
+      "sizeInBytes": 396
     },
     "Calendar/Daily notes/2023-05-17.md": {
       "isDirectory": false,
