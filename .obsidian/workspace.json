@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calendar/Daily notes/2023-05-19.md",
+                "file": "闪念笔记/计算机科学/操作系统/操作系统的基础组成-进程.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "df8e7d5d081bec8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "闪念笔记/计算机科学/操作系统/操作系统的基础组成-进程.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calendar/Daily notes/2023-05-19.md"
+                "file": "闪念笔记/计算机科学/操作系统/操作系统的基础组成-进程.md"
               }
             }
           },
@@ -101,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calendar/Daily notes/2023-05-19.md",
+                "file": "闪念笔记/计算机科学/操作系统/操作系统的基础组成-进程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +127,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Calendar/Daily notes/2023-05-19.md",
+                "file": "闪念笔记/计算机科学/操作系统/操作系统的基础组成-进程.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calendar/Daily notes/2023-05-19.md",
+                "file": "闪念笔记/计算机科学/操作系统/操作系统的基础组成-进程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,15 +242,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "96f3bcb4ff748bab",
+  "active": "df8e7d5d081bec8b",
   "lastOpenFiles": [
+    "闪念笔记/计算机科学/操作系统/操作系统的核心是什么.md",
+    "闪念笔记/计算机科学/操作系统/抽象：进程.md",
+    "闪念笔记/计算机科学/操作系统/操作系统是什么.md",
+    "闪念笔记/计算机科学/操作系统/操作系统的基础组成-进程.md",
+    "闪念笔记/计算机科学/操作系统/教育的意义.md",
+    "Calendar/Daily notes/2023-05-19.md",
     "Extras/Templates/Cards模板/Card卡片_标准模板.md",
     "闪念笔记/计算机科学/操作系统/操作系统.md",
-    "闪念笔记/计算机科学/操作系统/教育的意义.md",
-    "闪念笔记/计算机科学/操作系统/操作系统是什么.md",
-    "闪念笔记/计算机科学/操作系统/操作系统的核心是什么.md",
     "Extras/Templates/Cards模板/Small Card 模板.md",
-    "Calendar/Daily notes/2023-05-19.md",
     "Calendar/Daily notes/2023-05-18.md",
     "Sources/Books/微信读书同步/政治军事/毛泽东选集（全四卷）.md",
     "Sources/Books/微信读书同步/哲学宗教/资本论（超值白金版）.md",
@@ -254,8 +270,6 @@
     "Spaces/2-Area/Frontend/React技术原理.md",
     "Spaces/2-Area/Frontend/React.md",
     "Spaces/2-Area/Frontend/HMR 原理.md",
-    "Spaces/2-Area/Frontend/深入理解 Javascript 引擎.md",
-    "Spaces/3-Resource/日常思考/一个优秀的 Bug 应该是怎样的？.md",
     "Spaces/3-Resource/日常思考",
     "闪念笔记/哲学/心智模型",
     "闪念笔记/哲学",
