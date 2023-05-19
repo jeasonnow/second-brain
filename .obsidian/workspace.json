@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "闪念笔记/计算机科学/操作系统/操作系统的核心是什么.md",
+                "file": "闪念笔记/计算机科学/操作系统/教育的意义.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -91,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "闪念笔记/计算机科学/操作系统/操作系统的核心是什么.md"
+                "file": "闪念笔记/计算机科学/操作系统/教育的意义.md"
               }
             }
           },
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "闪念笔记/计算机科学/操作系统/操作系统的核心是什么.md",
+                "file": "闪念笔记/计算机科学/操作系统/教育的意义.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "闪念笔记/计算机科学/操作系统/操作系统的核心是什么.md",
+                "file": "闪念笔记/计算机科学/操作系统/教育的意义.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "闪念笔记/计算机科学/操作系统/操作系统的核心是什么.md",
+                "file": "闪念笔记/计算机科学/操作系统/教育的意义.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,9 +230,12 @@
   },
   "active": "96f3bcb4ff748bab",
   "lastOpenFiles": [
+    "闪念笔记/计算机科学/操作系统/操作系统.md",
+    "闪念笔记/计算机科学/操作系统/教育的意义.md",
     "闪念笔记/计算机科学/操作系统/操作系统是什么.md",
     "闪念笔记/计算机科学/操作系统/操作系统的核心是什么.md",
-    "闪念笔记/计算机科学/操作系统/教育的意义.md",
+    "Extras/Templates/Cards模板/Small Card 模板.md",
+    "Extras/Templates/Cards模板/Card卡片_标准模板.md",
     "Calendar/Daily notes/2023-05-19.md",
     "Calendar/Daily notes/2023-05-18.md",
     "Sources/Books/微信读书同步/政治军事/毛泽东选集（全四卷）.md",
@@ -254,15 +257,12 @@
     "Spaces/2-Area/Frontend/深入理解 Javascript 引擎.md",
     "Spaces/3-Resource/日常思考/一个优秀的 Bug 应该是怎样的？.md",
     "Spaces/3-Resource/日常思考",
-    "Calendar/Daily notes/2023-05-12.md",
-    "闪念笔记/others/行动起来.md",
     "闪念笔记/哲学/心智模型",
     "闪念笔记/哲学",
     "闪念笔记/前端",
     "闪念笔记/others",
     "闪念笔记/计算机科学/操作系统",
     "闪念笔记/计算机科学",
-    "Extras/Templates/Cards模板/Sources&Spaces卡片_标准模板.md",
     "Spaces/3-Resource/操作系统",
     "Spaces/4-Archive",
     "Spaces/3-Resource",

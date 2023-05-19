@@ -16,16 +16,27 @@
     "pageCountType": "ByWords"
   },
   "cachedCounts": {
-    "闪念笔记/计算机科学/操作系统/操作系统的核心是什么.md": {
+    "闪念笔记/计算机科学/操作系统/操作系统.md": {
       "isDirectory": false,
       "noteCount": 1,
       "wordCount": 0,
       "pageCount": 0,
       "characterCount": 0,
       "nonWhitespaceCharacterCount": 0,
-      "createdDate": 1684474562533,
-      "modifiedDate": 1684474562533,
+      "createdDate": 1684475946072,
+      "modifiedDate": 1684475946072,
       "sizeInBytes": 0
+    },
+    "闪念笔记/计算机科学/操作系统/操作系统的核心是什么.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 112,
+      "pageCount": 0.37333333333333335,
+      "characterCount": 272,
+      "nonWhitespaceCharacterCount": 242,
+      "createdDate": 1684474562533,
+      "modifiedDate": 1684475945226,
+      "sizeInBytes": 498
     },
     "闪念笔记/计算机科学/操作系统/操作系统是什么.md": {
       "isDirectory": false,
@@ -800,13 +811,13 @@
     "Extras/Templates/Cards模板/Small Card 模板.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 4,
-      "pageCount": 0.013333333333333334,
-      "characterCount": 94,
-      "nonWhitespaceCharacterCount": 76,
+      "wordCount": 6,
+      "pageCount": 0.02,
+      "characterCount": 101,
+      "nonWhitespaceCharacterCount": 80,
       "createdDate": 1683625181762,
-      "modifiedDate": 1683625810316,
-      "sizeInBytes": 102
+      "modifiedDate": 1684475924558,
+      "sizeInBytes": 113
     },
     "Extras/Templates/Cards模板/Card卡片_标准模板.md": {
       "isDirectory": false,
