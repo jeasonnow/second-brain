@@ -16,6 +16,17 @@
     "pageCountType": "ByWords"
   },
   "cachedCounts": {
+    "闪念笔记/计算机科学/操作系统/操作系统是什么.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1684474200948,
+      "modifiedDate": 1684474200948,
+      "sizeInBytes": 0
+    },
     "闪念笔记/计算机科学/操作系统/教育的意义.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -1020,13 +1031,13 @@
     "Calendar/Daily notes/2023-05-19.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 12,
-      "pageCount": 0.04,
-      "characterCount": 79,
-      "nonWhitespaceCharacterCount": 61,
+      "wordCount": 43,
+      "pageCount": 0.14333333333333334,
+      "characterCount": 141,
+      "nonWhitespaceCharacterCount": 109,
       "createdDate": 1684460353790,
-      "modifiedDate": 1684460365930,
-      "sizeInBytes": 103
+      "modifiedDate": 1684466772506,
+      "sizeInBytes": 229
     },
     "Calendar/Daily notes/2023-05-18.md": {
       "isDirectory": false,
