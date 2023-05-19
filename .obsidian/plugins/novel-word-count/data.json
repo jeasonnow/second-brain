@@ -16,16 +16,27 @@
     "pageCountType": "ByWords"
   },
   "cachedCounts": {
-    "闪念笔记/计算机科学/操作系统/操作系统是什么.md": {
+    "闪念笔记/计算机科学/操作系统/操作系统的核心是什么.md": {
       "isDirectory": false,
       "noteCount": 1,
       "wordCount": 0,
       "pageCount": 0,
       "characterCount": 0,
       "nonWhitespaceCharacterCount": 0,
-      "createdDate": 1684474200948,
-      "modifiedDate": 1684474200948,
+      "createdDate": 1684474562533,
+      "modifiedDate": 1684474562533,
       "sizeInBytes": 0
+    },
+    "闪念笔记/计算机科学/操作系统/操作系统是什么.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 109,
+      "pageCount": 0.36333333333333334,
+      "characterCount": 315,
+      "nonWhitespaceCharacterCount": 292,
+      "createdDate": 1684474200948,
+      "modifiedDate": 1684474313448,
+      "sizeInBytes": 533
     },
     "闪念笔记/计算机科学/操作系统/教育的意义.md": {
       "isDirectory": false,
