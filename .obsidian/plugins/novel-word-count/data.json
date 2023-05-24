@@ -1083,27 +1083,38 @@
       "modifiedDate": 1683880688384,
       "sizeInBytes": 1395
     },
-    "Calendar/Daily notes/2023-05-22.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 30,
-      "pageCount": 0.1,
-      "characterCount": 126,
-      "nonWhitespaceCharacterCount": 94,
-      "createdDate": 1684806517280,
-      "modifiedDate": 1684806563105,
-      "sizeInBytes": 186
-    },
-    "Calendar/Daily notes/2023-05-23.md": {
+    "Calendar/Daily notes/2023-05-24.md": {
       "isDirectory": false,
       "noteCount": 1,
       "wordCount": 8,
       "pageCount": 0.02666666666666667,
       "characterCount": 69,
       "nonWhitespaceCharacterCount": 54,
-      "createdDate": 1684806502348,
-      "modifiedDate": 1684806502351,
+      "createdDate": 1684896825862,
+      "modifiedDate": 1684896825863,
       "sizeInBytes": 85
+    },
+    "Calendar/Daily notes/2023-05-22.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 43,
+      "pageCount": 0.14333333333333334,
+      "characterCount": 148,
+      "nonWhitespaceCharacterCount": 116,
+      "createdDate": 1684806517280,
+      "modifiedDate": 1684806634895,
+      "sizeInBytes": 236
+    },
+    "Calendar/Daily notes/2023-05-23.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 41,
+      "pageCount": 0.13666666666666666,
+      "characterCount": 133,
+      "nonWhitespaceCharacterCount": 105,
+      "createdDate": 1684806502348,
+      "modifiedDate": 1684896822080,
+      "sizeInBytes": 219
     },
     "Calendar/Daily notes/2023-05-10.md": {
       "isDirectory": false,
