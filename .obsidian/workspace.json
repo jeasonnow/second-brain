@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calendar/Daily notes/2023-05-26.md",
+                "file": "闪念笔记/前端/knip.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -91,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calendar/Daily notes/2023-05-26.md"
+                "file": "闪念笔记/前端/knip.md"
               }
             }
           },
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calendar/Daily notes/2023-05-26.md",
+                "file": "闪念笔记/前端/knip.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Calendar/Daily notes/2023-05-26.md",
+                "file": "闪念笔记/前端/knip.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calendar/Daily notes/2023-05-26.md",
+                "file": "闪念笔记/前端/knip.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,8 +229,9 @@
   },
   "active": "96f3bcb4ff748bab",
   "lastOpenFiles": [
-    "Calendar/Daily notes/2023-05-25.md",
     "Calendar/Daily notes/2023-05-26.md",
+    "闪念笔记/前端/knip.md",
+    "Calendar/Daily notes/2023-05-25.md",
     "Calendar/Daily notes/2023-05-24.md",
     "Calendar/Daily notes/2023-05-23.md",
     "Calendar/Daily notes/2023-05-22.md",
@@ -254,7 +255,6 @@
     "Calendar/Daily notes/2023-05-17.md",
     "Calendar/Weekly Notes/2023-W19.md",
     "Calendar/Weekly Notes/2023-W20.md",
-    "Calendar/Plan & Review/本月计划.md",
     "Spaces/3-Resource/日常思考",
     "闪念笔记/哲学/心智模型",
     "闪念笔记/哲学",

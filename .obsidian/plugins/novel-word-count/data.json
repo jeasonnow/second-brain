@@ -126,6 +126,17 @@
       "modifiedDate": 1684118173814,
       "sizeInBytes": 376
     },
+    "闪念笔记/前端/knip.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 15,
+      "pageCount": 0.05,
+      "characterCount": 105,
+      "nonWhitespaceCharacterCount": 84,
+      "createdDate": 1685089354798,
+      "modifiedDate": 1685089363140,
+      "sizeInBytes": 117
+    },
     "闪念笔记/前端/React Server Component.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -1086,13 +1097,13 @@
     "Calendar/Daily notes/2023-05-26.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 8,
-      "pageCount": 0.02666666666666667,
-      "characterCount": 69,
-      "nonWhitespaceCharacterCount": 54,
+      "wordCount": 21,
+      "pageCount": 0.07,
+      "characterCount": 105,
+      "nonWhitespaceCharacterCount": 82,
       "createdDate": 1685088549199,
-      "modifiedDate": 1685088549200,
-      "sizeInBytes": 85
+      "modifiedDate": 1685088592014,
+      "sizeInBytes": 149
     },
     "Calendar/Daily notes/2023-05-25.md": {
       "isDirectory": false,
