@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "闪念笔记/前端/knip.md",
+                "file": "闪念笔记/others/行动起来.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -91,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "闪念笔记/前端/knip.md"
+                "file": "闪念笔记/others/行动起来.md"
               }
             }
           },
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "闪念笔记/前端/knip.md",
+                "file": "闪念笔记/others/行动起来.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "闪念笔记/前端/knip.md",
+                "file": "闪念笔记/others/行动起来.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "闪念笔记/前端/knip.md",
+                "file": "闪念笔记/others/行动起来.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,12 +228,13 @@
       "obsidian-kindle-plugin:Sync your Kindle highlights": false
     }
   },
-  "active": "401ecf6c95e31916",
+  "active": "96f3bcb4ff748bab",
   "lastOpenFiles": [
+    "闪念笔记/others/不给钱的金钱社会.md",
+    "闪念笔记/前端/knip.md",
     "Calendar/Daily notes/2023-05-29.md",
     "Sources/Books/kindle",
     "Calendar/Daily notes/2023-05-26.md",
-    "闪念笔记/前端/knip.md",
     "Calendar/Daily notes/2023-05-25.md",
     "Calendar/Daily notes/2023-05-24.md",
     "Calendar/Daily notes/2023-05-23.md",
