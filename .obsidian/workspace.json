@@ -137,7 +137,7 @@
                   "linkStrength": 1,
                   "linkDistance": 250,
                   "scale": 0.2268817050419765,
-                  "close": false
+                  "close": true
                 }
               }
             }
@@ -228,7 +228,7 @@
       "obsidian-kindle-plugin:Sync your Kindle highlights": false
     }
   },
-  "active": "96f3bcb4ff748bab",
+  "active": "401ecf6c95e31916",
   "lastOpenFiles": [
     "Calendar/Daily notes/2023-05-29.md",
     "Sources/Books/kindle",
