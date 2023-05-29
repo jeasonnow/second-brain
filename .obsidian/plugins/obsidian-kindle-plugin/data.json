@@ -1,0 +1,8 @@
+{
+  "amazonRegion": "global",
+  "highlightsFolder": "Sources/Books/kindle",
+  "lastSyncMode": "amazon",
+  "isLoggedIn": false,
+  "syncOnBoot": true,
+  "downloadBookMetadata": true
+}
