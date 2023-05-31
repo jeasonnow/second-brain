@@ -27,6 +27,17 @@
       "modifiedDate": 1681969628442,
       "sizeInBytes": 0
     },
+    "闪念笔记/Farnam/空白页阅读.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 15,
+      "pageCount": 0.05,
+      "characterCount": 105,
+      "nonWhitespaceCharacterCount": 84,
+      "createdDate": 1685515355259,
+      "modifiedDate": 1685515361305,
+      "sizeInBytes": 117
+    },
     "闪念笔记/计算机科学/操作系统/操作系统是什么.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -896,6 +907,17 @@
       "modifiedDate": 1681783151882,
       "sizeInBytes": 453
     },
+    "Calendar/Weekly Notes/2023-W22.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 9,
+      "pageCount": 0.03,
+      "characterCount": 796,
+      "nonWhitespaceCharacterCount": 677,
+      "createdDate": 1685514978535,
+      "modifiedDate": 1685514978536,
+      "sizeInBytes": 796
+    },
     "Calendar/Weekly Notes/2023-W20.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -954,13 +976,13 @@
     "Calendar/Daily notes/2023-05-31.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 8,
-      "pageCount": 0.02666666666666667,
-      "characterCount": 69,
-      "nonWhitespaceCharacterCount": 54,
+      "wordCount": 52,
+      "pageCount": 0.17333333333333334,
+      "characterCount": 174,
+      "nonWhitespaceCharacterCount": 132,
       "createdDate": 1685499365081,
-      "modifiedDate": 1685499365081,
-      "sizeInBytes": 85
+      "modifiedDate": 1685515106011,
+      "sizeInBytes": 284
     },
     "Calendar/Daily notes/2023-05-30.md": {
       "isDirectory": false,
