@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"d023b586e3dbf526","x":-278,"y":-332,"width":250,"height":60,"type":"text","text":"沟通是什么"},
+		{"id":"27e5cd3be778b3b4","x":-264,"y":-80,"width":250,"height":60,"type":"text","text":"沟通能力的强弱"},
+		{"id":"8374c9a8634bb74c","x":-604,"y":-80,"width":133,"height":60,"type":"text","text":"沟通的本质"},
+		{"id":"6cc1322ba663cef8","x":-293,"y":185,"width":250,"height":60,"type":"text","text":"怎么提升自己的沟通能力"},
+		{"id":"16bd332096e4448d","x":77,"y":-480,"width":250,"height":60,"type":"text","text":"沟通是双向的"},
+		{"id":"e7c61e3285140daa","x":79,"y":-400,"width":250,"height":60,"type":"text","text":""}
+	],
+	"edges":[
+		{"id":"fe932c4a153f90b9","fromNode":"8374c9a8634bb74c","fromSide":"right","toNode":"d023b586e3dbf526","toSide":"left"},
+		{"id":"587d6e88fe4d1776","fromNode":"8374c9a8634bb74c","fromSide":"right","toNode":"27e5cd3be778b3b4","toSide":"left"},
+		{"id":"d6ce4bfac70ef621","fromNode":"8374c9a8634bb74c","fromSide":"right","toNode":"6cc1322ba663cef8","toSide":"left"},
+		{"id":"fd0107238bfc8718","fromNode":"d023b586e3dbf526","fromSide":"right","toNode":"16bd332096e4448d","toSide":"left"},
+		{"id":"d6ddd24051798b5e","fromNode":"d023b586e3dbf526","fromSide":"right","toNode":"e7c61e3285140daa","toSide":"left"}
+	]
+}

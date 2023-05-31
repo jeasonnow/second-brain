@@ -30,13 +30,13 @@
     "闪念笔记/Farnam/空白页阅读.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 15,
-      "pageCount": 0.05,
-      "characterCount": 105,
-      "nonWhitespaceCharacterCount": 84,
+      "wordCount": 183,
+      "pageCount": 0.61,
+      "characterCount": 414,
+      "nonWhitespaceCharacterCount": 364,
       "createdDate": 1685515355259,
-      "modifiedDate": 1685515361305,
-      "sizeInBytes": 117
+      "modifiedDate": 1685515579822,
+      "sizeInBytes": 786
     },
     "闪念笔记/计算机科学/操作系统/操作系统是什么.md": {
       "isDirectory": false,
@@ -225,17 +225,6 @@
       "modifiedDate": 1684137661514,
       "sizeInBytes": 3621
     },
-    "Spaces/3-Resource/操作系统/未命名.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "createdDate": 1684121073910,
-      "modifiedDate": 1684121073910,
-      "sizeInBytes": 0
-    },
     "Spaces/3-Resource/操作系统/教材.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -334,6 +323,17 @@
       "createdDate": 1682583111544,
       "modifiedDate": 1682589239061,
       "sizeInBytes": 4943
+    },
+    "Spaces/1-Project/沟通的本质/沟通的本质.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1685516548115,
+      "modifiedDate": 1685516548115,
+      "sizeInBytes": 0
     },
     "Spaces/1-Project/Computer Science/操作系统/为什么学习操作系统.md": {
       "isDirectory": false,
