@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/Farnam Street Bolg.md",
+                "file": "Cards/费曼学习法.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -91,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cards/Farnam Street Bolg.md"
+                "file": "Cards/费曼学习法.md"
               }
             }
           },
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cards/Farnam Street Bolg.md",
+                "file": "Cards/费曼学习法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cards/Farnam Street Bolg.md",
+                "file": "Cards/费曼学习法.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cards/Farnam Street Bolg.md",
+                "file": "Cards/费曼学习法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,6 +231,7 @@
   },
   "active": "96f3bcb4ff748bab",
   "lastOpenFiles": [
+    "Cards/Farnam Street Bolg.md",
     "闪念笔记/Farnam/空白页阅读.md",
     "闪念笔记/Farnam/如何阅读一本书.md",
     "Spaces/2-Area/哲学社科/心智模型.md",
@@ -243,7 +244,6 @@
     "Spaces/2-Area/Frontend/深入理解 Javascript 引擎.md",
     "Spaces/1-Project/沟通的本质/沟通的本质.canvas",
     "Cards/巴菲特公式：睡觉比起床时更聪明.md",
-    "Cards/Farnam Street Bolg.md",
     "Spaces/1-Project/沟通的本质/沟通的本质.md",
     "Spaces/1-Project/Computer Science/操作系统/为什么学习操作系统.md",
     "Calendar/Daily notes/2023-05-31.md",
