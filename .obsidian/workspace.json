@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/2-Area/Frontend/深入理解 Javascript 引擎.md",
+                "file": "Cards/Farnam Street Bolg.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -91,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/2-Area/Frontend/深入理解 Javascript 引擎.md"
+                "file": "Cards/Farnam Street Bolg.md"
               }
             }
           },
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/2-Area/Frontend/深入理解 Javascript 引擎.md",
+                "file": "Cards/Farnam Street Bolg.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Spaces/2-Area/Frontend/深入理解 Javascript 引擎.md",
+                "file": "Cards/Farnam Street Bolg.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/2-Area/Frontend/深入理解 Javascript 引擎.md",
+                "file": "Cards/Farnam Street Bolg.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,16 +231,19 @@
   },
   "active": "96f3bcb4ff748bab",
   "lastOpenFiles": [
-    "Spaces/2-Area/Frontend/HMR 原理.md",
-    "Spaces/2-Area/Frontend/React技术原理.md",
-    "Spaces/2-Area/Frontend/Relay.md",
+    "闪念笔记/Farnam/空白页阅读.md",
+    "闪念笔记/Farnam/如何阅读一本书.md",
+    "Spaces/2-Area/哲学社科/心智模型.md",
+    "闪念笔记/哲学/心智模型/提升心智模型.md",
     "Spaces/2-Area/Frontend/Think Qwik.md",
+    "Spaces/2-Area/Frontend/Relay.md",
     "Spaces/2-Area/Frontend/React.md",
+    "Spaces/2-Area/Frontend/React技术原理.md",
+    "Spaces/2-Area/Frontend/HMR 原理.md",
     "Spaces/2-Area/Frontend/深入理解 Javascript 引擎.md",
     "Spaces/1-Project/沟通的本质/沟通的本质.canvas",
     "Cards/巴菲特公式：睡觉比起床时更聪明.md",
     "Cards/Farnam Street Bolg.md",
-    "闪念笔记/Farnam/如何阅读一本书.md",
     "Spaces/1-Project/沟通的本质/沟通的本质.md",
     "Spaces/1-Project/Computer Science/操作系统/为什么学习操作系统.md",
     "Calendar/Daily notes/2023-05-31.md",
@@ -249,7 +252,6 @@
     "Spaces/3-Resource/日常思考/一个优秀的 Bug 应该是怎样的？.md",
     "Spaces/3-Resource/操作系统/教材.md",
     "Spaces/3-Resource/操作系统/未命名.md",
-    "闪念笔记/Farnam/空白页阅读.md",
     "闪念笔记/Farnam",
     "Calendar/Weekly Notes/2023-W22.md",
     "Calendar/Daily notes/2023-05-30.md",
@@ -259,8 +261,6 @@
     "闪念笔记/前端/knip.md",
     "Sources/Books/kindle",
     "Calendar/Daily notes/2023-05-26.md",
-    "Calendar/Daily notes/2023-05-25.md",
-    "Calendar/Daily notes/2023-05-24.md",
     "Spaces/3-Resource/日常思考",
     "闪念笔记/哲学/心智模型",
     "闪念笔记/哲学",
