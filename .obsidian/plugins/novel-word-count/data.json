@@ -951,16 +951,27 @@
       "modifiedDate": 1683683811150,
       "sizeInBytes": 357
     },
-    "Calendar/Daily notes/2023-05-30.md": {
+    "Calendar/Daily notes/2023-05-31.md": {
       "isDirectory": false,
       "noteCount": 1,
       "wordCount": 8,
       "pageCount": 0.02666666666666667,
       "characterCount": 69,
       "nonWhitespaceCharacterCount": 54,
-      "createdDate": 1685413699566,
-      "modifiedDate": 1685413699567,
+      "createdDate": 1685499365081,
+      "modifiedDate": 1685499365081,
       "sizeInBytes": 85
+    },
+    "Calendar/Daily notes/2023-05-30.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 26,
+      "pageCount": 0.08666666666666667,
+      "characterCount": 129,
+      "nonWhitespaceCharacterCount": 100,
+      "createdDate": 1685413699566,
+      "modifiedDate": 1685499364308,
+      "sizeInBytes": 181
     },
     "Calendar/Daily notes/2023-05-29.md": {
       "isDirectory": false,
