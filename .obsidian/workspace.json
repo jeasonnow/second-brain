@@ -11,14 +11,12 @@
             "id": "96f3bcb4ff748bab",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Spaces/1-Project/沟通的本质/沟通的本质.canvas",
-                "viewState": {
-                  "x": 220.4799999999999,
-                  "y": -86.10999999999996,
-                  "zoom": 0
-                }
+                "file": "闪念笔记/Farnam/如何阅读一本书.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -93,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/1-Project/沟通的本质/沟通的本质.canvas"
+                "file": "闪念笔记/Farnam/如何阅读一本书.md"
               }
             }
           },
@@ -103,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/1-Project/沟通的本质/沟通的本质.canvas",
+                "file": "闪念笔记/Farnam/如何阅读一本书.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Spaces/1-Project/沟通的本质/沟通的本质.canvas",
+                "file": "闪念笔记/Farnam/如何阅读一本书.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -150,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/1-Project/沟通的本质/沟通的本质.canvas",
+                "file": "闪念笔记/Farnam/如何阅读一本书.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,15 +231,16 @@
   },
   "active": "96f3bcb4ff748bab",
   "lastOpenFiles": [
-    "Spaces/1-Project/沟通的本质/沟通的本质.md",
+    "闪念笔记/Farnam/如何阅读一本书.md",
+    "Calendar/Daily notes/2023-05-31.md",
     "Spaces/1-Project/沟通的本质/沟通的本质.canvas",
+    "Spaces/1-Project/沟通的本质/沟通的本质.md",
     "Sources/About Sources.md",
     "Spaces/1-Project/沟通的本质",
     "Spaces/3-Resource/日常思考/一个优秀的 Bug 应该是怎样的？.md",
     "Spaces/3-Resource/操作系统/教材.md",
     "Spaces/3-Resource/操作系统/未命名.md",
     "闪念笔记/Farnam/空白页阅读.md",
-    "Calendar/Daily notes/2023-05-31.md",
     "闪念笔记/Farnam",
     "Calendar/Weekly Notes/2023-W22.md",
     "Calendar/Daily notes/2023-05-30.md",
