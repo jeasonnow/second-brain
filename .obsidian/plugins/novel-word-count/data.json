@@ -30,13 +30,13 @@
     "闪念笔记/Farnam/如何阅读一本书.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
+      "wordCount": 348,
+      "pageCount": 1.16,
+      "characterCount": 633,
+      "nonWhitespaceCharacterCount": 569,
       "createdDate": 1685517791045,
-      "modifiedDate": 1685517791045,
-      "sizeInBytes": 0
+      "modifiedDate": 1685518291813,
+      "sizeInBytes": 1363
     },
     "闪念笔记/Farnam/空白页阅读.md": {
       "isDirectory": false,
@@ -984,6 +984,17 @@
       "modifiedDate": 1683683811150,
       "sizeInBytes": 357
     },
+    "Calendar/Daily notes/2023-06-01.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 8,
+      "pageCount": 0.02666666666666667,
+      "characterCount": 69,
+      "nonWhitespaceCharacterCount": 54,
+      "createdDate": 1685583702523,
+      "modifiedDate": 1685583702523,
+      "sizeInBytes": 85
+    },
     "Calendar/Daily notes/2023-05-31.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -1333,7 +1344,7 @@
       "characterCount": 367,
       "nonWhitespaceCharacterCount": 328,
       "createdDate": 1683194288419,
-      "modifiedDate": 1683251165814,
+      "modifiedDate": 1685526541639,
       "sizeInBytes": 715
     },
     "Cards/解决问题最佳实践.md": {
@@ -1427,13 +1438,13 @@
     "Cards/Farnam Street Bolg.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
+      "wordCount": 52,
+      "pageCount": 0.17333333333333334,
+      "characterCount": 196,
+      "nonWhitespaceCharacterCount": 166,
       "createdDate": 1683186535355,
-      "modifiedDate": 1683186535355,
-      "sizeInBytes": 0
+      "modifiedDate": 1685526529115,
+      "sizeInBytes": 292
     },
     "Cards/About Cards.md": {
       "isDirectory": false,

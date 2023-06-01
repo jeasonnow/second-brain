@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/费曼学习法.md",
+                "file": "Calendar/Daily notes/2023-06-01.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -91,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cards/费曼学习法.md"
+                "file": "Calendar/Daily notes/2023-06-01.md"
               }
             }
           },
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cards/费曼学习法.md",
+                "file": "Calendar/Daily notes/2023-06-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cards/费曼学习法.md",
+                "file": "Calendar/Daily notes/2023-06-01.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cards/费曼学习法.md",
+                "file": "Calendar/Daily notes/2023-06-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,6 +231,8 @@
   },
   "active": "96f3bcb4ff748bab",
   "lastOpenFiles": [
+    "Cards/费曼学习法.md",
+    "Calendar/Daily notes/2023-06-01.md",
     "Cards/Farnam Street Bolg.md",
     "闪念笔记/Farnam/空白页阅读.md",
     "闪念笔记/Farnam/如何阅读一本书.md",
@@ -258,9 +260,7 @@
     "Calendar/Daily notes/2023-05-29.md",
     "闪念笔记/others/行动起来.md",
     "闪念笔记/others/不给钱的金钱社会.md",
-    "闪念笔记/前端/knip.md",
     "Sources/Books/kindle",
-    "Calendar/Daily notes/2023-05-26.md",
     "Spaces/3-Resource/日常思考",
     "闪念笔记/哲学/心智模型",
     "闪念笔记/哲学",
