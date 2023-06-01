@@ -11,14 +11,12 @@
             "id": "96f3bcb4ff748bab",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Spaces/1-Project/沟通的本质/沟通的本质.canvas",
-                "viewState": {
-                  "x": 245.88019376199512,
-                  "y": 278.84411054282185,
-                  "zoom": -0.07632243633270264
-                }
+                "file": "闪念笔记/计算机科学/操作系统/操作系统的核心是什么.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -93,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/1-Project/沟通的本质/沟通的本质.canvas"
+                "file": "闪念笔记/计算机科学/操作系统/操作系统的核心是什么.md"
               }
             }
           },
@@ -103,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/1-Project/沟通的本质/沟通的本质.canvas",
+                "file": "闪念笔记/计算机科学/操作系统/操作系统的核心是什么.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Spaces/1-Project/沟通的本质/沟通的本质.canvas",
+                "file": "闪念笔记/计算机科学/操作系统/操作系统的核心是什么.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -150,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/1-Project/沟通的本质/沟通的本质.canvas",
+                "file": "闪念笔记/计算机科学/操作系统/操作系统的核心是什么.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,8 +229,9 @@
       "obsidian-kindle-plugin:Sync your Kindle highlights": false
     }
   },
-  "active": "96f3bcb4ff748bab",
+  "active": "a4d1994dfc9f1870",
   "lastOpenFiles": [
+    "Spaces/1-Project/沟通的本质/沟通的本质.canvas",
     "Calendar/Daily notes/2023-06-01.md",
     "Cards/费曼学习法.md",
     "Cards/Farnam Street Bolg.md",
@@ -246,7 +245,6 @@
     "Spaces/2-Area/Frontend/React技术原理.md",
     "Spaces/2-Area/Frontend/HMR 原理.md",
     "Spaces/2-Area/Frontend/深入理解 Javascript 引擎.md",
-    "Spaces/1-Project/沟通的本质/沟通的本质.canvas",
     "Cards/巴菲特公式：睡觉比起床时更聪明.md",
     "Spaces/1-Project/沟通的本质/沟通的本质.md",
     "Spaces/1-Project/Computer Science/操作系统/为什么学习操作系统.md",
@@ -261,7 +259,6 @@
     "Calendar/Daily notes/2023-05-30.md",
     "Calendar/Daily notes/2023-05-29.md",
     "闪念笔记/others/行动起来.md",
-    "闪念笔记/others/不给钱的金钱社会.md",
     "Sources/Books/kindle",
     "Spaces/3-Resource/日常思考",
     "闪念笔记/哲学/心智模型",
