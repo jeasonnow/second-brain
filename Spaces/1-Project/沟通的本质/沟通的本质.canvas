@@ -1,16 +1,20 @@
 {
 	"nodes":[
 		{"type":"text","text":"沟通的本质","id":"8374c9a8634bb74c","x":-604,"y":-80,"width":133,"height":60},
-		{"type":"text","text":"怎么提升自己的沟通能力","id":"6cc1322ba663cef8","x":-293,"y":185,"width":250,"height":60},
 		{"type":"text","text":"双向","id":"16bd332096e4448d","x":77,"y":-392,"width":250,"height":60},
-		{"type":"text","text":"受外部环境影响","id":"468b56a41cd67302","x":77,"y":-166,"width":250,"height":60},
-		{"type":"text","text":"受内部因素影响","id":"3159767f66ec7b28","x":77,"y":-80,"width":250,"height":60},
-		{"type":"text","text":"受沟通者的成长因素影响","id":"179b53ceeee81cb4","x":77,"y":17,"width":250,"height":60},
-		{"type":"text","text":"看人下菜碟，沟通因为双向性会受到沟通者双方的影响，必须因地制宜","id":"7f37405fc5734936","x":58,"y":160,"width":269,"height":110},
-		{"type":"text","text":"沟通能力的强弱","id":"27e5cd3be778b3b4","x":-293,"y":-80,"width":250,"height":60},
 		{"type":"text","text":"沟通是什么","id":"d023b586e3dbf526","x":-293,"y":-332,"width":250,"height":60},
 		{"type":"text","text":"人际关系的基本","id":"e7c61e3285140daa","x":77,"y":-302,"width":250,"height":60},
-		{"id":"928098736e9148df","x":77,"y":-487,"width":250,"height":60,"type":"text","text":"不可逆性"}
+		{"type":"text","text":"不可逆性","id":"928098736e9148df","x":77,"y":-487,"width":250,"height":60},
+		{"type":"text","text":"怎么提升自己的沟通能力","id":"6cc1322ba663cef8","x":-293,"y":329,"width":250,"height":60},
+		{"type":"text","text":"看人下菜碟，沟通因为双向性会受到沟通者双方的影响，必须因地制宜","id":"7f37405fc5734936","x":58,"y":304,"width":269,"height":110},
+		{"type":"text","text":"沟通能力的强弱","id":"27e5cd3be778b3b4","x":-293,"y":17,"width":250,"height":60},
+		{"type":"text","text":"受外部环境影响","id":"468b56a41cd67302","x":77,"y":-140,"width":250,"height":60},
+		{"type":"text","text":"受内部因素影响","id":"3159767f66ec7b28","x":77,"y":-50,"width":250,"height":60},
+		{"type":"text","text":"受沟通者的成长因素影响","id":"179b53ceeee81cb4","x":77,"y":77,"width":250,"height":60},
+		{"id":"595b7c1327f04713","x":-298,"y":522,"width":250,"height":60,"type":"text","text":"沟通注意的事项"},
+		{"id":"20e2c4b82afc6005","x":77,"y":-220,"width":250,"height":60,"type":"text","text":"自我概念的诞生"},
+		{"id":"28478f45b36fa0ae","x":58,"y":484,"width":340,"height":68,"type":"text","text":"不要用沟通去影响别人，特别是在别人的自我概念还未形成时，积极点。"},
+		{"id":"bb6addb0a2862c69","x":54,"y":561,"width":344,"height":71,"type":"text","text":"高自尊能得到更多的正反馈，相信自己的能力，打造自己的正循环。"}
 	],
 	"edges":[
 		{"id":"fe932c4a153f90b9","fromNode":"8374c9a8634bb74c","fromSide":"right","toNode":"d023b586e3dbf526","toSide":"left"},
@@ -22,6 +26,10 @@
 		{"id":"488a09fba0b7d3e6","fromNode":"27e5cd3be778b3b4","fromSide":"right","toNode":"3159767f66ec7b28","toSide":"left"},
 		{"id":"eabe27834f8ad361","fromNode":"27e5cd3be778b3b4","fromSide":"right","toNode":"179b53ceeee81cb4","toSide":"left"},
 		{"id":"61866cab24e0e766","fromNode":"6cc1322ba663cef8","fromSide":"right","toNode":"7f37405fc5734936","toSide":"left"},
-		{"id":"9c22965240844ae3","fromNode":"d023b586e3dbf526","fromSide":"right","toNode":"928098736e9148df","toSide":"left"}
+		{"id":"9c22965240844ae3","fromNode":"d023b586e3dbf526","fromSide":"right","toNode":"928098736e9148df","toSide":"left"},
+		{"id":"1c560fa800572c07","fromNode":"8374c9a8634bb74c","fromSide":"right","toNode":"595b7c1327f04713","toSide":"left"},
+		{"id":"e72dc7e0cd5688b4","fromNode":"595b7c1327f04713","fromSide":"right","toNode":"28478f45b36fa0ae","toSide":"left"},
+		{"id":"1b77fbc4ccdc1503","fromNode":"d023b586e3dbf526","fromSide":"right","toNode":"20e2c4b82afc6005","toSide":"left"},
+		{"id":"1ac66b9dbba233b2","fromNode":"595b7c1327f04713","fromSide":"right","toNode":"bb6addb0a2862c69","toSide":"left"}
 	]
 }

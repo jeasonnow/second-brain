@@ -11,12 +11,14 @@
             "id": "96f3bcb4ff748bab",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Calendar/Daily notes/2023-06-01.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Spaces/1-Project/沟通的本质/沟通的本质.canvas",
+                "viewState": {
+                  "x": 100.76262071117651,
+                  "y": 11.161019712595731,
+                  "zoom": -0.07632243633270264
+                }
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calendar/Daily notes/2023-06-01.md"
+                "file": "Spaces/1-Project/沟通的本质/沟通的本质.canvas"
               }
             }
           },
@@ -101,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calendar/Daily notes/2023-06-01.md",
+                "file": "Spaces/1-Project/沟通的本质/沟通的本质.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +115,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Calendar/Daily notes/2023-06-01.md",
+                "file": "Spaces/1-Project/沟通的本质/沟通的本质.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calendar/Daily notes/2023-06-01.md",
+                "file": "Spaces/1-Project/沟通的本质/沟通的本质.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,8 +233,8 @@
   },
   "active": "96f3bcb4ff748bab",
   "lastOpenFiles": [
-    "Cards/费曼学习法.md",
     "Calendar/Daily notes/2023-06-01.md",
+    "Cards/费曼学习法.md",
     "Cards/Farnam Street Bolg.md",
     "闪念笔记/Farnam/空白页阅读.md",
     "闪念笔记/Farnam/如何阅读一本书.md",
