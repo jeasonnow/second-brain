@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "闪念笔记/计算机科学/操作系统/操作系统的核心是什么.md",
-                "mode": "source",
+                "file": "Calendar/Weekly Notes/2023-W22.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -91,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "闪念笔记/计算机科学/操作系统/操作系统的核心是什么.md"
+                "file": "Calendar/Weekly Notes/2023-W22.md"
               }
             }
           },
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "闪念笔记/计算机科学/操作系统/操作系统的核心是什么.md",
+                "file": "Calendar/Weekly Notes/2023-W22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "闪念笔记/计算机科学/操作系统/操作系统的核心是什么.md",
+                "file": "Calendar/Weekly Notes/2023-W22.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "闪念笔记/计算机科学/操作系统/操作系统的核心是什么.md",
+                "file": "Calendar/Weekly Notes/2023-W22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,10 +229,12 @@
       "obsidian-kindle-plugin:Sync your Kindle highlights": false
     }
   },
-  "active": "a4d1994dfc9f1870",
+  "active": "96f3bcb4ff748bab",
   "lastOpenFiles": [
-    "Spaces/1-Project/沟通的本质/沟通的本质.canvas",
+    "Calendar/About Calendar.md",
     "Calendar/Daily notes/2023-06-01.md",
+    "闪念笔记/计算机科学/操作系统/操作系统的核心是什么.md",
+    "Spaces/1-Project/沟通的本质/沟通的本质.canvas",
     "Cards/费曼学习法.md",
     "Cards/Farnam Street Bolg.md",
     "闪念笔记/Farnam/空白页阅读.md",
@@ -258,7 +260,6 @@
     "Calendar/Weekly Notes/2023-W22.md",
     "Calendar/Daily notes/2023-05-30.md",
     "Calendar/Daily notes/2023-05-29.md",
-    "闪念笔记/others/行动起来.md",
     "Sources/Books/kindle",
     "Spaces/3-Resource/日常思考",
     "闪念笔记/哲学/心智模型",
