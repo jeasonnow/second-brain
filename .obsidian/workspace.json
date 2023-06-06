@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calendar/Daily notes/2023-06-05.md",
+                "file": "闪念笔记/计算机科学/操作系统/操作系统.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -91,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calendar/Daily notes/2023-06-05.md"
+                "file": "闪念笔记/计算机科学/操作系统/操作系统.md"
               }
             }
           },
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calendar/Daily notes/2023-06-05.md",
+                "file": "闪念笔记/计算机科学/操作系统/操作系统.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Calendar/Daily notes/2023-06-05.md",
+                "file": "闪念笔记/计算机科学/操作系统/操作系统.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calendar/Daily notes/2023-06-05.md",
+                "file": "闪念笔记/计算机科学/操作系统/操作系统.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,13 +229,18 @@
       "obsidian-kindle-plugin:Sync your Kindle highlights": false
     }
   },
-  "active": "96f3bcb4ff748bab",
+  "active": "a4d1994dfc9f1870",
   "lastOpenFiles": [
-    "Calendar/Weekly Notes/2023-W22.md",
+    "闪念笔记/计算机科学/操作系统/操作系统的核心是什么.md",
+    "闪念笔记/计算机科学/操作系统/操作系统的基础组成-进程.md",
+    "闪念笔记/计算机科学/操作系统/操作系统是什么.md",
+    "闪念笔记/计算机科学/操作系统/教育的意义.md",
+    "闪念笔记/计算机科学/操作系统/抽象：进程.md",
+    "闪念笔记/计算机科学/操作系统/操作系统.md",
     "Calendar/Daily notes/2023-06-05.md",
+    "Calendar/Weekly Notes/2023-W22.md",
     "Calendar/About Calendar.md",
     "Calendar/Daily notes/2023-06-01.md",
-    "闪念笔记/计算机科学/操作系统/操作系统的核心是什么.md",
     "Spaces/1-Project/沟通的本质/沟通的本质.canvas",
     "Cards/费曼学习法.md",
     "Cards/Farnam Street Bolg.md",
@@ -253,13 +258,8 @@
     "Spaces/1-Project/沟通的本质/沟通的本质.md",
     "Spaces/1-Project/Computer Science/操作系统/为什么学习操作系统.md",
     "Calendar/Daily notes/2023-05-31.md",
-    "Sources/About Sources.md",
     "Spaces/1-Project/沟通的本质",
-    "Spaces/3-Resource/日常思考/一个优秀的 Bug 应该是怎样的？.md",
-    "Spaces/3-Resource/操作系统/教材.md",
-    "Spaces/3-Resource/操作系统/未命名.md",
     "闪念笔记/Farnam",
-    "Calendar/Daily notes/2023-05-30.md",
     "Sources/Books/kindle",
     "Spaces/3-Resource/日常思考",
     "闪念笔记/哲学/心智模型",
