@@ -11,10 +11,17 @@
 		{"type":"text","text":"受外部环境影响","id":"468b56a41cd67302","x":77,"y":-140,"width":250,"height":60},
 		{"type":"text","text":"受内部因素影响","id":"3159767f66ec7b28","x":77,"y":-50,"width":250,"height":60},
 		{"type":"text","text":"受沟通者的成长因素影响","id":"179b53ceeee81cb4","x":77,"y":77,"width":250,"height":60},
-		{"id":"595b7c1327f04713","x":-298,"y":522,"width":250,"height":60,"type":"text","text":"沟通注意的事项"},
-		{"id":"20e2c4b82afc6005","x":77,"y":-220,"width":250,"height":60,"type":"text","text":"自我概念的诞生"},
-		{"id":"28478f45b36fa0ae","x":58,"y":484,"width":340,"height":68,"type":"text","text":"不要用沟通去影响别人，特别是在别人的自我概念还未形成时，积极点。"},
-		{"id":"bb6addb0a2862c69","x":54,"y":561,"width":344,"height":71,"type":"text","text":"高自尊能得到更多的正反馈，相信自己的能力，打造自己的正循环。"}
+		{"type":"text","text":"沟通注意的事项","id":"595b7c1327f04713","x":-298,"y":522,"width":250,"height":60},
+		{"type":"text","text":"自我概念的诞生","id":"20e2c4b82afc6005","x":77,"y":-220,"width":250,"height":60},
+		{"type":"text","text":"不要用沟通去影响别人，特别是在别人的自我概念还未形成时，积极点。","id":"28478f45b36fa0ae","x":58,"y":484,"width":340,"height":68},
+		{"type":"text","text":"高自尊能得到更多的正反馈，相信自己的能力，打造自己的正循环。","id":"bb6addb0a2862c69","x":54,"y":561,"width":344,"height":71},
+		{"type":"text","text":"诠释：将组织而成的内容根据自己的思路进行解释理解。","id":"28c163a279761022","x":791,"y":-160,"width":312,"height":80},
+		{"type":"text","text":"选择：根据自己的喜好选择自己想听得内容。","id":"c57834ee35951194","x":791,"y":-242,"width":250,"height":60},
+		{"type":"text","text":"组织：根据自己的经验把自己选择听取的内容和自己的经历结合。","id":"0a81f5b6d4928df7","x":791,"y":-332,"width":312,"height":60},
+		{"type":"text","text":"协商：多人环境下需要沟通从而达成统一","id":"19fd71bc07932b19","x":791,"y":-50,"width":250,"height":60},
+		{"type":"text","text":"影响知觉的因素","id":"c61098bcecb3ad62","x":-301,"y":703,"width":176,"height":50},
+		{"type":"text","text":"四大因素\n","id":"ea4f8a58de400d6b","x":58,"y":703,"width":250,"height":60},
+		{"id":"dfce07d4d84e4af9","x":58,"y":809,"width":250,"height":60,"type":"text","text":"Others"}
 	],
 	"edges":[
 		{"id":"fe932c4a153f90b9","fromNode":"8374c9a8634bb74c","fromSide":"right","toNode":"d023b586e3dbf526","toSide":"left"},
@@ -30,6 +37,13 @@
 		{"id":"1c560fa800572c07","fromNode":"8374c9a8634bb74c","fromSide":"right","toNode":"595b7c1327f04713","toSide":"left"},
 		{"id":"e72dc7e0cd5688b4","fromNode":"595b7c1327f04713","fromSide":"right","toNode":"28478f45b36fa0ae","toSide":"left"},
 		{"id":"1b77fbc4ccdc1503","fromNode":"d023b586e3dbf526","fromSide":"right","toNode":"20e2c4b82afc6005","toSide":"left"},
-		{"id":"1ac66b9dbba233b2","fromNode":"595b7c1327f04713","fromSide":"right","toNode":"bb6addb0a2862c69","toSide":"left"}
+		{"id":"1ac66b9dbba233b2","fromNode":"595b7c1327f04713","fromSide":"right","toNode":"bb6addb0a2862c69","toSide":"left"},
+		{"id":"198041ef382bf064","fromNode":"c61098bcecb3ad62","fromSide":"right","toNode":"ea4f8a58de400d6b","toSide":"left"},
+		{"id":"cc4fa6445fd207ec","fromNode":"ea4f8a58de400d6b","fromSide":"right","toNode":"0a81f5b6d4928df7","toSide":"left"},
+		{"id":"a1886a03f835425c","fromNode":"ea4f8a58de400d6b","fromSide":"right","toNode":"c57834ee35951194","toSide":"left"},
+		{"id":"5870e3e2110e8436","fromNode":"ea4f8a58de400d6b","fromSide":"right","toNode":"28c163a279761022","toSide":"left"},
+		{"id":"e635c02500ea9cda","fromNode":"ea4f8a58de400d6b","fromSide":"right","toNode":"19fd71bc07932b19","toSide":"left"},
+		{"id":"162c68802b1958bd","fromNode":"8374c9a8634bb74c","fromSide":"right","toNode":"c61098bcecb3ad62","toSide":"left"},
+		{"id":"304be47569447922","fromNode":"c61098bcecb3ad62","fromSide":"right","toNode":"dfce07d4d84e4af9","toSide":"left"}
 	]
 }
