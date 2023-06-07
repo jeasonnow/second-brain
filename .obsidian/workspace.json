@@ -11,14 +11,12 @@
             "id": "96f3bcb4ff748bab",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Spaces/1-Project/沟通的本质/沟通的本质.canvas",
-                "viewState": {
-                  "x": 286.2335436308924,
-                  "y": 383.7771449317997,
-                  "zoom": -0.304048150328133
-                }
+                "file": "Spaces/1-Project/Computer Science/操作系统/为什么学习操作系统.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -93,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/1-Project/沟通的本质/沟通的本质.canvas"
+                "file": "Spaces/1-Project/Computer Science/操作系统/为什么学习操作系统.md"
               }
             }
           },
@@ -103,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/1-Project/沟通的本质/沟通的本质.canvas",
+                "file": "Spaces/1-Project/Computer Science/操作系统/为什么学习操作系统.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Spaces/1-Project/沟通的本质/沟通的本质.canvas",
+                "file": "Spaces/1-Project/Computer Science/操作系统/为什么学习操作系统.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -150,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/1-Project/沟通的本质/沟通的本质.canvas",
+                "file": "Spaces/1-Project/Computer Science/操作系统/为什么学习操作系统.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,6 +231,7 @@
   },
   "active": "96f3bcb4ff748bab",
   "lastOpenFiles": [
+    "Spaces/1-Project/沟通的本质/沟通的本质.canvas",
     "Spaces/1-Project/沟通的本质/沟通的本质.md",
     "闪念笔记/Farnam/如何阅读一本书.md",
     "闪念笔记/计算机科学/操作系统/操作系统.md",
@@ -245,7 +244,6 @@
     "Calendar/Weekly Notes/2023-W22.md",
     "Calendar/About Calendar.md",
     "Calendar/Daily notes/2023-06-01.md",
-    "Spaces/1-Project/沟通的本质/沟通的本质.canvas",
     "Cards/费曼学习法.md",
     "Cards/Farnam Street Bolg.md",
     "闪念笔记/Farnam/空白页阅读.md",
@@ -259,7 +257,6 @@
     "Spaces/2-Area/Frontend/深入理解 Javascript 引擎.md",
     "Cards/巴菲特公式：睡觉比起床时更聪明.md",
     "Spaces/1-Project/Computer Science/操作系统/为什么学习操作系统.md",
-    "Calendar/Daily notes/2023-05-31.md",
     "Spaces/1-Project/沟通的本质",
     "闪念笔记/Farnam",
     "Sources/Books/kindle",
