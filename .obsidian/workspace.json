@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calendar/Daily notes/2023-06-07.md",
+                "file": "闪念笔记/others/行动起来.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -91,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calendar/Daily notes/2023-06-07.md"
+                "file": "闪念笔记/others/行动起来.md"
               }
             }
           },
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calendar/Daily notes/2023-06-07.md",
+                "file": "闪念笔记/others/行动起来.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Calendar/Daily notes/2023-06-07.md",
+                "file": "闪念笔记/others/行动起来.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calendar/Daily notes/2023-06-07.md",
+                "file": "闪念笔记/others/行动起来.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,8 +231,10 @@
   },
   "active": "96f3bcb4ff748bab",
   "lastOpenFiles": [
-    "闪念笔记/前端/React Server Component.md",
+    "闪念笔记/others/不给钱的金钱社会.md",
+    "闪念笔记/others/行动起来.md",
     "Calendar/Daily notes/2023-06-07.md",
+    "闪念笔记/前端/React Server Component.md",
     "闪念笔记/前端/knip.md",
     "Spaces/1-Project/Computer Science/操作系统/为什么学习操作系统.md",
     "Spaces/1-Project/沟通的本质/沟通的本质.canvas",
@@ -256,8 +258,6 @@
     "Spaces/2-Area/Frontend/Think Qwik.md",
     "Spaces/2-Area/Frontend/Relay.md",
     "Spaces/2-Area/Frontend/React.md",
-    "Spaces/2-Area/Frontend/React技术原理.md",
-    "Spaces/2-Area/Frontend/HMR 原理.md",
     "Spaces/1-Project/沟通的本质",
     "闪念笔记/Farnam",
     "Sources/Books/kindle",
