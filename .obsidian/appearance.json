@@ -11,5 +11,8 @@
   "baseFontSizeAction": true,
   "translucency": true,
   "showViewHeader": true,
-  "nativeMenus": true
+  "nativeMenus": true,
+  "interfaceFontFamily": "IntelOne Mono",
+  "textFontFamily": "IntelOne Mono",
+  "monospaceFontFamily": "IntelOne Mono"
 }

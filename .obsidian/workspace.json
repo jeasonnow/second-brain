@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calendar/Daily notes/2023-06-09.md",
+                "file": "闪念笔记/计算机科学/操作系统/操作系统的基础组成-进程.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -91,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calendar/Daily notes/2023-06-09.md"
+                "file": "闪念笔记/计算机科学/操作系统/操作系统的基础组成-进程.md"
               }
             }
           },
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calendar/Daily notes/2023-06-09.md",
+                "file": "闪念笔记/计算机科学/操作系统/操作系统的基础组成-进程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Calendar/Daily notes/2023-06-09.md",
+                "file": "闪念笔记/计算机科学/操作系统/操作系统的基础组成-进程.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calendar/Daily notes/2023-06-09.md",
+                "file": "闪念笔记/计算机科学/操作系统/操作系统的基础组成-进程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,8 +231,9 @@
   },
   "active": "a2fba4afd239ddd7",
   "lastOpenFiles": [
-    "闪念笔记/others/行动起来.md",
+    "闪念笔记/计算机科学/操作系统/操作系统.md",
     "Calendar/Daily notes/2023-06-09.md",
+    "闪念笔记/others/行动起来.md",
     "Calendar/Daily notes/2023-06-08.md",
     "闪念笔记/others/不给钱的金钱社会.md",
     "Calendar/Daily notes/2023-06-07.md",
@@ -242,7 +243,6 @@
     "Spaces/1-Project/沟通的本质/沟通的本质.canvas",
     "Spaces/1-Project/沟通的本质/沟通的本质.md",
     "闪念笔记/Farnam/如何阅读一本书.md",
-    "闪念笔记/计算机科学/操作系统/操作系统.md",
     "闪念笔记/计算机科学/操作系统/操作系统的核心是什么.md",
     "闪念笔记/计算机科学/操作系统/操作系统的基础组成-进程.md",
     "闪念笔记/计算机科学/操作系统/操作系统是什么.md",
