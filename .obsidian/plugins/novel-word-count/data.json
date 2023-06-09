@@ -1127,16 +1127,27 @@
       "modifiedDate": 1683683811150,
       "sizeInBytes": 357
     },
-    "Calendar/Daily notes/2023-06-08.md": {
+    "Calendar/Daily notes/2023-06-09.md": {
       "isDirectory": false,
       "noteCount": 1,
       "wordCount": 8,
       "pageCount": 0.02666666666666667,
       "characterCount": 69,
       "nonWhitespaceCharacterCount": 54,
-      "createdDate": 1686220014216,
-      "modifiedDate": 1686220014217,
+      "createdDate": 1686275465962,
+      "modifiedDate": 1686275465962,
       "sizeInBytes": 85
+    },
+    "Calendar/Daily notes/2023-06-08.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 23,
+      "pageCount": 0.07666666666666666,
+      "characterCount": 98,
+      "nonWhitespaceCharacterCount": 78,
+      "createdDate": 1686220014216,
+      "modifiedDate": 1686275463568,
+      "sizeInBytes": 146
     },
     "Calendar/Daily notes/2023-06-07.md": {
       "isDirectory": false,
