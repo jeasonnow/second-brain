@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calendar/Daily notes/2023-06-12.md",
+                "file": "Calendar/Daily notes/2023-06-15.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -91,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calendar/Daily notes/2023-06-12.md"
+                "file": "Calendar/Daily notes/2023-06-15.md"
               }
             }
           },
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calendar/Daily notes/2023-06-12.md",
+                "file": "Calendar/Daily notes/2023-06-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Calendar/Daily notes/2023-06-12.md",
+                "file": "Calendar/Daily notes/2023-06-15.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calendar/Daily notes/2023-06-12.md",
+                "file": "Calendar/Daily notes/2023-06-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,9 +231,10 @@
   },
   "active": "a2fba4afd239ddd7",
   "lastOpenFiles": [
+    "Calendar/Daily notes/2023-06-12.md",
+    "Calendar/Daily notes/2023-06-15.md",
     "Sources/Books/微信读书同步/个人成长/沟通的艺术.md",
     "闪念笔记/计算机科学/操作系统/操作系统的基础组成-进程.md",
-    "Calendar/Daily notes/2023-06-12.md",
     "闪念笔记/计算机科学/操作系统/操作系统.md",
     "Calendar/Daily notes/2023-06-09.md",
     "闪念笔记/others/行动起来.md",
@@ -257,7 +258,6 @@
     "Cards/费曼学习法.md",
     "Cards/Farnam Street Bolg.md",
     "闪念笔记/Farnam/空白页阅读.md",
-    "Spaces/2-Area/哲学社科/心智模型.md",
     "Spaces/1-Project/沟通的本质",
     "闪念笔记/Farnam",
     "Sources/Books/kindle",
