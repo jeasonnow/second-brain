@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "闪念笔记/others/总结.md",
+                "file": "闪念笔记/others/规则.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -91,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "闪念笔记/others/总结.md"
+                "file": "闪念笔记/others/规则.md"
               }
             }
           },
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "闪念笔记/others/总结.md",
+                "file": "闪念笔记/others/规则.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "闪念笔记/others/总结.md",
+                "file": "闪念笔记/others/规则.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "闪念笔记/others/总结.md",
+                "file": "闪念笔记/others/规则.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,8 +231,8 @@
   },
   "active": "a2fba4afd239ddd7",
   "lastOpenFiles": [
-    "闪念笔记/others/规则.md",
     "闪念笔记/others/总结.md",
+    "闪念笔记/others/规则.md",
     "Calendar/Daily notes/2023-06-15.md",
     "Calendar/Daily notes/2023-06-12.md",
     "Sources/Books/微信读书同步/个人成长/沟通的艺术.md",
