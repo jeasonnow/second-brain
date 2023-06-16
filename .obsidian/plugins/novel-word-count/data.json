@@ -49,16 +49,27 @@
       "modifiedDate": 1685515579822,
       "sizeInBytes": 786
     },
-    "闪念笔记/others/杂项.md": {
+    "闪念笔记/others/总结.md": {
       "isDirectory": false,
       "noteCount": 1,
       "wordCount": 0,
       "pageCount": 0,
       "characterCount": 0,
       "nonWhitespaceCharacterCount": 0,
-      "createdDate": 1686812904377,
-      "modifiedDate": 1686812904377,
+      "createdDate": 1686891806667,
+      "modifiedDate": 1686891806667,
       "sizeInBytes": 0
+    },
+    "闪念笔记/others/规则.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 171,
+      "pageCount": 0.57,
+      "characterCount": 200,
+      "nonWhitespaceCharacterCount": 173,
+      "createdDate": 1686812904377,
+      "modifiedDate": 1686891769090,
+      "sizeInBytes": 542
     },
     "闪念笔记/others/行动起来.md": {
       "isDirectory": false,
