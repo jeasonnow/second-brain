@@ -52,24 +52,24 @@
     "闪念笔记/others/总结.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
+      "wordCount": 86,
+      "pageCount": 0.2866666666666667,
+      "characterCount": 126,
+      "nonWhitespaceCharacterCount": 113,
       "createdDate": 1686891806667,
-      "modifiedDate": 1686891806667,
-      "sizeInBytes": 0
+      "modifiedDate": 1686892603188,
+      "sizeInBytes": 312
     },
     "闪念笔记/others/规则.md": {
       "isDirectory": false,
       "noteCount": 1,
       "wordCount": 171,
       "pageCount": 0.57,
-      "characterCount": 200,
+      "characterCount": 203,
       "nonWhitespaceCharacterCount": 173,
       "createdDate": 1686812904377,
-      "modifiedDate": 1686891769090,
-      "sizeInBytes": 542
+      "modifiedDate": 1686897946090,
+      "sizeInBytes": 545
     },
     "闪念笔记/others/行动起来.md": {
       "isDirectory": false,
@@ -1159,6 +1159,17 @@
       "createdDate": 1683613290392,
       "modifiedDate": 1683683811150,
       "sizeInBytes": 357
+    },
+    "Calendar/Daily notes/2023-06-26.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 8,
+      "pageCount": 0.02666666666666667,
+      "characterCount": 69,
+      "nonWhitespaceCharacterCount": 54,
+      "createdDate": 1687760096564,
+      "modifiedDate": 1687760096564,
+      "sizeInBytes": 85
     },
     "Calendar/Daily notes/2023-06-15.md": {
       "isDirectory": false,
