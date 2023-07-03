@@ -533,6 +533,17 @@
       "modifiedDate": 1681783155158,
       "sizeInBytes": 1781
     },
+    "Spaces/3-Resource/日常思考/Saas 系统中客开和标准分支的差异思考.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1688369976297,
+      "modifiedDate": 1688369976297,
+      "sizeInBytes": 0
+    },
     "Spaces/3-Resource/日常思考/一个优秀的 Bug 应该是怎样的？.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -1163,13 +1174,13 @@
     "Calendar/Daily notes/2023-06-29.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 8,
-      "pageCount": 0.02666666666666667,
-      "characterCount": 69,
-      "nonWhitespaceCharacterCount": 54,
+      "wordCount": 25,
+      "pageCount": 0.08333333333333333,
+      "characterCount": 100,
+      "nonWhitespaceCharacterCount": 77,
       "createdDate": 1688015695328,
-      "modifiedDate": 1688015695328,
-      "sizeInBytes": 85
+      "modifiedDate": 1688015720153,
+      "sizeInBytes": 150
     },
     "Calendar/Daily notes/2023-06-28.md": {
       "isDirectory": false,
