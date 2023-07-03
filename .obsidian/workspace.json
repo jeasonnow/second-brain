@@ -38,9 +38,9 @@
             "id": "a4d1994dfc9f1870",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
+              "type": "diagram-edit",
               "state": {
-                "sortOrder": "alphabetical"
+                "file": "Spaces/3-Resource/日常思考/Untitled Diagram.svg"
               }
             }
           },
@@ -164,7 +164,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 336.5
+    "width": 336.5,
+    "collapsed": true
   },
   "right": {
     "id": "c718ea3b78af998f",
@@ -231,8 +232,9 @@
   },
   "active": "a2fba4afd239ddd7",
   "lastOpenFiles": [
-    "Sources/About Sources.md",
+    "Spaces/3-Resource/日常思考/Untitled Diagram.svg",
     "Spaces/3-Resource/日常思考/Saas 系统中客开和标准分支的差异思考.md",
+    "Sources/About Sources.md",
     "Calendar/Daily notes/2023-06-29.md",
     "Calendar/Daily notes/2023-06-28.md",
     "Calendar/Daily notes/2023-06-27.md",
@@ -257,7 +259,6 @@
     "闪念笔记/Farnam/如何阅读一本书.md",
     "闪念笔记/计算机科学/操作系统/操作系统的核心是什么.md",
     "闪念笔记/计算机科学/操作系统/操作系统是什么.md",
-    "闪念笔记/计算机科学/操作系统/教育的意义.md",
     "Spaces/1-Project/沟通的本质",
     "闪念笔记/Farnam",
     "Sources/Books/kindle",
@@ -283,7 +284,6 @@
     "Extras/Media/Pasted image 20230305120820.png",
     "Extras/Media/Pasted image 20230305122456.png",
     "Extras/Media/Pasted image 20230312131834.png",
-    "Extras/Media/Pasted image 20230317221306.png",
     "Atlas/Canvas/🧩 如何学会减脂和健身.canvas",
     "Atlas/Canvas/🧩 canvas 嵌入高级视图使用示例.canvas",
     "Atlas/Canvas/🧩 如何构建第二大脑.canvas"
