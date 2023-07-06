@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5a9ecdf68019612a",
+        "id": "0becca79579bd030",
         "type": "tabs",
         "children": [
           {
-            "id": "a2fba4afd239ddd7",
+            "id": "d5dc2c87f18b3baf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spaces/3-Resource/日常思考/Saas 系统中客开和标准分支的差异思考.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -32,7 +27,7 @@
       {
         "id": "987dbc5670d8f4fa",
         "type": "tabs",
-        "dimension": 63.92785571142284,
+        "dimension": 64.83412322274881,
         "children": [
           {
             "id": "a4d1994dfc9f1870",
@@ -83,7 +78,7 @@
       {
         "id": "92910ae8836a7b22",
         "type": "tabs",
-        "dimension": 36.07214428857716,
+        "dimension": 35.165876777251185,
         "children": [
           {
             "id": "46ac18e336e17ae3",
@@ -91,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/3-Resource/日常思考/Saas 系统中客开和标准分支的差异思考.md"
+                "file": "Spaces/3-Resource/日常思考/Untitled Diagram.svg"
               }
             }
           },
@@ -101,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/3-Resource/日常思考/Saas 系统中客开和标准分支的差异思考.md",
+                "file": "Spaces/3-Resource/日常思考/Untitled Diagram.svg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +108,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Spaces/3-Resource/日常思考/Saas 系统中客开和标准分支的差异思考.md",
+                "file": "Spaces/3-Resource/日常思考/Untitled Diagram.svg",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/3-Resource/日常思考/Saas 系统中客开和标准分支的差异思考.md",
+                "file": "Spaces/3-Resource/日常思考/Untitled Diagram.svg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +159,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 336.5,
+    "width": 945.5,
     "collapsed": true
   },
   "right": {
@@ -230,10 +225,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a2fba4afd239ddd7",
+  "active": "a4d1994dfc9f1870",
   "lastOpenFiles": [
-    "Spaces/3-Resource/日常思考/Untitled Diagram.svg",
     "Spaces/3-Resource/日常思考/Saas 系统中客开和标准分支的差异思考.md",
+    "Spaces/3-Resource/日常思考/Untitled Diagram.svg",
     "Sources/About Sources.md",
     "Calendar/Daily notes/2023-06-29.md",
     "Calendar/Daily notes/2023-06-28.md",
