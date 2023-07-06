@@ -33,9 +33,12 @@
             "id": "a4d1994dfc9f1870",
             "type": "leaf",
             "state": {
-              "type": "diagram-edit",
+              "type": "markdown",
               "state": {
-                "file": "Spaces/3-Resource/日常思考/Untitled Diagram.svg"
+                "file": "Calendar/Daily notes/2023-07-06.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           },
@@ -72,6 +75,16 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "cc002881c0c2b633",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
           }
         ]
       },
@@ -86,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/3-Resource/日常思考/Untitled Diagram.svg"
+                "file": "Calendar/Daily notes/2023-07-06.md"
               }
             }
           },
@@ -96,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/3-Resource/日常思考/Untitled Diagram.svg",
+                "file": "Calendar/Daily notes/2023-07-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +121,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Spaces/3-Resource/日常思考/Untitled Diagram.svg",
+                "file": "Calendar/Daily notes/2023-07-06.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -143,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/3-Resource/日常思考/Untitled Diagram.svg",
+                "file": "Calendar/Daily notes/2023-07-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,8 +240,9 @@
   },
   "active": "a4d1994dfc9f1870",
   "lastOpenFiles": [
-    "Spaces/3-Resource/日常思考/Saas 系统中客开和标准分支的差异思考.md",
     "Spaces/3-Resource/日常思考/Untitled Diagram.svg",
+    "Calendar/Daily notes/2023-07-06.md",
+    "Spaces/3-Resource/日常思考/Saas 系统中客开和标准分支的差异思考.md",
     "Sources/About Sources.md",
     "Calendar/Daily notes/2023-06-29.md",
     "Calendar/Daily notes/2023-06-28.md",
@@ -253,7 +267,6 @@
     "Spaces/1-Project/沟通的本质/沟通的本质.md",
     "闪念笔记/Farnam/如何阅读一本书.md",
     "闪念笔记/计算机科学/操作系统/操作系统的核心是什么.md",
-    "闪念笔记/计算机科学/操作系统/操作系统是什么.md",
     "Spaces/1-Project/沟通的本质",
     "闪念笔记/Farnam",
     "Sources/Books/kindle",
