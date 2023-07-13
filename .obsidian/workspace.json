@@ -11,8 +11,13 @@
             "id": "12904ebdc928ac66",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Calendar/Daily notes/2023-07-13.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -98,7 +103,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Calendar/Daily notes/2023-07-13.md"
+              }
             }
           },
           {
@@ -107,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Calendar/Daily notes/2023-07-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,6 +126,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Calendar/Daily notes/2023-07-13.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -152,6 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Calendar/Daily notes/2023-07-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,6 +245,7 @@
   },
   "active": "12904ebdc928ac66",
   "lastOpenFiles": [
+    "Calendar/Daily notes/2023-07-13.md",
     "Calendar/Daily notes/2023-07-06.md",
     "Spaces/3-Resource/日常思考/Untitled Diagram.svg",
     "Spaces/3-Resource/日常思考/Saas 系统中客开和标准分支的差异思考.md",
